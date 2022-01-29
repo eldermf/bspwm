@@ -35,16 +35,19 @@ Dependencies
     Ubuntu/Debian: $ sudo apt-get install libxcb-xinerama0-dev libxcb-icccm4-dev libxcb-randr0-dev libxcb-util0-dev libxcb-ewmh-dev libxcb-keysyms1-dev libxcb-shape0-dev
 
 Building and Installing
+
 $ git clone https://github.com/baskerville/bspwm.git
 $ git clone https://github.com/baskerville/sxhkd.git
 $ cd bspwm && make && sudo make install
 $ cd ../sxhkd && make && sudo make install
 
 Uninstalling
+
 $ cd bspwm && sudo make uninstall
 $ cd ../sxhkd && sudo make uninstall
 
 Running bspwm
+
 You'll need to copy the example configurations to your ~/.config folder. Ensure ~/.config/bspwm/bspwmrc is executable.
 
 $ mkdir -p ~/.config/{bspwm,sxhkd}
