@@ -1,0 +1,34 @@
+# Font configuration
+font:
+  # Normal (roman) font face
+  normal:
+    family: "Monaco for Powerline"
+    #style: Regular
+
+  # Bold font face
+  bold:
+    family: "Monaco for Powerline"
+    #style: Bold
+
+  # Italic font face
+  italic:
+    family: "Monaco for Powerline"
+    #style: Italic
+
+  # Bold italic font face
+  bold_italic:
+    family: "Monaco for Powerline"
+    #style: Bold Italic
+
+  # Point size
+  size: 11
+
+  # Offset
+  #offset:
+  #  x: 0
+  #  y: 0
+
+  # Glyph offset
+  #glyph_offset:
+  #  x: 0
+  #  y: 0

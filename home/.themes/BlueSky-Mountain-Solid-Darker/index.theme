@@ -1,0 +1,9 @@
+[X-GNOME-Metatheme]
+Name=BlueSky
+Type=X-GNOME-Metatheme
+Comment= BlueSky Gtk Themes 
+Encoding=UTF-8
+GtkTheme=BlueSky-Mountain-Darker
+IconTheme=Papirus-Light
+CursorTheme=Adwaita
+CursorSize=24

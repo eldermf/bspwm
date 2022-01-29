@@ -1,0 +1,59 @@
+;=========================================================
+;
+;
+;   ██████╗  ██████╗ ██╗  ██╗   ██╗██████╗  █████╗ ██████╗
+;   ██╔══██╗██╔═══██╗██║  ╚██╗ ██╔╝██╔══██╗██╔══██╗██╔══██╗
+;   ██████╔╝██║   ██║██║   ╚████╔╝ ██████╔╝███████║██████╔╝
+;   ██╔═══╝ ██║   ██║██║    ╚██╔╝  ██╔══██╗██╔══██║██╔══██╗
+;   ██║     ╚██████╔╝███████╗██║   ██████╔╝██║  ██║██║  ██║
+;   ╚═╝      ╚═════╝ ╚══════╝╚═╝   ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝
+;
+;
+;==========================================================
+
+[global/wm]
+include-file = ~/.config/polybar/modules
+include-file = ~/.config/polybar/colors
+
+;  _                    
+; | |__   __ _ _ __  
+; | '_ \ / _` | '__/
+; | |_) | (_| | |  
+; |_.__/ \__,_|_|  
+
+[bar/top]
+enable-ipc=true
+
+height = 35
+width = 98%
+
+font-0 = Source Code Pro Medium:size=10;2
+font-1 = Iosevka Nerd Font:size=10;2
+font-2 = Weather Icons:size=9;2
+
+offset-x = 1%
+offset-y = 1%
+
+radius = 10
+border-size = 0
+
+border-color = ${color.foreground}
+background = ${color.background}
+foreground = ${color.foreground}
+
+tray-position=right
+tray-detached=false
+line-size = 2
+
+padding=1
+
+;modules-left =   launcher bspwm sep mod  
+modules-left =   bspwm sep mod  
+modules-center = mpd sep cava
+modules-right =  checkupdates sep volume sep weather sep memory filesystem sep time powermenu
+
+scroll-up = bspwn-wsnext 
+scroll-down = bspwn-wsprev
+
+override-redirect = false
+wm-restack = bspwm

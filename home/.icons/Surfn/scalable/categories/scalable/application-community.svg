@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" version="1">
+ <path d="M 24,12 C 33.288673,2.7151975 44.083965,9.1945377 44,18 C 43.923241,26.049724 39.419303,27.68195 24,42 C 7.8606329,28.680116 3.9160346,27.550728 4,18 C 4.0839653,8.1135477 13.605704,3.0528803 24,12 z" style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:8;stroke-opacity:1"/>
+ <path style="fill:#e04613;fill-opacity:1;fill-rule:evenodd;" d="M 24,12 C 33.288673,2.7151975 44.083965,9.1945377 44,18 C 43.923241,26.049724 39.419303,27.68195 24,42 C 7.8606329,28.680116 3.9160346,27.550728 4,18 C 4.0839653,8.1135477 13.605704,3.0528803 24,12 z"/>
+</svg>

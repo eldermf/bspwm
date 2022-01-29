@@ -1,0 +1,43 @@
+==========[15/12/2018]==========
+Rage cursor created by darkeye90
+by using inkscape and gimp.
+==========[Definition]==========
+Rage cursor is a collection of symbols that I've made to represent rage and evil.
+it's going to match both dark and light themes.
+==========[Support]==========
+You can support me by buying my merch 
+Red
+https://teespring.com/rage-collection?4tea8#pid=212&cid=5818&sid=front
+Blue 50% of the price will be for St.Jude children's research hospital
+https://teespring.com/rage-blue#pid=212&cid=5832&sid=front
+Purple 50% of the price will be for St.Jude children's research hospital
+https://teespring.com/rage-purple#pid=2&cid=2123&sid=front
+
+or 
+
+buy me a coffee
+https://ko-fi.com/darkeye
+==========[Color]==========
+1- Gothic======>Dark Grey and red 
+2- Gothic-Ligh=>LightGrey and red
+3- Blood=======>Red  
+4- Water=======>Blue
+5- Lavender====>Purple
+==========[Size]==========
+
+only 36x36 available. 
+
+==========[installation]==========
+copy Rage-Purple-Cursor to ~/.icons 
+cp -a  Rage-Purple-Cursor ~/.icons
+
+or 
+
+create a link 
+cd /usr/share/icons
+sudo ln -s [/home/USER-NAME/Eye-candy/Cursors/Rage-Purple-Cursor]
+enter the directory of the theme instead of what I've entered between the [ ] brackets 
+*note enter directory without [ ] brackets *
+==========[Credit]==========  
+abaddon fonts
+https://www.dafont.com/abaddon.font

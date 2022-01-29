@@ -1,0 +1,10 @@
+[Trigger]
+Operation = Install
+Operation = Upgrade
+Type = Package
+Target = arcolinux-system-config-git
+
+[Action]
+Description = Change to ArcoLinux specific logo
+When = PostTransaction
+Exec = /bin/sh -c "cp /usr/share/pixmaps/arcolinux.svg /usr/share/pixmaps/archlinux.svg"

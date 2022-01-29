@@ -1,0 +1,425 @@
+;                      _       _           
+;  _ __ ___   ___   __| |_   _| | ___  ___ 
+; | '_ ` _ \ / _ \ / _` | | | | |/ _ \/ __|
+; | | | | | | (_) | (_| | |_| | |  __/\__ \
+; |_| |_| |_|\___/ \__,_|\__,_|_|\___||___/
+;
+
+
+[module/sep]
+type = custom/text
+;content = ◆
+content = ""
+
+content-background = ${color.background}
+content-foreground = ${color.altblack}
+content-padding = 1
+
+##################################################
+##################################################
+##################################################
+
+[module/launcher]
+type=custom/text
+content = 
+content-foreground = ${color.altcyan}
+content-background = ${#282a36} 
+content-padding=1
+click-left = rofi -modi drun -show drun -line-padding 4 -columns 2 -padding 50 -hide-scrollbar -terminal alacritty -show-icons -drun-icon-theme "Arc-X-D" -font "MonacoB 12"
+
+##################################################
+##################################################
+##################################################
+
+[module/backlight]
+type = internal/xbacklight
+
+card = intel_backlight
+
+format = <ramp> <label>
+
+label = %percentage%%
+
+ramp-0 = 
+ramp-1 = 
+ramp-2 = 
+ramp-3 = 
+ramp-4 = 
+ramp-5 = 
+ramp-6 = 
+ramp-7 = 
+ramp-8 = 
+ramp-9 = 
+ramp-foreground = ${color.yellow}
+
+##################################################
+##################################################
+##################################################
+
+[module/bspwm]
+type = internal/bspwm
+
+pin-workspaces = true
+inline-mode = false
+
+enable-click = true
+enable-scroll = true
+reverse-scroll = true
+
+fuzzy-match = true
+
+ws-icon-0=I;
+ws-icon-1=II;
+ws-icon-2=III;
+ws-icon-3=IV;
+ws-icon-4=V;
+ws-icon-5=VI;
+ws-icon-6=VII;
+ws-icon-7=VIII;漣
+ws-icon-8=IX;
+ws-icon-9=X;
+ws-icon-default = 
+
+format = <label-state>
+format-font = 2
+
+label-monitor = %name%
+
+label-focused = %name%
+label-focused-foreground = ${color.blue}
+label-focused-background = ${color.background}
+label-focused-underline =  ${color.blue}
+label-focused-padding = 1
+
+label-occupied = %name%
+label-occupied-foreground = ${color.green}
+label-occupied-background = ${color.background}
+;label-occupied-underline = 
+label-occupied-padding = 1
+
+label-urgent = %name%
+label-urgent-foreground = ${color.red}
+label-urgent-background = ${color.background}
+label-urgent-underline =  ${color.red}
+label-urgent-padding = 1
+
+label-empty = %name%
+label-empty-foreground = ${color.foreground}
+label-empty-padding = 1
+
+; Separator in between workspaces
+label-separator = "∙"
+label-separator-padding = 0
+label-separator-foreground = ${color.altblack} 
+
+##################################################
+##################################################
+##################################################
+
+[module/mod]
+type = internal/bspwm
+
+format = <label-mode>
+format-background = ${color.background}
+format-foreground = ${color.green}
+format-padding = 1
+
+label-monocle = "[M]"
+label-tiled = "[]="
+
+label-floating = ", ><>"
+label-pseudotiled = ", Pseudo"
+label-fullscreen = ", Full"
+
+label-locked = " | Locked"
+label-sticky = " | Sticky"
+label-private = " | Private"
+
+##################################################
+##################################################
+##################################################
+
+[module/cpu]
+type = internal/cpu
+interval = 1
+format-prefix = " "
+format-padding = 0
+format-prefix-foreground = ${color.green}
+format-foreground = ${color.foreground}
+label = %percentage%%
+
+##################################################
+##################################################
+##################################################
+
+[module/memory]
+type = internal/memory
+
+interval = 1
+
+format = <label>
+format-prefix = ""
+format-prefix-foreground = ${color.yellow}
+format-foreground = ${color.foreground}
+
+label = " %mb_used% "
+
+##################################################
+##################################################
+##################################################
+
+[module/filesystem]
+type = internal/fs
+
+mount-0 = /
+interval = 30
+fixed-values = true
+
+format-mounted = <label-mounted>
+format-mounted-prefix = ""
+format-mounted-prefix-foreground = ${color.cyan}
+
+format-unmounted = <label-unmounted>
+format-unmounted-prefix = " "
+format-unmounted-prefix-foreground = ${color.cyan}
+
+label-mounted = " %percentage_used%%"
+label-unmounted = " %mountpoint%: NA"
+
+
+##################################################
+##################################################
+##################################################
+
+[module/time]
+type = internal/date
+interval = 1
+format-margin = 0
+time = "%H:%M"
+date = "%A, %d/%m/%y"
+
+format-prefix = 
+format-prefix-foreground = ${color.blue}
+format-prefix-background = ${color.background}
+
+label = %date%, %time%
+label-foreground = ${color.foreground}
+label-background = ${color.background}
+label-padding = 1
+
+##################################################
+##################################################
+##################################################
+
+[module/volume]
+type = internal/pulseaudio
+
+format-volume = "<label-volume> <bar-volume>"
+format-volume-background = ${colors.red}
+format-volume-padding = 
+label-volume ="墳 %percentage%%"
+label-volume-foreground = ${colors.text}
+
+label-muted = 󰖁 muted
+label-muted-foreground = #666
+label-muted-background = ${colors.blue}
+bar-volume-width = 2
+bar-volume-foreground-0 = ${colors.text}
+bar-volume-foreground-1 = ${colors.text}
+bar-volume-foreground-2 = ${colors.text}
+bar-volume-foreground-3 = ${colors.text}
+bar-volume-foreground-4 = ${colors.text}
+bar-volume-foreground-5 = #f5a70a
+bar-volume-foreground-6 = #ff5555
+bar-volume-gradient = false
+bar-volume-indicator =  
+bar-volume-indicator-font = 2
+bar-volume-fill = 
+bar-volume-fill-font = 2
+bar-volume-empty = 
+bar-volume-empty-font = 2
+bar-volume-empty-foreground = #fff
+
+##################################################
+##################################################
+##################################################
+
+[module/temperature]
+type = internal/temperature
+thermal-zone = 0
+warn-temperature = 60
+
+format =  <label>
+format-warn = <ramp> <label-warn>
+
+label = %temperature-c%
+label-warn = %temperature-c%
+label-warn-color1 = ${color.secondary}
+
+ramp-0 = 
+ramp-1 = 
+ramp-2 = 
+
+##################################################
+##################################################
+##################################################
+
+[module/powermenu]
+type = custom/text
+content = "襤"
+click-left = ~/.config/rofi/powermenu.sh
+;content-background = ${color.blue-darker}
+content-foreground = ${color.red}
+content-padding = 1
+margin-right = 0
+
+
+##################################################
+##################################################
+##################################################
+
+[module/battery]
+type = internal/battery
+
+full-at = 100
+
+battery = ${system.battery}
+adapter = ${system.adapter}
+
+poll-interval = 2
+time-format = %H:%M
+
+format-charging = <animation-charging> <label-charging>
+format-charging-prefix = 
+
+format-discharging = <ramp-capacity> <label-discharging>
+
+format-full = <label-full>
+format-full-prefix = " "
+format-full-prefix-font = 2
+format-full-prefix-foreground = ${color.foreground}
+
+label-charging = %percentage%%
+label-discharging = %percentage%%
+label-full = %percentage%%
+
+ramp-capacity-0 = 
+ramp-capacity-1 = 
+ramp-capacity-2 = 
+ramp-capacity-3 = 
+ramp-capacity-4 = 
+ramp-capacity-font = 2
+ramp-capacity-foreground = ${color.foreground}
+
+animation-charging-0 = 
+animation-charging-1 = 
+animation-charging-2 = 
+animation-charging-3 = 
+animation-charging-4 = 
+animation-charging-font = 2
+animation-charging-foreground = ${color.foreground}
+animation-charging-framerate = 750
+
+##################################################
+##################################################
+##################################################
+
+[module/mpd]
+type = internal/mpd
+
+host = 127.0.0.1
+port = 6600
+password = 
+
+interval = 2
+
+;format-online = <label-song> <icon-prev> <toggle> <icon-next>
+;format-online = <icon-prev> <toggle> <icon-next>
+format-online = <icon-prev> <toggle> <icon-next> <label-time>
+format-online-prefix = " "
+format-online-prefix-foreground = ${color.GREEN}
+
+format-playing = ${self.format-online}
+;format-paused = <label-song> <toggle>
+;format-paused = <toggle>
+format-paused = <icon-prev> <toggle> <icon-next>
+
+format-offline = <label-offline>
+format-offline-prefix = " "
+format-offline-prefix-foreground = ${color.RED}
+label-offline = "Offline"
+
+;label-song =  "%title% | %artist%"
+;label-song-maxlen = 40
+;label-song-ellipsis = true
+
+icon-play = 
+icon-play-font = 2
+icon-play-foreground = ${color.GREEN}
+icon-pause = 
+icon-pause-font = 2
+icon-pause-foreground = ${color.YELLOW}
+icon-stop = 
+icon-stop-foreground = ${color.RED}
+icon-prev = 玲
+icon-prev-font = 2
+icon-prev-foreground = ${color.CYAN}
+icon-next = 怜
+icon-next-font = 2
+icon-next-foreground = ${color.CYAN}
+
+##################################################
+##################################################
+##################################################
+
+[module/checkupdates]
+type = custom/script
+interval = 900s
+exec = ~/.config/polybar/scripts/checkupdates.sh
+format-foreground = ${color.yellow}
+
+##################################################
+##################################################
+##################################################
+
+[module/weather]
+type = custom/script
+exec = ~/.config/polybar/scripts/weather.sh
+interval = 600
+label-font = 3
+format-foreground = ${color.green}
+
+##################################################
+##################################################
+##################################################
+
+[module/cava]
+type = custom/script
+exec = ~/.config/polybar/scripts/cava.py -f 24 -b 12 -e fffdfc,fffafe,ffeafa,ffc3d2 -c average
+tail = true
+
+##################################################
+##################################################
+##################################################
+
+[settings]
+screenchange-reload = true
+
+##################################################
+##################################################
+##################################################
+
+[config]
+; You can find these details from xfce4-power-manager-settings or atleast that's what i use.
+battery-full-at = 100
+battery-bat = BAT1
+battery-adp = ACAD
+
+
+##################################################
+##################################################
+##################################################
+
+[global/wm]
+margin-top = 0
+margin-bottom = 0

@@ -1,0 +1,13 @@
+[Desktop Entry]
+Name=Artix-dark
+Type=X-GNOME-Metatheme
+Comment=Artix dark theme
+
+[X-GNOME-Metatheme]
+GtkTheme=Artix-dark
+MetacityTheme=Spidey
+IconTheme=matefaenzadark
+GtkColorScheme=base_color:#2B2B2C,fg_color:#e3e3e3,tooltip_fg_color:#eaeaea,selected_bg_color:#4080fb,selected_fg_color:#eaeaea,text_color:#e3e3e3,bg_color:#323131,insensitive_bg_color:#434446,tooltip_bg_color:#343434,link_color:#4080fb
+CursorTheme=Premium
+CursorSize=24
+NotificationTheme=standard

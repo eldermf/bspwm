@@ -1,0 +1,9 @@
+active_text_color=#ffffff
+active_text_shadow_color=#43486B
+button_layout=O|HMC
+button_offset=0
+button_spacing=0
+full_width_title=true
+inactive_text_color=#ffffff
+title_shadow_active=true
+title_shadow_inactive=true

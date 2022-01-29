@@ -1,0 +1,15 @@
+# Static information about the filesystems.
+# See fstab(5) for details.
+
+# <file system> <dir> <type> <options> <dump> <pass>
+# /dev/sda2
+UUID=6f3251f7-7399-467b-86cb-c7f93ef8fb9d	/         	ext4      	rw,relatime	0 1
+
+# /dev/sda1
+UUID=181B-27F8      	/boot/efi 	vfat      	rw,relatime,fmask=0022,dmask=0022,codepage=437,iocharset=ascii,shortname=mixed,utf8,errors=remount-ro	0 2
+
+# /dev/sdb1
+UUID=65b2f327-e4ab-42c3-a38b-89ed21df570f   /run/media/eldermf/virus_900    ext4   defaults,noatime     0 3
+
+/swapfile           	none      	swap      	defaults  	0 0
+

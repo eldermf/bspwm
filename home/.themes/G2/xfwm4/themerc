@@ -1,0 +1,10 @@
+active_text_color=#ffffff
+active_text_shadow_color=#6b6d63
+button_offset=3
+button_spacing=3
+full_width_title=true
+inactive_text_color=#000000
+title_shadow_active=true
+title_shadow_inactive=false
+title_vertical_offset_active=1
+title_vertical_offset_inactive=1

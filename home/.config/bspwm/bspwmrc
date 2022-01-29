@@ -1,0 +1,105 @@
+#! /bin/sh
+
+# Restore wallpaper
+bash $HOME/.config/bspwm/.fehbg
+
+pgrep -x sxhkd > /dev/null || sxhkd &
+$HOME/.config/polybar/launch.sh
+
+workspaces() {
+	name=1
+	for monitor in `bspc query -M`; do
+		bspc monitor ${monitor} -n "$name" -d '' '' '' '' '' '' '' '漣' '' ''
+		let name++
+	done
+}
+workspaces
+
+# bspc monitor -d I II III IV V VI VII VIII IX
+
+bspc config border_width         5
+bspc config window_gap           10
+bspc config split_ratio          0.50
+
+bspc config borderless_monocle    true
+bspc config gapless_monocle       true
+bspc config paddingless_monocle   true
+bspc config single_monocle        false
+bspc config focus_follows_pointer true
+
+bspc config automatic_scheme spiral
+bspc config initial_polarity first_child
+bspc config removal_adjustment	  true
+
+bspc config focused_border_color  "#7c0487"
+bspc config normal_border_color   "#282a36"
+bspc config active_border_color   "#a17f2a"
+bspc config presel_border_color   "#2E64FE"
+bspc config urgent_border_color   "#2E64FE"
+bspc config presel_feedback_color "#2E64FE"
+
+
+# fix pointer
+xsetroot -cursor_name left_ptr
+
+bspc rule -a Gimp-2.10 desktop='^7' state=floating follow=on
+bspc rule -a Inkscape desktop='^7' state=floating follow=on
+bspc rule -a kolourpaint desktop='^7' state=floating follow=on
+bspc rule -a "VirtualBox Manager" desktop='^8' state=floating follow=on
+bspc rule -a Chromium desktop='^2'
+bspc rule -a firefox desktop='^2' follow=on focus=on
+bspc rule -a Google-chrome desktop='^2' follow=on focus=on
+bspc rule -a Alacritty desktop='^1' follow=on focus=on
+bspc rule -a subl desktop='^4' follow=on focus=on
+bspc rule -a vlc desktop='^5' state=floating follow=on focus=on
+bspc rule -a Nemo desktop='^3' follow=on focus=on
+bspc rule -a Gedit desktop='^4' follow=on focus=on
+bspc rule -a TelegramDesktop desktop='^9' follow=on focus=on
+bspc rule -a mplayer2 state=floating
+bspc rule -a Yad state=floating
+bspc rule -a Kupfer.py focus=on
+bspc rule -a Screenkey manage=off
+bspc rule -a Viewnior state=floating follow=on focus=on
+bspc rule -a Xfce4-appfinder state=floating rectangle=1280x530+300+300
+bspc rule -a Xfce4-appfinder --collapsed state=floating rectangle=1280x530
+
+## Autostart
+
+# Set display from arandr saved script
+sh ~/.screenlayout/monitors.sh &
+
+# Notifications
+/usr/bin/dunst &
+
+# Polkit
+/usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1 &
+# /usr/libexec/xfce-polkit &  # Void linux
+
+# Wallpaper
+nitrogen --restore &
+
+# Launch keybindings daemon
+sxhkd &
+
+# Enable power management
+xfce4-power-manager &
+
+# Start udiskie
+udiskie &
+udisks2 &
+
+# Keyboard
+/usr/bin/numlockx on &
+setxkbmap -model abnt2 -layout br -variant abnt2 &
+xset led 3 &
+xset s off &
+xset -dpms &
+
+# start compositor
+picom --config $HOME/.config/picom.conf &
+
+# Start MPD
+# mpd >/dev/null 2>&1 &
+exec mpd &
+# mpd &
+# mpdupdate &

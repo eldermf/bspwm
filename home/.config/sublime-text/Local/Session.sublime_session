@@ -1,0 +1,588 @@
+{
+	"folder_history":
+	[
+	],
+	"last_version": 4126,
+	"last_window_id": 11,
+	"log_indexing": false,
+	"next_update_check": 1643561114,
+	"settings":
+	{
+		"new_window_full_screen": false,
+		"new_window_height": 738.0,
+		"new_window_maximized": false,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/eldermf/Downloads/bspwm/README.md",
+				"/home/eldermf/.config/rofi/powermenu.rasi",
+				"/home/eldermf/.src/bspwm/README.md",
+				"/home/eldermf/.config/dwm/config.def.h",
+				"/home/eldermf/Downloads/arcolinux-dwm-master/usr/share/xsessions/dwm.desktop",
+				"/home/eldermf/.config/dwm/autostart.sh",
+				"/home/eldermf/.config/dwm/sxhkd/sxhkdrc",
+				"/home/eldermf/.config/st/config.def.h",
+				"/home/eldermf/.config/slstatus/config.def.h",
+				"/home/eldermf/.config/dwm/scripts/picom-toggle.sh",
+				"/home/eldermf/.screenlayout/monitors.sh",
+				"/home/eldermf/.config/dwm/etc/skel/.config/arco-dwm/autostart.sh",
+				"/home/eldermf/.config/dwm/usr/share/xsessions/dwm.desktop",
+				"/home/eldermf/.config/dwm/make-package.sh",
+				"/home/eldermf/.config/sxhkd/sxhkdrc",
+				"/home/eldermf/.config/bspwm/bspwmrc",
+				"/home/eldermf/.xinitrc",
+				"/home/eldermf/.vim_runtime/vimrcs/basic.vim",
+				"/home/eldermf/.src/dwm/config.def.h",
+				"/home/eldermf/.config/dwm/dwm.desktop",
+				"/run/media/eldermf/virus_900/Programas/Pre-configuracoes/MyHome-26SET2021-Arch_DWM/home/.config/dwm/autostart.sh",
+				"/run/media/eldermf/virus_900/Programas/Pre-configuracoes/MyHome-Ultimo_25JUN2021_DWM-Artix_OpenRC/home/.config/dwm/autostart.sh",
+				"/run/media/eldermf/virus_900/Programas/Pre-configuracoes/MyHome-Ultimo_25JUN2021_DWM-Artix_OpenRC/home/.config/dwm/config.def.h",
+				"/home/eldermf/.config/dwm/layouts.c",
+				"/run/media/eldermf/virus_900/Programas/Pre-configuracoes/MyHome-26SET2021-Arch_DWM/home/.config/dwm/config.def.h",
+				"/run/media/eldermf/virus_900/Programas/Pre-configuracoes/MyHome-26SET2021-Arch_DWM/home/.xinitrc",
+				"/run/media/eldermf/virus_900/Programas/Pre-configuracoes/MyHome-26SET2021-Arch_DWM/home/.config/dwm/sxhkd/sxhkdrc",
+				"/home/eldermf/Downloads/arch-bspwm-master-.config/.config/polybar/bspwm.sh",
+				"/home/eldermf/Downloads/arch-bspwm-master-.config/.config/polybar/launch.sh",
+				"/home/eldermf/Downloads/arch-bspwm-master-.config/.config/polybar/config",
+				"/home/eldermf/Downloads/arch-bspwm-master-.config/.config/polybar/modules.ini",
+				"/home/eldermf/.config/alacritty/alacritty.yml",
+				"/tmp/Alacritty-32174.log",
+				"/home/eldermf/Downloads/EndeavourOS_Atlantis_neo-21_5.iso.sha512sum",
+				"/home/eldermf/.vimrc",
+				"/home/eldermf/.config/nemo/bookmark-metadata",
+				"/home/eldermf/.config/alacritty/colors.yml",
+				"/home/eldermf/Downloads/arch-bspwm-main/README.md",
+				"/home/eldermf/.config/polybar/modules",
+				"/run/media/eldermf/c234510f-4e4e-4e88-912d-7ea9fbb972b7/home/eldermf/.config/bspwm/bspwmrc",
+				"/run/media/eldermf/c234510f-4e4e-4e88-912d-7ea9fbb972b7/home/eldermf/.config/polybar/config",
+				"/run/media/eldermf/c234510f-4e4e-4e88-912d-7ea9fbb972b7/home/eldermf/.config/polybar/config.ini",
+				"/run/media/eldermf/c234510f-4e4e-4e88-912d-7ea9fbb972b7/home/eldermf/.config/polybar/launch.sh",
+				"/home/eldermf/.config/mimeapps.list",
+				"/home/eldermf/.config/user-dirs.locale",
+				"/home/eldermf/.config/gtk-2.0/gtkfilechooser.ini",
+				"/home/eldermf/.config/rofi/powermenu.sh",
+				"/home/eldermf/.gtkrc-2.0",
+				"/home/eldermf/.config/gtk-3.0/settings.ini",
+				"/home/eldermf/Downloads/MyArch-master/000-arch-base.sh",
+				"/home/eldermf/Downloads/MyArch-master/010-xorg-video.sh",
+				"/home/eldermf/.lesshst",
+				"/home/eldermf/Downloads/MyArch-master/keyboard",
+				"/home/eldermf/Downloads/dotfiles-master-.config-polybar-scripts/.config/polybar/scripts/pavolume.sh",
+				"/home/eldermf/Downloads/dotfiles-master-.config-polybar-scripts/.config/polybar/scripts/check-all-updates.sh",
+				"/home/eldermf/Downloads/config",
+				"/home/eldermf/Downloads/launch.sh",
+				"/run/media/eldermf/virus_900/Programas/Pre-configuracoes/Arch-Bspwm-16_11_2021/home/.config/sxhkd/sxhkdrc",
+				"/run/media/eldermf/virus_900/Programas/Pre-configuracoes/EndeavourOS-Bspwm-OUT 2021/Home/.config/sxhkd/sxhkdrc",
+				"/run/media/eldermf/virus_900/Programas/Pre-configuracoes/Arch-Bspwm-16_11_2021/home/.config/sxhkd/sxhkdrc-bkp",
+				"/home/eldermf/.config/cava/config",
+				"/usr/share/doc/polybar/config",
+				"/home/eldermf/.config/polybar/modules (copy)",
+				"/home/eldermf/.config/polybar/config",
+				"/home/eldermf/.config/polybar/scripts/volume.sh",
+				"/home/eldermf/.config/polybar/scripts/cava.py",
+				"/home/eldermf/.config/polybar/system",
+				"/home/eldermf/.bash_history",
+				"/run/media/eldermf/virus_900/Programas/Pre-configuracoes/Arch-Bspwm-16_11_2021/home/.config/bspwm/bspwmrc",
+				"/run/media/eldermf/virus_900/Programas/Pre-configuracoes/Arch-Bspwm-16_11_2021/home/.config/bspwm/polybar/config",
+				"/run/media/eldermf/virus_900/Programas/Pre-configuracoes/Arch-Bspwm-16_11_2021/home/.config/bspwm/polybar/modules",
+				"/run/media/eldermf/virus_900/Programas/Pre-configuracoes/Arch-Bspwm-16_11_2021/home/.config/polybar/config.ini",
+				"/run/media/eldermf/virus_900/Programas/Pre-configuracoes/Arch-Bspwm-29_10_2021/home/.config/polybar/config.ini",
+				"/home/eldermf/.config/polybar-bkp/config",
+				"/run/media/eldermf/virus_900/Programas/Pre-configuracoes/Arch-Bspwm-29_10_2021/home/.config/bspwm/polybar/config",
+				"/home/eldermf/.config/polybar/colors",
+				"/home/eldermf/.config/polybar/scripts/keyhint.sh",
+				"/home/eldermf/.config/polybar/scripts/cns.sh",
+				"/home/eldermf/.config/polybar/launch.sh",
+				"/home/eldermf/.config/polybar-bkp/launch.sh",
+				"/home/eldermf/.config/polybar/scripts/info-cava.py",
+				"/run/media/eldermf/virus_900/Programas/Pre-configuracoes/EndeavourOS-Bspwm-OUT 2021/Home/.config/polybar/config.ini",
+				"/run/media/eldermf/virus_900/Programas/Pre-configuracoes/EndeavourOS-Bspwm-OUT 2021/Home/.config/polybar/launch.sh",
+				"/run/media/eldermf/virus_900/Programas/Pre-configuracoes/Arch-Bspwm-16_11_2021/home/.config/polybar/launch.sh",
+				"/run/media/eldermf/virus_900/Programas/Pre-configuracoes/Arch-Bspwm-16_11_2021/home/.config/polybar/config-bkp.ini",
+				"/run/media/eldermf/virus_900/Programas/Pre-configuracoes/Arch-Bspwm-16_11_2021/home/.config/polybar/scripts/checkupdates.sh",
+				"/home/eldermf/.config/bspwm/polybar/system",
+				"/run/media/eldermf/virus_900/Programas/Pre-configuracoes/Archcraft-Bspwm-Openbox-01_11_2021/home/.config/openbox/polybar/system.ini",
+				"/run/media/eldermf/virus_900/Programas/Pre-configuracoes/Archcraft-Bspwm-Openbox-01_11_2021/home/.config/polybar/scripts/checkupdates.sh",
+				"/home/eldermf/.config/polybar/scripts/checkupdates.sh",
+				"/run/media/eldermf/virus_900/Programas/Pre-configuracoes/Archcraft-Bspwm-Openbox-01_11_2021/home/.config/rofi/applets/applets/mpd.sh",
+				"/home/eldermf/.config/bspwm/polybar/modules",
+				"/home/eldermf/.config/bspwm/polybar/config",
+				"/run/media/eldermf/virus_900/Documentos/Pre-Configuacoes/MyBspm-NOV-2020/home/.config/bspwm/bspwmrc",
+				"/run/media/eldermf/virus_900/Programas/Pre-configuracoes/Arch-Bspwm-29_10_2021/home/.config/bspwm/bspwmrc",
+				"/home/eldermf/.config/polybar/scripts/check-all-updates.sh",
+				"/home/eldermf/.config/neofetch/config.conf",
+				"/home/eldermf/.config/menus/applications-merged/xdg-desktop-menu-dummy.menu",
+				"/home/eldermf/.config/alacritty/fonts.yml",
+				"/home/eldermf/.config/terminator/config",
+				"/run/media/eldermf/virus_900/Programas/Pre-configuracoes/EndeavourOS-Bspwm-OUT 2021/Home/.config/bspwm/bspwmrc",
+				"/home/eldermf/.ncmpcpp/config",
+				"/home/eldermf/.config/polybar/config.ini",
+				"/home/eldermf/.config/polybar/scripts/updates.sh",
+				"/home/eldermf/.config/polybar/scripts/checkupdates",
+				"/run/media/eldermf/virus_900/Programas/Pre-configuracoes/Arch-Bspwm-29_10_2021/home/.config/bspwm/polybar/modules",
+				"/run/media/eldermf/virus_900/Programas/Pre-configuracoes/Archcraft-Bspwm-Openbox-01_11_2021/home/.config/bspwm/polybar/modules",
+				"/home/eldermf/.config/picom.conf",
+				"/run/media/eldermf/c234510f-4e4e-4e88-912d-7ea9fbb972b7/home/eldermf/.config/gtk-3.0/bookmarks",
+				"/run/media/eldermf/c234510f-4e4e-4e88-912d-7ea9fbb972b7/home/eldermf/.gtkrc-2.0",
+				"/run/media/eldermf/virus_900/Documentos/Pre-Configuacoes/MyBspwm/home/.config/polybar/launch.sh",
+				"/run/media/eldermf/c234510f-4e4e-4e88-912d-7ea9fbb972b7/home/eldermf/.config/sxhkd/sxhkdrc"
+			],
+			"find":
+			{
+				"height": 26.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"cava"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 26.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 48.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1330.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/home/eldermf/.local/bin/scripts/weather",
+					"settings":
+					{
+						"buffer_size": 77,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/eldermf/Downloads/bspwm/README.md",
+				"/home/eldermf/.config/rofi/powermenu.rasi",
+				"/home/eldermf/.src/bspwm/README.md",
+				"/home/eldermf/.config/dwm/config.def.h",
+				"/home/eldermf/Downloads/arcolinux-dwm-master/usr/share/xsessions/dwm.desktop",
+				"/home/eldermf/.config/dwm/autostart.sh",
+				"/home/eldermf/.config/dwm/sxhkd/sxhkdrc",
+				"/home/eldermf/.config/st/config.def.h",
+				"/home/eldermf/.config/slstatus/config.def.h",
+				"/home/eldermf/.config/dwm/scripts/picom-toggle.sh",
+				"/home/eldermf/.screenlayout/monitors.sh",
+				"/home/eldermf/.config/dwm/etc/skel/.config/arco-dwm/autostart.sh",
+				"/home/eldermf/.config/dwm/usr/share/xsessions/dwm.desktop",
+				"/home/eldermf/.config/dwm/make-package.sh",
+				"/home/eldermf/.config/sxhkd/sxhkdrc",
+				"/home/eldermf/.config/bspwm/bspwmrc",
+				"/home/eldermf/.xinitrc",
+				"/home/eldermf/.vim_runtime/vimrcs/basic.vim",
+				"/home/eldermf/.src/dwm/config.def.h",
+				"/home/eldermf/.config/dwm/dwm.desktop",
+				"/run/media/eldermf/virus_900/Programas/Pre-configuracoes/MyHome-26SET2021-Arch_DWM/home/.config/dwm/autostart.sh",
+				"/run/media/eldermf/virus_900/Programas/Pre-configuracoes/MyHome-Ultimo_25JUN2021_DWM-Artix_OpenRC/home/.config/dwm/autostart.sh",
+				"/run/media/eldermf/virus_900/Programas/Pre-configuracoes/MyHome-Ultimo_25JUN2021_DWM-Artix_OpenRC/home/.config/dwm/config.def.h",
+				"/home/eldermf/.config/dwm/layouts.c",
+				"/run/media/eldermf/virus_900/Programas/Pre-configuracoes/MyHome-26SET2021-Arch_DWM/home/.config/dwm/config.def.h",
+				"/run/media/eldermf/virus_900/Programas/Pre-configuracoes/MyHome-26SET2021-Arch_DWM/home/.xinitrc",
+				"/run/media/eldermf/virus_900/Programas/Pre-configuracoes/MyHome-26SET2021-Arch_DWM/home/.config/dwm/sxhkd/sxhkdrc",
+				"/home/eldermf/Downloads/arch-bspwm-master-.config/.config/polybar/bspwm.sh",
+				"/home/eldermf/Downloads/arch-bspwm-master-.config/.config/polybar/launch.sh",
+				"/home/eldermf/Downloads/arch-bspwm-master-.config/.config/polybar/config",
+				"/home/eldermf/Downloads/arch-bspwm-master-.config/.config/polybar/modules.ini",
+				"/home/eldermf/.config/alacritty/alacritty.yml",
+				"/tmp/Alacritty-32174.log",
+				"/home/eldermf/Downloads/EndeavourOS_Atlantis_neo-21_5.iso.sha512sum",
+				"/home/eldermf/.vimrc",
+				"/home/eldermf/.config/nemo/bookmark-metadata",
+				"/home/eldermf/.config/alacritty/colors.yml",
+				"/home/eldermf/Downloads/arch-bspwm-main/README.md",
+				"/home/eldermf/.config/polybar/modules",
+				"/run/media/eldermf/c234510f-4e4e-4e88-912d-7ea9fbb972b7/home/eldermf/.config/bspwm/bspwmrc",
+				"/run/media/eldermf/c234510f-4e4e-4e88-912d-7ea9fbb972b7/home/eldermf/.config/polybar/config",
+				"/run/media/eldermf/c234510f-4e4e-4e88-912d-7ea9fbb972b7/home/eldermf/.config/polybar/config.ini",
+				"/run/media/eldermf/c234510f-4e4e-4e88-912d-7ea9fbb972b7/home/eldermf/.config/polybar/launch.sh",
+				"/home/eldermf/.config/mimeapps.list",
+				"/home/eldermf/.config/user-dirs.locale",
+				"/home/eldermf/.config/gtk-2.0/gtkfilechooser.ini",
+				"/home/eldermf/.config/rofi/powermenu.sh",
+				"/home/eldermf/.gtkrc-2.0",
+				"/home/eldermf/.config/gtk-3.0/settings.ini",
+				"/home/eldermf/Downloads/MyArch-master/000-arch-base.sh",
+				"/home/eldermf/Downloads/MyArch-master/010-xorg-video.sh",
+				"/home/eldermf/.lesshst",
+				"/home/eldermf/Downloads/MyArch-master/keyboard",
+				"/home/eldermf/Downloads/dotfiles-master-.config-polybar-scripts/.config/polybar/scripts/pavolume.sh",
+				"/home/eldermf/Downloads/dotfiles-master-.config-polybar-scripts/.config/polybar/scripts/check-all-updates.sh",
+				"/home/eldermf/Downloads/config",
+				"/home/eldermf/Downloads/launch.sh",
+				"/run/media/eldermf/virus_900/Programas/Pre-configuracoes/Arch-Bspwm-16_11_2021/home/.config/sxhkd/sxhkdrc",
+				"/run/media/eldermf/virus_900/Programas/Pre-configuracoes/EndeavourOS-Bspwm-OUT 2021/Home/.config/sxhkd/sxhkdrc",
+				"/run/media/eldermf/virus_900/Programas/Pre-configuracoes/Arch-Bspwm-16_11_2021/home/.config/sxhkd/sxhkdrc-bkp",
+				"/home/eldermf/.config/cava/config",
+				"/usr/share/doc/polybar/config",
+				"/home/eldermf/.config/polybar/modules (copy)",
+				"/home/eldermf/.config/polybar/config",
+				"/home/eldermf/.config/polybar/scripts/volume.sh",
+				"/home/eldermf/.config/polybar/scripts/cava.py",
+				"/home/eldermf/.config/polybar/system",
+				"/home/eldermf/.bash_history",
+				"/run/media/eldermf/virus_900/Programas/Pre-configuracoes/Arch-Bspwm-16_11_2021/home/.config/bspwm/bspwmrc",
+				"/run/media/eldermf/virus_900/Programas/Pre-configuracoes/Arch-Bspwm-16_11_2021/home/.config/bspwm/polybar/config",
+				"/run/media/eldermf/virus_900/Programas/Pre-configuracoes/Arch-Bspwm-16_11_2021/home/.config/bspwm/polybar/modules",
+				"/run/media/eldermf/virus_900/Programas/Pre-configuracoes/Arch-Bspwm-16_11_2021/home/.config/polybar/config.ini",
+				"/run/media/eldermf/virus_900/Programas/Pre-configuracoes/Arch-Bspwm-29_10_2021/home/.config/polybar/config.ini",
+				"/home/eldermf/.config/polybar-bkp/config",
+				"/run/media/eldermf/virus_900/Programas/Pre-configuracoes/Arch-Bspwm-29_10_2021/home/.config/bspwm/polybar/config",
+				"/home/eldermf/.config/polybar/colors",
+				"/home/eldermf/.config/polybar/scripts/keyhint.sh",
+				"/home/eldermf/.config/polybar/scripts/cns.sh",
+				"/home/eldermf/.config/polybar/launch.sh",
+				"/home/eldermf/.config/polybar-bkp/launch.sh",
+				"/home/eldermf/.config/polybar/scripts/info-cava.py",
+				"/run/media/eldermf/virus_900/Programas/Pre-configuracoes/EndeavourOS-Bspwm-OUT 2021/Home/.config/polybar/config.ini",
+				"/run/media/eldermf/virus_900/Programas/Pre-configuracoes/EndeavourOS-Bspwm-OUT 2021/Home/.config/polybar/launch.sh",
+				"/run/media/eldermf/virus_900/Programas/Pre-configuracoes/Arch-Bspwm-16_11_2021/home/.config/polybar/launch.sh",
+				"/run/media/eldermf/virus_900/Programas/Pre-configuracoes/Arch-Bspwm-16_11_2021/home/.config/polybar/config-bkp.ini",
+				"/run/media/eldermf/virus_900/Programas/Pre-configuracoes/Arch-Bspwm-16_11_2021/home/.config/polybar/scripts/checkupdates.sh",
+				"/home/eldermf/.config/bspwm/polybar/system",
+				"/run/media/eldermf/virus_900/Programas/Pre-configuracoes/Archcraft-Bspwm-Openbox-01_11_2021/home/.config/openbox/polybar/system.ini",
+				"/run/media/eldermf/virus_900/Programas/Pre-configuracoes/Archcraft-Bspwm-Openbox-01_11_2021/home/.config/polybar/scripts/checkupdates.sh",
+				"/home/eldermf/.config/polybar/scripts/checkupdates.sh",
+				"/run/media/eldermf/virus_900/Programas/Pre-configuracoes/Archcraft-Bspwm-Openbox-01_11_2021/home/.config/rofi/applets/applets/mpd.sh",
+				"/home/eldermf/.config/bspwm/polybar/modules",
+				"/home/eldermf/.config/bspwm/polybar/config",
+				"/run/media/eldermf/virus_900/Documentos/Pre-Configuacoes/MyBspm-NOV-2020/home/.config/bspwm/bspwmrc",
+				"/run/media/eldermf/virus_900/Programas/Pre-configuracoes/Arch-Bspwm-29_10_2021/home/.config/bspwm/bspwmrc",
+				"/home/eldermf/.config/polybar/scripts/check-all-updates.sh",
+				"/home/eldermf/.config/neofetch/config.conf",
+				"/home/eldermf/.config/menus/applications-merged/xdg-desktop-menu-dummy.menu",
+				"/home/eldermf/.config/alacritty/fonts.yml",
+				"/home/eldermf/.config/terminator/config",
+				"/run/media/eldermf/virus_900/Programas/Pre-configuracoes/EndeavourOS-Bspwm-OUT 2021/Home/.config/bspwm/bspwmrc",
+				"/home/eldermf/.ncmpcpp/config",
+				"/home/eldermf/.config/polybar/config.ini",
+				"/home/eldermf/.config/polybar/scripts/updates.sh",
+				"/home/eldermf/.config/polybar/scripts/checkupdates",
+				"/run/media/eldermf/virus_900/Programas/Pre-configuracoes/Arch-Bspwm-29_10_2021/home/.config/bspwm/polybar/modules",
+				"/run/media/eldermf/virus_900/Programas/Pre-configuracoes/Archcraft-Bspwm-Openbox-01_11_2021/home/.config/bspwm/polybar/modules",
+				"/home/eldermf/.config/picom.conf",
+				"/run/media/eldermf/c234510f-4e4e-4e88-912d-7ea9fbb972b7/home/eldermf/.config/gtk-3.0/bookmarks",
+				"/run/media/eldermf/c234510f-4e4e-4e88-912d-7ea9fbb972b7/home/eldermf/.gtkrc-2.0",
+				"/run/media/eldermf/virus_900/Documentos/Pre-Configuacoes/MyBspwm/home/.config/polybar/launch.sh",
+				"/run/media/eldermf/c234510f-4e4e-4e88-912d-7ea9fbb972b7/home/eldermf/.config/sxhkd/sxhkdrc"
+			],
+			"find":
+			{
+				"height": 26.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"cava"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/eldermf/.local/bin/scripts/weather",
+							"selected": true,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 77,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/ShellScript/Bash.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"stack_multiselect": false,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 26.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,0,0,0,0,1930,10,3260,748,3280,1080,10",
+			"project": "",
+			"replace":
+			{
+				"height": 48.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 11,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

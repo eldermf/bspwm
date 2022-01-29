@@ -1,0 +1,10 @@
+[Trigger]
+Operation = Install
+Operation = Upgrade
+Type = Package
+Target = lsb-release
+
+[Action]
+Description = Add ArcoLinux specific config
+When = PostTransaction
+Exec = /bin/sh -c "sed -i -e s'?^DISTRIB_ID=.*$?DISTRIB_ID=ArcoLinux?' -e s'?^DISTRIB_DESCRIPTION=.*$?DISTRIB_DESCRIPTION=\"ArcoLinux\"?' /etc/lsb-release"
