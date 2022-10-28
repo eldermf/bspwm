@@ -5,21 +5,7 @@
 **Basic settings of my Arch linux with Bspwm and Polybar out of the box.**
 
 Required basic programs:
-	- kitty and/or terminator;
-	- pacman-contrib;
-	- pacman-contrib;
-	- tty-clock;
-	- cava;
-	- bspwm;
-	- sxhkd;
-	- polybar;
-	- zsh;
-	- polkit-gnome or xfce-polkit;
-	- rofi;
-	- picom-animations-git or picom-jonaburg-git;
-	- lightdm-webkit-theme-aether;
-	- jq;
-	- ttf-weather-icons.
+	- kitty and/or terminator;- pacman-contrib;- pacman-contrib;- tty-clock;- cava;- bspwm;- sxhkd;- polybar;- zsh;- polkit-gnome or xfce-polkit;- rofi;- picom-animations-git or picom-jonaburg-git;- lightdm-webkit-theme-aether;- jq;- ttf-weather-icons.
 
 The Old Rofi:
 
