@@ -2,7 +2,7 @@
 
 ![03-BspWM-28_10_2022](https://user-images.githubusercontent.com/13444013/198607374-488a57ee-e00c-42ce-a5f7-fcdc589ca011.png)
 
-**Basic settings of my Arch linux with Bspwm and Polybar out of the box.**
+## **Basic settings of my Arch linux with Bspwm and Polybar out of the box.**
 
 Required basic programs:
 	- kitty and/or terminator;																		- pacman-contrib;																			- pacman-contrib;																			- tty-clock;																				- cava;																					- bspwm;																				- sxhkd;																				- polybar;																				- zsh;																					- polkit-gnome or xfce-polkit;																		- rofi;																					- picom-animations-git or picom-jonaburg-git;																- lightdm-webkit-theme-aether;																		- jq;																					- ttf-weather-icons.	
@@ -41,7 +41,7 @@ Ubuntu/Debian: 	$ sudo apt-get install libxcb-xinerama0-dev libxcb-icccm4-dev li
 	$ cd bspwm && sudo make uninstall
 	$ cd ../sxhkd && sudo make uninstall
 
-Running bspwm
+**Running bspwm**
 You'll need to copy the example configurations to your ~/.config folder. Ensure ~/.config/bspwm/bspwmrc is executable.
 
 	$ mkdir -p ~/.config/{bspwm,sxhkd}
@@ -51,7 +51,7 @@ You'll need to copy the example configurations to your ~/.config folder. Ensure 
 
 To start bspwm at login add exec bspwm to the bottom of your ~/.xinitrc or ~/.xprofile (depending on how your launch your X/Display manager). The example bspwmrc launches sxhkd for you.
 
-**How to Install through the scripts**
+## **How to Install through the scripts**
 
 To install through the scripts, in a more practical and faster way, read and study each of the scripts and verify that they are fully met and install them one by one according to the order of their numbering, for example:
 
