@@ -1,0 +1,630 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>Openbox</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload">
+		<!-- Wrapper -->
+			<div id="wrapper" class="divided">
+				<!-- OPENBOX -->
+					<section class="wrapper style1 align-center">
+						<div class="inner">
+							<h2>Openbox</h2>
+							<p>Openbox is a lightweight, powerful, and highly configurable stacking window manager.
+							It allows you to change almost every aspect of how you interact with your desktop and invent completely new ways to use and control it.
+							It's the default window manager in Archcraft.</p>
+							<div class="index align-left">
+							<!-- Images -->
+								<section>
+									<div class="content">
+										<span class="image fit"><img src="images/openbox/1.png" alt="" /></span>
+									</div>
+								</section>
+					</section>
+				<!-- Desktop -->
+					<section class="spotlight style1 orient-right content-align-left image-position-center onscroll-image-fade-in" id="first">
+						<div class="content">
+							<h2>Desktop</h2>
+							<p>This is your desktop. It's just a standalone window manager, So there are no desktop icons.
+							A statusbar (<b>polybar</b>) on the top, shows your various system information and lets you run the launcher, switch to workspaces, control music, volume, brightness, connect to a network, etc.
+							The dock (<b>plank</b>) on the bottom lets you launch your favorite apps quickly and can manage windows.
+							Right clicking on the desktop presents you with the openbox menu, Which allows you to do basically everything (from changing styles to modifying settings).</p>
+							<ul class="actions stacked">
+								<li><a href="#apps-keys" class="button smooth-scroll-middle">View Keybindings</a></li>
+							</ul>
+						</div>
+						<div class="image">
+							<img src="images/ob_1.png" alt="" />
+						</div>
+					</section>
+				<!-- Menu and Applets -->
+					<section class="spotlight style1 orient-left content-align-left image-position-center onscroll-image-fade-in">
+						<div class="content">
+							<h2>Menu and Applets</h2>
+							<p><b>Rofi</b> is used here, to provide all these launchers, menus and applets.
+							A <code>launcher</code> lets you run apps, <code>runner</code> lets you execute commands quickly.
+							The <code>networkmanager</code> applet lets you manage wired/wireless, mobile and bluetooth connections.
+							<code>music</code> applet lets you control the music player,
+							<code>powermenu</code> applet lets you manage the session.
+							There are applets for <code>screenshot</code> and <code>internet</code> too.
+							You can run the <b>launcher</b> and <b>powermenu</b> by clicking the respective module on the polybar.</p>
+							<ul class="actions stacked">
+								<li><a href="#menu-keys" class="button smooth-scroll-middle">View Keybindings</a></li>
+							</ul>
+						</div>
+						<div class="image">
+							<img src="images/ob_2.png" alt="" />
+						</div>
+					</section>
+				<!-- Applications -->
+					<section class="spotlight style1 orient-right content-align-left image-position-center onscroll-image-fade-in">
+						<div class="content">
+							<h2>Applications</h2>
+							<p>Archcraft use lightweight applications, which are fast and do all the work.
+							<code>Thunar</code> is the default file manager,
+							<code>Geany</code> is the text editor,
+							<code>Firefox</code> is the web browser,
+							<code>Alacritty</code> is the terminal emulator and <code>Xfce Terminal</code> as alternate terminal in case alacritty doesn't work for you.
+							There are pre-configured command line applications installed too.
+							<code>vim</code> and <code>neovim</code> text editors,
+							<code>ranger</code> file manager,
+							<code>htop</code> and <code>bashtop</code> system monitors.
+							<code>ncmpcpp</code> for <code>mpd</code> with album-art support, etc.</p>
+							<ul class="actions stacked">
+								<li><a href="#apps-keys" class="button smooth-scroll-middle">View Keybindings</a></li>
+							</ul>
+						</div>
+						<div class="image">
+							<img src="images/ob_3.png" alt="" />
+						</div>
+					</section>
+				<!-- Hardware Keys -->
+					<section class="spotlight style1 orient-left content-align-left image-position-center onscroll-image-fade-in">
+						<div class="content">
+							<h2>Hardware Keys</h2>
+							<p>Laptop's function keys are fully configured to use.
+							You can easily control the speaker/headphone <code>volume</code>, Screen <code>brightness</code>.
+							You can control music playback (default to mpd).
+							With <code>print</code> key, You can take <code>screenshots</code> of the desktop (with delays), and by combining it with <code>CTRL</code>, <code>ALT</code> and <code>SHIFT</code> keys, You can capture the active window or selected area.
+							To change the behaviour of these function keys (for ex. music control),
+							Edit <code>~/.config/openbox/rc.xml</code> file.</p>
+							<ul class="actions stacked">
+								<li><a href="#hw-keys" class="button smooth-scroll-middle">View Keybindings</a></li>
+							</ul>
+						</div>
+						<div class="image">
+							<img src="images/ob_4.png" alt="" />
+						</div>
+					</section>
+				<!-- Window Management -->
+					<section class="spotlight style1 orient-right content-align-left image-position-center onscroll-image-fade-in">
+						<div class="content">
+							<h2>Window Management</h2>
+							<p>In openbox, windows float on the desktop, as it's not a tiling window manager.
+							Windows have title bars, control buttons, icons and labels. You can use <code>obconf</code> application to modify the settings.
+							You can switch between different workspaces, move windows to specific workspaces, place windows at different screen edges, You can even tile windows.
+							Easily switch between running apps, move-resize with keyboard shortcuts.
+							You can create specific rules for any application. For more information, view the openbox config file.</p>
+							<ul class="actions stacked">
+								<li><a href="#wm-keys" class="button smooth-scroll-middle">View Keybindings</a></li>
+							</ul>
+						</div>
+						<div class="image">
+							<img src="images/ob_5.png" alt="" />
+						</div>
+					</section>
+				<!-- Keybindings -->
+					<section class="wrapper style1 align-center">
+						<div class="inner">
+							<h2>Keybindings</h2>
+							<p>Here's a list of some important keybinds you need to know for operating openbox easily. To see all the keybinds, Right click on the desktop and go to <b>Keybinds</b>. If you want to modify or add new keybinds, Edit <code>~/.config/openbox/rc.xml</code> file.</p>
+							<ul class="actions kbd">
+								<li><a class="button"><code>W</code> : Window</a></li>
+								<li><a class="button"><code>C</code> : Control</a></li>
+								<li><a class="button"><code>S</code> : Shift</a></li>
+								<li><a class="button"><code>A</code> : Alt</a></li>
+							</ul>
+							<div class="index align-left">
+								<!-- Table -->
+									<section>
+										<div class="content">
+											<h3 id="apps-keys">Applications</h3>
+											<div class="table-wrapper">
+												<table class="alt">
+													<thead>
+														<tr>
+															<th>Keybind</th>
+															<th>Action</th>
+														</tr>
+													</thead>
+													<tbody>
+														<tr>
+															<td><code>W + Return</code></td>
+															<td>Open terminal (alacritty)</td>
+														</tr>
+														<tr>
+															<td><code>W + t</code></td>
+															<td>Open fullscreen terminal</td>
+														</tr>
+														<tr>
+															<td><code>W + f</code></td>
+															<td>Open file manager (thunar)</td>
+														</tr>
+														<tr>
+															<td><code>W + e</code></td>
+															<td>Open text editor (geany)</td>
+														</tr>
+														<tr>
+															<td><code>W + w</code></td>
+															<td>Open web browser (firefox)</td>
+														</tr>
+														<tr>
+															<td><code>C + A + t</code></td>
+															<td>Open alternate terminal (xfce)</td>
+														</tr>
+														<tr>
+															<td><code>C + A + v</code></td>
+															<td>Open vim (CLI text editor)</td>
+														</tr>
+														<tr>
+															<td><code>C + A + n</code></td>
+															<td>Open neovim (CLI text editor)</td>
+														</tr>
+														<tr>
+															<td><code>C + A + r</code></td>
+															<td>Open ranger (CLI file manager)</td>
+														</tr>
+														<tr>
+															<td><code>C + A + h</code></td>
+															<td>Open htop (system monitor)</td>
+														</tr>
+														<tr>
+															<td><code>C + A + b</code></td>
+															<td>Open bashtop (system monitor)</td>
+														</tr>
+													</tbody>
+												</table>
+											</div>
+
+											<h3 id="menu-keys">Menu and Applets</h3>
+											<div class="table-wrapper">
+												<table class="alt">
+													<thead>
+														<tr>
+															<th>Keybind</th>
+															<th>Action</th>
+														</tr>
+													</thead>
+													<tbody>
+														<tr>
+															<td><code>Window</code></td>
+															<td>Open application launcher</td>
+														</tr>
+														<tr>
+															<td><code>W + r</code></td>
+															<td>Open command runner</td>
+														</tr>
+														<tr>
+															<td><code>W + n</code></td>
+															<td>Open network manager</td>
+														</tr>
+														<tr>
+															<td><code>W + m</code></td>
+															<td>Open media player</td>
+														</tr>
+														<tr>
+															<td><code>W + x</code></td>
+															<td>Open powermenu</td>
+														</tr>
+														<tr>
+															<td><code>W + s</code></td>
+															<td>Open screenshot menu</td>
+														</tr>
+														<tr>
+															<td><code>W + i</code></td>
+															<td>Open internet menu</td>
+														</tr>
+														<tr>
+															<td><code>W + Space</code></td>
+															<td>Open openbox main menu</td>
+														</tr>
+														<tr>
+															<td><code>C + A + Space</code></td>
+															<td>Open openbox application menu</td>
+														</tr>
+													</tbody>
+												</table>
+											</div>
+
+											<h3 id="wm-keys">Window Management</h3>
+											<div class="table-wrapper">
+												<table class="alt">
+													<thead>
+														<tr>
+															<th>Keybind</th>
+															<th>Action</th>
+														</tr>
+													</thead>
+													<tbody>
+														<tr>
+															<td><code>W + 1/2/3/4/5</code></td>
+															<td>Switch to respective workspace</td>
+														</tr>
+														<tr>
+															<td><code>W + S + 1/2/3/4/5</code></td>
+															<td>Move active window to respective workspace</td>
+														</tr>
+														<tr>
+															<td><code>W + S + Left/Right</code></td>
+															<td>Move active window to left/right workspace</td>
+														</tr>
+														<tr>
+															<td><code>W + Left/Right</code></td>
+															<td>Move window to the left/right edge of the screen</td>
+														</tr>
+														<tr>
+															<td><code>W + Up/Down</code></td>
+															<td>Maximize/Center window respectively</td>
+														</tr>
+														<tr>
+															<td><code>W + h/j/k/l</code></td>
+															<td>Move window to TopLeft/BottomLeft/TopRight/BottomRight</td>
+														</tr>
+														<tr>
+															<td><code>A + z/x/c</code></td>
+															<td>Tile window to left/center/right</td>
+														</tr>
+														<tr>
+															<td><code>W + A + Up/Down/Left/Right</code></td>
+															<td>Move active window Up/Down/Left/Right</td>
+														</tr>
+														<tr>
+															<td><code>C + A + Up/Down/Left/Right</code></td>
+															<td>Resize active window</td>
+														</tr>
+														<tr>
+															<td><code>W + Tab</code></td>
+															<td>Switch between applications (All workspaces)</td>
+														</tr>
+														<tr>
+															<td><code>A + Tab</code></td>
+															<td>Switch between applications (Current workspaces)</td>
+														</tr>
+														<tr>
+															<td><code>A + r</code></td>
+															<td>Activate resize mode</td>
+														</tr>
+														<tr>
+															<td><code>A + m</code></td>
+															<td>Activate move mode</td>
+														</tr>
+														<tr>
+															<td><code>W + d</code></td>
+															<td>Toggle show desktop</td>
+														</tr>
+														<tr>
+															<td><code>W + c/q</code></td>
+															<td>Close application</td>
+														</tr>
+														<tr>
+															<td><code>W + Escape</code></td>
+															<td>Kill application</td>
+														</tr>
+														<tr>
+															<td><code>C + A + l</code></td>
+															<td>Lock the screen</td>
+														</tr>
+														<tr>
+															<td><code>C + S + r</code></td>
+															<td>Reconfigure Openbox WM</td>
+														</tr>
+														<tr>
+															<td><code>C + S + BackSpace</code></td>
+															<td>Restart Openbox WM</td>
+														</tr>
+														<tr>
+															<td><code>C + S + Escape</code></td>
+															<td>Exit Openbox WM</td>
+														</tr>
+													</tbody>
+												</table>
+											</div>
+
+											<h3 id="hw-keys">Hardware Keys</h3>
+											<div class="table-wrapper">
+												<table class="alt">
+													<thead>
+														<tr>
+															<th>Keybind</th>
+															<th>Action</th>
+														</tr>
+													</thead>
+													<tbody>
+														<tr>
+															<td><code>Print</code></td>
+															<td>Take screenshot of desktop</td>
+														</tr>
+														<tr>
+															<td><code>C + Print</code></td>
+															<td>Take screenshot of active window</td>
+														</tr>
+														<tr>
+															<td><code>A + Print</code></td>
+															<td>Take screenshot of desktop in 5 seconds</td>
+														</tr>
+														<tr>
+															<td><code>S + Print</code></td>
+															<td>Take screenshot of desktop in 10 seconds</td>
+														</tr>
+														<tr>
+															<td><code>C + A + Print</code></td>
+															<td>Take screenshot of selected area</td>
+														</tr>
+														<tr>
+															<td><code>XF86AudioRaiseVolume</code></td>
+															<td>Increase Volume</td>
+														</tr>
+														<tr>
+															<td><code>XF86AudioLowerVolume</code></td>
+															<td>Decrease Volume</td>
+														</tr>
+														<tr>
+															<td><code>XF86AudioMute</code></td>
+															<td>Mute</td>
+														</tr>
+														<tr>
+															<td><code>XF86Audio + Next/Prev/Play/Stop</code></td>
+															<td>Media Controls (MPD)</td>
+														</tr>
+														<tr>
+															<td><code>XF86MonBrightnessUp</code></td>
+															<td>Increase Screen Brightness</td>
+														</tr>
+														<tr>
+															<td><code>XF86MonBrightnessDown</code></td>
+															<td>Decrease Screen Brightness</td>
+														</tr>
+													</tbody>
+												</table>
+											</div>
+
+										</div>
+									</section>
+							</div>
+						</div>
+					</section>
+				<!-- Gallery -->
+					<section class="wrapper style1 align-center">
+						<div class="inner">
+							<h2>Styles / Themes</h2>
+							<p>There are <b>15+ styles</b> available for openbox, for every mood and environment, whether it's Dark or Light. Check the screenshots below.
+							<br>To Change the style, Right click on the desktop and go to <code>Preferences > Change Style</code></p>
+						</div>
+						<!-- Openbox -->
+							<div class="gallery style2 medium lightbox">
+								<article>
+									<a href="images/openbox/1.png" class="image">
+										<img src="images/thumbs/openbox/1.png" alt="" />
+									</a>
+									<div class="caption">
+										<h3>Default</h3>
+										<ul class="actions fixed">
+											<li><span class="button small">Openbox</span></li>
+										</ul>
+									</div>
+								</article>
+								<article>
+									<a href="images/openbox/2.png" class="image">
+										<img src="images/thumbs/openbox/2.png" alt="" />
+									</a>
+									<div class="caption">
+										<h3>Adaptive</h3>
+										<ul class="actions fixed">
+											<li><span class="button small">Openbox</span></li>
+										</ul>
+									</div>
+								</article>
+								<article>
+									<a href="images/openbox/3.png" class="image">
+										<img src="images/thumbs/openbox/3.png" alt="" />
+									</a>
+									<div class="caption">
+										<h3>Beach</h3>
+										<ul class="actions fixed">
+											<li><span class="button small">Openbox</span></li>
+										</ul>
+									</div>
+								</article>
+								<article>
+									<a href="images/openbox/4.png" class="image">
+										<img src="images/thumbs/openbox/4.png" alt="" />
+									</a>
+									<div class="caption">
+										<h3>Bouquet</h3>
+										<ul class="actions fixed">
+											<li><span class="button small">Openbox</span></li>
+										</ul>
+									</div>
+								</article>
+								<article>
+									<a href="images/openbox/5.png" class="image">
+										<img src="images/thumbs/openbox/5.png" alt="" />
+									</a>
+									<div class="caption">
+										<h3>Eleven</h3>
+										<ul class="actions fixed">
+											<li><span class="button small">Openbox</span></li>
+										</ul>
+									</div>
+								</article>
+								<article>
+									<a href="images/openbox/6.png" class="image">
+										<img src="images/thumbs/openbox/6.png" alt="" />
+									</a>
+									<div class="caption">
+										<h3>Eleven Dark</h3>
+										<ul class="actions fixed">
+											<li><span class="button small">Openbox</span></li>
+										</ul>
+									</div>
+								</article>
+								<article>
+									<a href="images/openbox/7.png" class="image">
+										<img src="images/thumbs/openbox/7.png" alt="" />
+									</a>
+									<div class="caption">
+										<h3>Forest</h3>
+										<ul class="actions fixed">
+											<li><span class="button small">Openbox</span></li>
+										</ul>
+									</div>
+								</article>
+								<article>
+									<a href="images/openbox/8.png" class="image">
+										<img src="images/thumbs/openbox/8.png" alt="" />
+									</a>
+									<div class="caption">
+										<h3>Hack</h3>
+										<ul class="actions fixed">
+											<li><span class="button small">Openbox</span></li>
+										</ul>
+									</div>
+								</article>
+								<article>
+									<a href="images/openbox/9.png" class="image">
+										<img src="images/thumbs/openbox/9.png" alt="" />
+									</a>
+									<div class="caption">
+										<h3>Keyboards</h3>
+										<ul class="actions fixed">
+											<li><span class="button small">Openbox</span></li>
+										</ul>
+									</div>
+								</article>
+								<article>
+									<a href="images/openbox/10.png" class="image">
+										<img src="images/thumbs/openbox/10.png" alt="" />
+									</a>
+									<div class="caption">
+										<h3>Kiss</h3>
+										<ul class="actions fixed">
+											<li><span class="button small">Openbox</span></li>
+										</ul>
+									</div>
+								</article>
+								<article>
+									<a href="images/openbox/11.png" class="image">
+										<img src="images/thumbs/openbox/11.png" alt="" />
+									</a>
+									<div class="caption">
+										<h3>Landscape</h3>
+										<ul class="actions fixed">
+											<li><span class="button small">Openbox</span></li>
+										</ul>
+									</div>
+								</article>
+								<article>
+									<a href="images/openbox/12.png" class="image">
+										<img src="images/thumbs/openbox/12.png" alt="" />
+									</a>
+									<div class="caption">
+										<h3>Manhattan</h3>
+										<ul class="actions fixed">
+											<li><span class="button small">Openbox</span></li>
+										</ul>
+									</div>
+								</article>
+								<article>
+									<a href="images/openbox/13.png" class="image">
+										<img src="images/thumbs/openbox/13.png" alt="" />
+									</a>
+									<div class="caption">
+										<h3>Mountain</h3>
+										<ul class="actions fixed">
+											<li><span class="button small">Openbox</span></li>
+										</ul>
+									</div>
+								</article>
+								<article>
+									<a href="images/openbox/14.png" class="image">
+										<img src="images/thumbs/openbox/14.png" alt="" />
+									</a>
+									<div class="caption">
+										<h3>Nordic</h3>
+										<ul class="actions fixed">
+											<li><span class="button small">Openbox</span></li>
+										</ul>
+									</div>
+								</article>
+								<article>
+									<a href="images/openbox/15.png" class="image">
+										<img src="images/thumbs/openbox/15.png" alt="" />
+									</a>
+									<div class="caption">
+										<h3>Spark</h3>
+										<ul class="actions fixed">
+											<li><span class="button small">Openbox</span></li>
+										</ul>
+									</div>
+								</article>
+								<article>
+									<a href="images/openbox/16.png" class="image">
+										<img src="images/thumbs/openbox/16.png" alt="" />
+									</a>
+									<div class="caption">
+										<h3>Tealize</h3>
+										<ul class="actions fixed">
+											<li><span class="button small">Openbox</span></li>
+										</ul>
+									</div>
+								</article>
+								<article>
+									<a href="images/openbox/17.png" class="image">
+										<img src="images/thumbs/openbox/17.png" alt="" />
+									</a>
+									<div class="caption">
+										<h3>Wave</h3>
+										<ul class="actions fixed">
+											<li><span class="button small">Openbox</span></li>
+										</ul>
+									</div>
+								</article>
+								<article>
+									<a href="images/openbox/18.png" class="image">
+										<img src="images/thumbs/openbox/18.png" alt="" />
+									</a>
+									<div class="caption">
+										<h3>Forest Bitmap</h3>
+										<ul class="actions fixed">
+											<li><span class="button small">Openbox</span></li>
+										</ul>
+									</div>
+								</article>
+								<article>
+									<a href="images/openbox/19.png" class="image">
+										<img src="images/thumbs/openbox/19.png" alt="" />
+									</a>
+									<div class="caption">
+										<h3>Beach Bitmap</h3>
+										<ul class="actions fixed">
+											<li><span class="button small">Openbox</span></li>
+										</ul>
+									</div>
+								</article>
+							</div>
+					</section>
+			</div>
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+	</body>
+</html>

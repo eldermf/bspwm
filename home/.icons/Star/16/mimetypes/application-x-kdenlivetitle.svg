@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 23.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="레이어_1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 16 16"
+   xml:space="preserve"
+   sodipodi:docname="kdenlive.svg"
+   width="16"
+   height="16"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"><metadata
+   id="metadata43"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><defs
+   id="defs41" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1168"
+   inkscape:window-height="711"
+   id="namedview39"
+   showgrid="false"
+   inkscape:zoom="14.75"
+   inkscape:cx="4.4693382"
+   inkscape:cy="2.7944478"
+   inkscape:window-x="182"
+   inkscape:window-y="58"
+   inkscape:window-maximized="0"
+   inkscape:current-layer="g36" />
+<style
+   type="text/css"
+   id="style2">
+	.st0{opacity:0.1;}
+	.st1{fill:#7751AE;}
+	.st2{fill:#FFFFFF;}
+	.st3{fill:#A88BEC;}
+</style>
+
+
+<g
+   id="g36"
+   transform="translate(0,-240)">
+	<g
+   id="g22"
+   style="fill:#363636;fill-opacity:1"
+   transform="matrix(0.0800428,0,0,0.0800428,-2.5342641,237.83135)">
+		<path
+   class="st1"
+   d="m 188.6,78.4 h -11.1 c 0.1,0.8 0.2,1.5 0.2,2.3 0,7.2 -5.8,13 -13,13 -7.2,0 -13,-5.8 -13,-13 0,-0.8 0.1,-1.6 0.2,-2.3 H 66.5 C 59,78.4 52.9,84.5 52.9,92 v 4.2 c 6.2,1 11,6.3 11,12.8 0,6.5 -4.8,11.9 -11,12.8 v 49.6 c 0,7.5 6.1,13.6 13.6,13.6 h 71 c 21.6,-21.6 43.1,-43.3 64.7,-64.9 v -28 c 0,-7.6 -6.1,-13.7 -13.6,-13.7 z m -99.4,43.5 c -7.2,0 -13,-5.8 -13,-13 0,-7.2 5.8,-13 13,-13 7.2,0 13,5.8 13,13 0,7.2 -5.8,13 -13,13 z m 37.6,0 c -7.2,0 -13,-5.8 -13,-13 0,-7.2 5.8,-13 13,-13 7.2,0 13,5.8 13,13 0,7.2 -5.8,13 -13,13 z"
+   id="path12"
+   inkscape:connector-curvature="0"
+   style="fill:#363636;fill-opacity:1" />
+		<circle
+   class="st1"
+   cx="166.60001"
+   cy="51.799999"
+   r="11.5"
+   id="circle14"
+   style="fill:#363636;fill-opacity:1" />
+		<g
+   id="g20"
+   style="fill:#363636;fill-opacity:1">
+			<path
+   class="st1"
+   d="m 190.5,196.2 c -8.5,1.9 -17,3.9 -25.5,5.8 2,-8.5 4,-16.9 6,-25.4 2.8,-2.8 5.7,-5.7 8.5,-8.5 6.5,6.5 13,13 19.5,19.6 -2.8,2.8 -5.6,5.7 -8.5,8.5 z"
+   id="path16"
+   inkscape:connector-curvature="0"
+   style="fill:#363636;fill-opacity:1" />
+			
+				<rect
+   x="173"
+   y="153.89999"
+   transform="matrix(0.7071,-0.7071,0.7071,0.7071,-60.1954,190.1667)"
+   class="st1"
+   width="52.799999"
+   height="27.6"
+   id="rect18"
+   style="fill:#363636;fill-opacity:1" />
+		</g>
+	</g>
+	
+</g>
+</svg>

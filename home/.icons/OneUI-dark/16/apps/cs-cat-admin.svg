@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16"
+   height="16"
+   viewBox="0 0 4.2333332 4.2333335"
+   version="1.1"
+   id="svg834"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="cs-cat-admin.svg">
+  <defs
+     id="defs828" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="36.10664"
+     inkscape:cx="3.7909149"
+     inkscape:cy="8.4510609"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1004"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata831">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-292.76666)">
+    <path
+       inkscape:connector-curvature="0"
+       class="st2"
+       d="m 0.7379,296.47082 c -0.22684,0 -0.45094,0 -0.67778,0 0.51107,-0.54659 1.02213,-1.09317 1.53319,-1.63976 C 1.06038,294.28447 0.53019,293.73788 0,293.19129 c 0.22957,0.003 0.45913,0.008 0.69144,0.0109 0.52745,0.54386 1.05218,1.08498 1.57964,1.62883 -0.51106,0.54659 -1.02212,1.09318 -1.53318,1.63977 z"
+       id="path12"
+       style="fill:#e6e6e6;fill-opacity:1;stroke-width:0.02732946" />
+    <rect
+       x="2.3612669"
+       y="296.00348"
+       class="st2"
+       width="1.872068"
+       height="0.46733376"
+       id="rect14"
+       style="fill:#e6e6e6;fill-opacity:1;stroke-width:0.02732946" />
+  </g>
+</svg>

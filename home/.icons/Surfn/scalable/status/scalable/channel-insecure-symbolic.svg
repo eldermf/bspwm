@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<svg height="16.003" style="enable-background:new" version="1.1" width="16" xmlns="http://www.w3.org/2000/svg">
+ <title>
+  Paper Symbolic Icon Theme
+ </title>
+ <g transform="translate(-365.0002,231)">
+  <path d="m 373.0002,-230 c -2.216,0 -4,1.82162 -4,4.0625 l 0,1.9375 -1,0 c -0.554,0 -1,0.446 -1,1 l 0,6 c 0,0.554 0.446,1 1,1 l 9,0 0,-8 0,-1 0,-0.9375 c 0,-2.24 -1.784,-4.0625 -4,-4.0625 z m 0,2 c 1.108,0 2,0.892 2,2 l 0,2 -4,0 0,-2 c 0,-1.108 0.892,-2 2,-2 z m 2.5,0.3125 c 0.21523,0.3191 0.35784,0.70246 0.4375,1.09375 -0.0797,-0.39129 -0.22227,-0.77465 -0.4375,-1.09375 z" style="fill:#555555;fill-opacity:1"/>
+  <path class="warning" d="m 378.00281,-223.99664 10e-6,4.00003 0.25,2 1.5,0 0.25,-2 -10e-6,-4.00003 z m 0,7 0,2 2,0 0,-2 z" style="fill:#f67d42;fill-opacity:1"/>
+ </g>
+</svg>

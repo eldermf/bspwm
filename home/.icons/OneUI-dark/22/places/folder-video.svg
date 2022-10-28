@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="22"
+   height="22"
+   viewBox="0 0 5.8208332 5.8208335"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c4e8f9ed74, 2021-05-24)"
+   sodipodi:docname="folder-video.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     height="22px"
+     inkscape:zoom="16"
+     inkscape:cx="3.5625"
+     inkscape:cy="10.0625"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5"
+     inkscape:lockguides="true" />
+  <defs
+     id="defs2">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+        .ColorScheme-Text { color:#dedede; }
+    </style>
+  </defs>
+  <path
+     id="rect948"
+     style="fill:currentColor;stroke-width:1.88257"
+     class="ColorScheme-Text"
+     d="M 4.0820312 3 C 3.4829831 3 3 3.4829831 3 4.0820312 L 3 17.917969 C 3 18.517017 3.4829831 19 4.0820312 19 L 17.917969 19 C 18.517017 19 19 18.517017 19 17.917969 L 19 4.0820312 C 19 3.4829831 18.517017 3 17.917969 3 L 4.0820312 3 z M 7.5234375 6.5253906 C 7.6154966 6.5241381 7.7106013 6.5456031 7.8007812 6.5957031 C 10.112156 7.9167116 12.415441 9.2188988 14.728516 10.541016 C 15.089238 10.741416 15.089238 11.301555 14.728516 11.501953 C 12.431058 12.828675 10.139449 14.153156 7.8417969 15.478516 C 7.481075 15.678917 7 15.438929 7 14.998047 L 7 7.078125 C 7 6.7474627 7.2472602 6.5291479 7.5234375 6.5253906 z "
+     transform="scale(0.26458333)" />
+</svg>

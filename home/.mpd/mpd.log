@@ -1,0 +1,581 @@
+Aug 15 19:12 : state_file: Unrecognized line in state file: ## Copyright (C) 2020-2021 Aditya Shakya <adi1090x@gmail.com>
+Aug 15 19:12 : state_file: Unrecognized line in state file: ## Everyone is permitted to copy and distribute copies of this file under GNU-GPL3
+Aug 15 19:12 : state_file: Unrecognized line in state file:
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+Aug 15 19:34 : player: played "NEFFEX - Grateful [Copyright Free].mp3"
+mpd: pthread_mutex_lock.c:448: __pthread_mutex_lock_full: Assertion `robust || (oldval & FUTEX_OWNER_DIED) == 0' failed.
+Aug 15 19:47 : player: played "NEFFEX - Grateful [Copyright Free].mp3"
+Aug 15 19:48 : update: updating /Cartoon - On & On (feat. Daniel Levi) [NCS Release].mp3
+Aug 15 19:48 : update: updating /Culture Code - Make Me Move (feat. Karra) [NCS Release].mp3
+Aug 15 19:48 : update: updating /Janji - Heroes Tonight (feat. Johnning) [NCS Release].mp3
+Aug 15 19:48 : update: updating /N3WPORT - Power (feat. braev) [NCS Release].mp3
+Aug 15 19:48 : update: updating /NEFFEX - Grateful [Copyright Free].mp3
+Aug 15 19:48 : update: added /Evanescence_Bring Me To Life.mp3
+Aug 15 19:48 : update: added /Evanescence_My Immortal.mp3
+Aug 15 19:48 : update: added /Night_The Beauty and the Beast.mp3
+Aug 15 19:48 : update: added /nightwish_-_bless_the_child-alc.mp3
+Aug 15 19:48 : update: added /Nightwish_Nemo.mp3
+Aug 15 19:48 : update: added /nightwish_-_sleeping_sun-alc.mp3
+Aug 15 19:48 : update: added /Ozzy_Osbourne-Woman.mp3
+Aug 15 19:57 : player: played "Evanescence_My Immortal.mp3"
+Aug 28 17:45 : exception: Failed to decode /home/eldermf/Música/Evanescence_My Immortal.mp3; Failed to open '/home/eldermf/Música/Evanescence_My Immortal.mp3': No such file or directory
+Aug 28 17:45 : exception: Failed to decode /home/eldermf/Música/NEFFEX - Grateful [Copyright Free].mp3; Failed to open '/home/eldermf/Música/NEFFEX - Grateful [Copyright Free].mp3': No such file or directory
+Aug 28 17:45 : player: played "Evanescence_My Immortal.mp3"
+Aug 28 17:45 : exception: Failed to decode /home/eldermf/Música/Evanescence_My Immortal.mp3; Failed to open '/home/eldermf/Música/Evanescence_My Immortal.mp3': No such file or directory
+Aug 28 17:45 : exception: Failed to decode /home/eldermf/Música/NEFFEX - Grateful [Copyright Free].mp3; Failed to open '/home/eldermf/Música/NEFFEX - Grateful [Copyright Free].mp3': No such file or directory
+Aug 28 17:45 : player: played "Evanescence_My Immortal.mp3"
+Aug 28 17:45 : exception: Failed to decode /home/eldermf/Música/NEFFEX - Grateful [Copyright Free].mp3; Failed to open '/home/eldermf/Música/NEFFEX - Grateful [Copyright Free].mp3': No such file or directory
+Aug 28 17:45 : player: played "NEFFEX - Grateful [Copyright Free].mp3"
+Aug 28 17:45 : exception: Failed to decode /home/eldermf/Música/Cartoon - On & On (feat. Daniel Levi) [NCS Release].mp3; Failed to open '/home/eldermf/Música/Cartoon - On & On (feat. Daniel Levi) [NCS Release].mp3': No such file or directory
+Aug 28 17:45 : player: played "Cartoon - On & On (feat. Daniel Levi) [NCS Release].mp3"
+Aug 28 17:45 : exception: Failed to decode /home/eldermf/Música/Culture Code - Make Me Move (feat. Karra) [NCS Release].mp3; Failed to open '/home/eldermf/Música/Culture Code - Make Me Move (feat. Karra) [NCS Release].mp3': No such file or directory
+Aug 28 17:45 : player: played "Culture Code - Make Me Move (feat. Karra) [NCS Release].mp3"
+Aug 28 17:45 : exception: Failed to decode /home/eldermf/Música/Janji - Heroes Tonight (feat. Johnning) [NCS Release].mp3; Failed to open '/home/eldermf/Música/Janji - Heroes Tonight (feat. Johnning) [NCS Release].mp3': No such file or directory
+Aug 28 17:45 : player: played "Janji - Heroes Tonight (feat. Johnning) [NCS Release].mp3"
+Aug 28 17:45 : exception: Failed to decode /home/eldermf/Música/N3WPORT - Power (feat. braev) [NCS Release].mp3; Failed to open '/home/eldermf/Música/N3WPORT - Power (feat. braev) [NCS Release].mp3': No such file or directory
+Aug 28 17:45 : player: played "N3WPORT - Power (feat. braev) [NCS Release].mp3"
+Aug 28 17:45 : exception: Failed to decode /home/eldermf/Música/Night_The Beauty and the Beast.mp3; Failed to open '/home/eldermf/Música/Night_The Beauty and the Beast.mp3': No such file or directory
+Aug 28 17:45 : player: played "Night_The Beauty and the Beast.mp3"
+Aug 28 17:45 : exception: Failed to decode /home/eldermf/Música/nightwish_-_sleeping_sun-alc.mp3; Failed to open '/home/eldermf/Música/nightwish_-_sleeping_sun-alc.mp3': No such file or directory
+Aug 28 17:45 : player: played "nightwish_-_sleeping_sun-alc.mp3"
+Aug 28 17:45 : exception: Failed to decode /home/eldermf/Música/nightwish_-_bless_the_child-alc.mp3; Failed to open '/home/eldermf/Música/nightwish_-_bless_the_child-alc.mp3': No such file or directory
+Aug 28 17:45 : exception: Failed to decode /home/eldermf/Música/Nightwish_Nemo.mp3; Failed to open '/home/eldermf/Música/Nightwish_Nemo.mp3': No such file or directory
+Aug 28 17:45 : player: played "nightwish_-_bless_the_child-alc.mp3"
+Aug 28 17:45 : exception: Failed to decode /home/eldermf/Música/Nightwish_Nemo.mp3; Failed to open '/home/eldermf/Música/Nightwish_Nemo.mp3': No such file or directory
+Aug 28 17:45 : player: played "Nightwish_Nemo.mp3"
+Aug 28 17:45 : exception: Failed to decode /home/eldermf/Música/Evanescence_Bring Me To Life.mp3; Failed to open '/home/eldermf/Música/Evanescence_Bring Me To Life.mp3': No such file or directory
+Aug 28 17:45 : player: played "Evanescence_Bring Me To Life.mp3"
+Aug 28 17:45 : exception: Failed to decode /home/eldermf/Música/Evanescence_Bring Me To Life.mp3; Failed to open '/home/eldermf/Música/Evanescence_Bring Me To Life.mp3': No such file or directory
+Aug 28 17:45 : player: played "Evanescence_Bring Me To Life.mp3"
+Aug 28 17:45 : exception: Failed to decode /home/eldermf/Música/Evanescence_My Immortal.mp3; Failed to open '/home/eldermf/Música/Evanescence_My Immortal.mp3': No such file or directory
+Aug 28 17:45 : player: played "Evanescence_My Immortal.mp3"
+Aug 28 17:45 : exception: Failed to decode /home/eldermf/Música/NEFFEX - Grateful [Copyright Free].mp3; Failed to open '/home/eldermf/Música/NEFFEX - Grateful [Copyright Free].mp3': No such file or directory
+Aug 28 17:45 : player: played "NEFFEX - Grateful [Copyright Free].mp3"
+Aug 28 17:45 : exception: Failed to decode /home/eldermf/Música/Cartoon - On & On (feat. Daniel Levi) [NCS Release].mp3; Failed to open '/home/eldermf/Música/Cartoon - On & On (feat. Daniel Levi) [NCS Release].mp3': No such file or directory
+Aug 28 17:45 : player: played "Cartoon - On & On (feat. Daniel Levi) [NCS Release].mp3"
+Aug 28 17:45 : exception: Failed to decode /home/eldermf/Música/Culture Code - Make Me Move (feat. Karra) [NCS Release].mp3; Failed to open '/home/eldermf/Música/Culture Code - Make Me Move (feat. Karra) [NCS Release].mp3': No such file or directory
+Aug 28 17:45 : player: played "Culture Code - Make Me Move (feat. Karra) [NCS Release].mp3"
+Aug 28 17:45 : exception: Failed to decode /home/eldermf/Música/Janji - Heroes Tonight (feat. Johnning) [NCS Release].mp3; Failed to open '/home/eldermf/Música/Janji - Heroes Tonight (feat. Johnning) [NCS Release].mp3': No such file or directory
+Aug 28 17:45 : player: played "Janji - Heroes Tonight (feat. Johnning) [NCS Release].mp3"
+Aug 28 17:45 : exception: Failed to decode /home/eldermf/Música/N3WPORT - Power (feat. braev) [NCS Release].mp3; Failed to open '/home/eldermf/Música/N3WPORT - Power (feat. braev) [NCS Release].mp3': No such file or directory
+Aug 28 17:45 : player: played "N3WPORT - Power (feat. braev) [NCS Release].mp3"
+Aug 28 17:45 : exception: Failed to decode /home/eldermf/Música/Night_The Beauty and the Beast.mp3; Failed to open '/home/eldermf/Música/Night_The Beauty and the Beast.mp3': No such file or directory
+Aug 28 17:45 : player: played "Night_The Beauty and the Beast.mp3"
+Aug 28 17:45 : exception: Failed to decode /home/eldermf/Música/nightwish_-_sleeping_sun-alc.mp3; Failed to open '/home/eldermf/Música/nightwish_-_sleeping_sun-alc.mp3': No such file or directory
+Aug 28 17:45 : player: played "nightwish_-_sleeping_sun-alc.mp3"
+Aug 28 17:45 : exception: Failed to decode /home/eldermf/Música/nightwish_-_bless_the_child-alc.mp3; Failed to open '/home/eldermf/Música/nightwish_-_bless_the_child-alc.mp3': No such file or directory
+Aug 28 17:45 : player: played "nightwish_-_bless_the_child-alc.mp3"
+Aug 28 17:45 : exception: Failed to decode /home/eldermf/Música/Nightwish_Nemo.mp3; Failed to open '/home/eldermf/Música/Nightwish_Nemo.mp3': No such file or directory
+Aug 28 17:45 : player: played "Nightwish_Nemo.mp3"
+Aug 28 17:50 : exception: Failed to decode /home/eldermf/Música/Nightwish_Nemo.mp3; Failed to open '/home/eldermf/Música/Nightwish_Nemo.mp3': No such file or directory
+Aug 28 17:50 : player: played "Nightwish_Nemo.mp3"
+Aug 28 17:50 : exception: Failed to decode /home/eldermf/Música/Evanescence_Bring Me To Life.mp3; Failed to open '/home/eldermf/Música/Evanescence_Bring Me To Life.mp3': No such file or directory
+Aug 28 17:50 : player: played "Evanescence_Bring Me To Life.mp3"
+Aug 28 17:50 : exception: Failed to decode /home/eldermf/Música/Evanescence_My Immortal.mp3; Failed to open '/home/eldermf/Música/Evanescence_My Immortal.mp3': No such file or directory
+Aug 28 17:50 : player: played "Evanescence_My Immortal.mp3"
+Aug 28 17:50 : exception: Failed to decode /home/eldermf/Música/NEFFEX - Grateful [Copyright Free].mp3; Failed to open '/home/eldermf/Música/NEFFEX - Grateful [Copyright Free].mp3': No such file or directory
+Aug 28 17:50 : player: played "NEFFEX - Grateful [Copyright Free].mp3"
+Aug 28 17:50 : exception: Failed to decode /home/eldermf/Música/Cartoon - On & On (feat. Daniel Levi) [NCS Release].mp3; Failed to open '/home/eldermf/Música/Cartoon - On & On (feat. Daniel Levi) [NCS Release].mp3': No such file or directory
+Aug 28 17:50 : player: played "Cartoon - On & On (feat. Daniel Levi) [NCS Release].mp3"
+Aug 28 17:50 : exception: Failed to decode /home/eldermf/Música/Culture Code - Make Me Move (feat. Karra) [NCS Release].mp3; Failed to open '/home/eldermf/Música/Culture Code - Make Me Move (feat. Karra) [NCS Release].mp3': No such file or directory
+Aug 28 17:50 : player: played "Culture Code - Make Me Move (feat. Karra) [NCS Release].mp3"
+Aug 28 17:50 : exception: Failed to decode /home/eldermf/Música/Janji - Heroes Tonight (feat. Johnning) [NCS Release].mp3; Failed to open '/home/eldermf/Música/Janji - Heroes Tonight (feat. Johnning) [NCS Release].mp3': No such file or directory
+Aug 28 17:50 : player: played "Janji - Heroes Tonight (feat. Johnning) [NCS Release].mp3"
+Aug 28 17:50 : exception: Failed to decode /home/eldermf/Música/N3WPORT - Power (feat. braev) [NCS Release].mp3; Failed to open '/home/eldermf/Música/N3WPORT - Power (feat. braev) [NCS Release].mp3': No such file or directory
+Aug 28 17:50 : player: played "N3WPORT - Power (feat. braev) [NCS Release].mp3"
+Aug 28 17:50 : exception: Failed to decode /home/eldermf/Música/Night_The Beauty and the Beast.mp3; Failed to open '/home/eldermf/Música/Night_The Beauty and the Beast.mp3': No such file or directory
+Aug 28 17:50 : player: played "Night_The Beauty and the Beast.mp3"
+Aug 28 17:50 : exception: Failed to decode /home/eldermf/Música/nightwish_-_sleeping_sun-alc.mp3; Failed to open '/home/eldermf/Música/nightwish_-_sleeping_sun-alc.mp3': No such file or directory
+Aug 28 17:50 : player: played "nightwish_-_sleeping_sun-alc.mp3"
+Aug 28 17:50 : exception: Failed to decode /home/eldermf/Música/nightwish_-_bless_the_child-alc.mp3; Failed to open '/home/eldermf/Música/nightwish_-_bless_the_child-alc.mp3': No such file or directory
+Aug 28 17:50 : player: played "nightwish_-_bless_the_child-alc.mp3"
+Aug 28 17:56 : exception: Failed to decode /home/eldermf/Música/nightwish_-_bless_the_child-alc.mp3; Failed to open '/home/eldermf/Música/nightwish_-_bless_the_child-alc.mp3': No such file or directory
+Aug 28 17:56 : player: played "nightwish_-_bless_the_child-alc.mp3"
+Aug 28 17:56 : exception: Failed to decode /home/eldermf/Música/Nightwish_Nemo.mp3; Failed to open '/home/eldermf/Música/Nightwish_Nemo.mp3': No such file or directory
+Aug 28 17:56 : player: played "Nightwish_Nemo.mp3"
+Aug 28 17:56 : exception: Failed to decode /home/eldermf/Música/Evanescence_Bring Me To Life.mp3; Failed to open '/home/eldermf/Música/Evanescence_Bring Me To Life.mp3': No such file or directory
+Aug 28 17:56 : player: played "Evanescence_Bring Me To Life.mp3"
+Aug 28 17:56 : exception: Failed to decode /home/eldermf/Música/Evanescence_My Immortal.mp3; Failed to open '/home/eldermf/Música/Evanescence_My Immortal.mp3': No such file or directory
+Aug 28 17:56 : player: played "Evanescence_My Immortal.mp3"
+Aug 28 17:56 : exception: Failed to decode /home/eldermf/Música/NEFFEX - Grateful [Copyright Free].mp3; Failed to open '/home/eldermf/Música/NEFFEX - Grateful [Copyright Free].mp3': No such file or directory
+Aug 28 17:56 : player: played "NEFFEX - Grateful [Copyright Free].mp3"
+Aug 28 17:56 : exception: Failed to decode /home/eldermf/Música/Cartoon - On & On (feat. Daniel Levi) [NCS Release].mp3; Failed to open '/home/eldermf/Música/Cartoon - On & On (feat. Daniel Levi) [NCS Release].mp3': No such file or directory
+Aug 28 17:56 : player: played "Cartoon - On & On (feat. Daniel Levi) [NCS Release].mp3"
+Aug 28 17:56 : exception: Failed to decode /home/eldermf/Música/Culture Code - Make Me Move (feat. Karra) [NCS Release].mp3; Failed to open '/home/eldermf/Música/Culture Code - Make Me Move (feat. Karra) [NCS Release].mp3': No such file or directory
+Aug 28 17:56 : player: played "Culture Code - Make Me Move (feat. Karra) [NCS Release].mp3"
+Aug 28 17:56 : exception: Failed to decode /home/eldermf/Música/Janji - Heroes Tonight (feat. Johnning) [NCS Release].mp3; Failed to open '/home/eldermf/Música/Janji - Heroes Tonight (feat. Johnning) [NCS Release].mp3': No such file or directory
+Aug 28 17:56 : player: played "Janji - Heroes Tonight (feat. Johnning) [NCS Release].mp3"
+Aug 28 17:56 : exception: Failed to decode /home/eldermf/Música/N3WPORT - Power (feat. braev) [NCS Release].mp3; Failed to open '/home/eldermf/Música/N3WPORT - Power (feat. braev) [NCS Release].mp3': No such file or directory
+Aug 28 17:56 : player: played "N3WPORT - Power (feat. braev) [NCS Release].mp3"
+Aug 28 17:56 : exception: Failed to decode /home/eldermf/Música/Night_The Beauty and the Beast.mp3; Failed to open '/home/eldermf/Música/Night_The Beauty and the Beast.mp3': No such file or directory
+Aug 28 17:56 : player: played "Night_The Beauty and the Beast.mp3"
+Aug 28 17:56 : exception: Failed to decode /home/eldermf/Música/nightwish_-_sleeping_sun-alc.mp3; Failed to open '/home/eldermf/Música/nightwish_-_sleeping_sun-alc.mp3': No such file or directory
+Aug 28 17:56 : player: played "nightwish_-_sleeping_sun-alc.mp3"
+Aug 28 18:02 : exception: Failed to decode /home/eldermf/Música/nightwish_-_sleeping_sun-alc.mp3; Failed to open '/home/eldermf/Música/nightwish_-_sleeping_sun-alc.mp3': No such file or directory
+Aug 28 18:02 : player: played "nightwish_-_sleeping_sun-alc.mp3"
+Aug 28 18:02 : exception: Failed to decode /home/eldermf/Música/nightwish_-_bless_the_child-alc.mp3; Failed to open '/home/eldermf/Música/nightwish_-_bless_the_child-alc.mp3': No such file or directory
+Aug 28 18:02 : player: played "nightwish_-_bless_the_child-alc.mp3"
+Aug 28 18:02 : exception: Failed to decode /home/eldermf/Música/Nightwish_Nemo.mp3; Failed to open '/home/eldermf/Música/Nightwish_Nemo.mp3': No such file or directory
+Aug 28 18:02 : player: played "Nightwish_Nemo.mp3"
+Aug 28 18:02 : exception: Failed to decode /home/eldermf/Música/Evanescence_Bring Me To Life.mp3; Failed to open '/home/eldermf/Música/Evanescence_Bring Me To Life.mp3': No such file or directory
+Aug 28 18:02 : player: played "Evanescence_Bring Me To Life.mp3"
+Aug 28 18:02 : exception: Failed to decode /home/eldermf/Música/Evanescence_My Immortal.mp3; Failed to open '/home/eldermf/Música/Evanescence_My Immortal.mp3': No such file or directory
+Aug 28 18:02 : player: played "Evanescence_My Immortal.mp3"
+Aug 28 18:02 : exception: Failed to decode /home/eldermf/Música/NEFFEX - Grateful [Copyright Free].mp3; Failed to open '/home/eldermf/Música/NEFFEX - Grateful [Copyright Free].mp3': No such file or directory
+Aug 28 18:02 : player: played "NEFFEX - Grateful [Copyright Free].mp3"
+Aug 28 18:02 : exception: Failed to decode /home/eldermf/Música/Cartoon - On & On (feat. Daniel Levi) [NCS Release].mp3; Failed to open '/home/eldermf/Música/Cartoon - On & On (feat. Daniel Levi) [NCS Release].mp3': No such file or directory
+Aug 28 18:02 : player: played "Cartoon - On & On (feat. Daniel Levi) [NCS Release].mp3"
+Aug 28 18:02 : exception: Failed to decode /home/eldermf/Música/Culture Code - Make Me Move (feat. Karra) [NCS Release].mp3; Failed to open '/home/eldermf/Música/Culture Code - Make Me Move (feat. Karra) [NCS Release].mp3': No such file or directory
+Aug 28 18:02 : player: played "Culture Code - Make Me Move (feat. Karra) [NCS Release].mp3"
+Aug 28 18:02 : exception: Failed to decode /home/eldermf/Música/Janji - Heroes Tonight (feat. Johnning) [NCS Release].mp3; Failed to open '/home/eldermf/Música/Janji - Heroes Tonight (feat. Johnning) [NCS Release].mp3': No such file or directory
+Aug 28 18:02 : player: played "Janji - Heroes Tonight (feat. Johnning) [NCS Release].mp3"
+Aug 28 18:02 : exception: Failed to decode /home/eldermf/Música/N3WPORT - Power (feat. braev) [NCS Release].mp3; Failed to open '/home/eldermf/Música/N3WPORT - Power (feat. braev) [NCS Release].mp3': No such file or directory
+Aug 28 18:02 : player: played "N3WPORT - Power (feat. braev) [NCS Release].mp3"
+Aug 28 18:02 : exception: Failed to decode /home/eldermf/Música/Night_The Beauty and the Beast.mp3; Failed to open '/home/eldermf/Música/Night_The Beauty and the Beast.mp3': No such file or directory
+Aug 28 18:02 : player: played "Night_The Beauty and the Beast.mp3"
+Aug 28 18:02 : exception: Failed to decode /home/eldermf/Música/Night_The Beauty and the Beast.mp3; Failed to open '/home/eldermf/Música/Night_The Beauty and the Beast.mp3': No such file or directory
+Aug 28 18:02 : player: played "Night_The Beauty and the Beast.mp3"
+Aug 28 18:02 : exception: Failed to decode /home/eldermf/Música/nightwish_-_sleeping_sun-alc.mp3; Failed to open '/home/eldermf/Música/nightwish_-_sleeping_sun-alc.mp3': No such file or directory
+Aug 28 18:02 : player: played "nightwish_-_sleeping_sun-alc.mp3"
+Aug 28 18:02 : exception: Failed to decode /home/eldermf/Música/nightwish_-_bless_the_child-alc.mp3; Failed to open '/home/eldermf/Música/nightwish_-_bless_the_child-alc.mp3': No such file or directory
+Aug 28 18:02 : player: played "nightwish_-_bless_the_child-alc.mp3"
+Aug 28 18:02 : exception: Failed to decode /home/eldermf/Música/Nightwish_Nemo.mp3; Failed to open '/home/eldermf/Música/Nightwish_Nemo.mp3': No such file or directory
+Aug 28 18:02 : player: played "Nightwish_Nemo.mp3"
+Aug 28 18:02 : exception: Failed to decode /home/eldermf/Música/Evanescence_Bring Me To Life.mp3; Failed to open '/home/eldermf/Música/Evanescence_Bring Me To Life.mp3': No such file or directory
+Aug 28 18:02 : player: played "Evanescence_Bring Me To Life.mp3"
+Aug 28 18:02 : exception: Failed to decode /home/eldermf/Música/Evanescence_My Immortal.mp3; Failed to open '/home/eldermf/Música/Evanescence_My Immortal.mp3': No such file or directory
+Aug 28 18:02 : player: played "Evanescence_My Immortal.mp3"
+Aug 28 18:02 : exception: Failed to decode /home/eldermf/Música/NEFFEX - Grateful [Copyright Free].mp3; Failed to open '/home/eldermf/Música/NEFFEX - Grateful [Copyright Free].mp3': No such file or directory
+Aug 28 18:02 : player: played "NEFFEX - Grateful [Copyright Free].mp3"
+Aug 28 18:02 : exception: Failed to decode /home/eldermf/Música/Cartoon - On & On (feat. Daniel Levi) [NCS Release].mp3; Failed to open '/home/eldermf/Música/Cartoon - On & On (feat. Daniel Levi) [NCS Release].mp3': No such file or directory
+Aug 28 18:02 : player: played "Cartoon - On & On (feat. Daniel Levi) [NCS Release].mp3"
+Aug 28 18:02 : exception: Failed to decode /home/eldermf/Música/Culture Code - Make Me Move (feat. Karra) [NCS Release].mp3; Failed to open '/home/eldermf/Música/Culture Code - Make Me Move (feat. Karra) [NCS Release].mp3': No such file or directory
+Aug 28 18:02 : player: played "Culture Code - Make Me Move (feat. Karra) [NCS Release].mp3"
+Aug 28 18:02 : exception: Failed to decode /home/eldermf/Música/Janji - Heroes Tonight (feat. Johnning) [NCS Release].mp3; Failed to open '/home/eldermf/Música/Janji - Heroes Tonight (feat. Johnning) [NCS Release].mp3': No such file or directory
+Aug 28 18:02 : player: played "Janji - Heroes Tonight (feat. Johnning) [NCS Release].mp3"
+Aug 28 18:02 : exception: Failed to decode /home/eldermf/Música/N3WPORT - Power (feat. braev) [NCS Release].mp3; Failed to open '/home/eldermf/Música/N3WPORT - Power (feat. braev) [NCS Release].mp3': No such file or directory
+Aug 28 18:02 : player: played "N3WPORT - Power (feat. braev) [NCS Release].mp3"
+Aug 28 18:03 : exception: Failed to decode /home/eldermf/Música/N3WPORT - Power (feat. braev) [NCS Release].mp3; Failed to open '/home/eldermf/Música/N3WPORT - Power (feat. braev) [NCS Release].mp3': No such file or directory
+Aug 28 18:03 : player: played "N3WPORT - Power (feat. braev) [NCS Release].mp3"
+Aug 28 18:03 : exception: Failed to decode /home/eldermf/Música/Night_The Beauty and the Beast.mp3; Failed to open '/home/eldermf/Música/Night_The Beauty and the Beast.mp3': No such file or directory
+Aug 28 18:03 : player: played "Night_The Beauty and the Beast.mp3"
+Aug 28 18:03 : exception: Failed to decode /home/eldermf/Música/nightwish_-_sleeping_sun-alc.mp3; Failed to open '/home/eldermf/Música/nightwish_-_sleeping_sun-alc.mp3': No such file or directory
+Aug 28 18:03 : player: played "nightwish_-_sleeping_sun-alc.mp3"
+Aug 28 18:03 : exception: Failed to decode /home/eldermf/Música/nightwish_-_bless_the_child-alc.mp3; Failed to open '/home/eldermf/Música/nightwish_-_bless_the_child-alc.mp3': No such file or directory
+Aug 28 18:03 : player: played "nightwish_-_bless_the_child-alc.mp3"
+Aug 28 18:03 : exception: Failed to decode /home/eldermf/Música/Nightwish_Nemo.mp3; Failed to open '/home/eldermf/Música/Nightwish_Nemo.mp3': No such file or directory
+Aug 28 18:03 : player: played "Nightwish_Nemo.mp3"
+Aug 28 18:03 : exception: Failed to decode /home/eldermf/Música/Evanescence_Bring Me To Life.mp3; Failed to open '/home/eldermf/Música/Evanescence_Bring Me To Life.mp3': No such file or directory
+Aug 28 18:03 : player: played "Evanescence_Bring Me To Life.mp3"
+Aug 28 18:03 : exception: Failed to decode /home/eldermf/Música/Evanescence_My Immortal.mp3; Failed to open '/home/eldermf/Música/Evanescence_My Immortal.mp3': No such file or directory
+Aug 28 18:03 : player: played "Evanescence_My Immortal.mp3"
+Aug 28 18:03 : exception: Failed to decode /home/eldermf/Música/NEFFEX - Grateful [Copyright Free].mp3; Failed to open '/home/eldermf/Música/NEFFEX - Grateful [Copyright Free].mp3': No such file or directory
+Aug 28 18:03 : player: played "NEFFEX - Grateful [Copyright Free].mp3"
+Aug 28 18:03 : exception: Failed to decode /home/eldermf/Música/Cartoon - On & On (feat. Daniel Levi) [NCS Release].mp3; Failed to open '/home/eldermf/Música/Cartoon - On & On (feat. Daniel Levi) [NCS Release].mp3': No such file or directory
+Aug 28 18:03 : player: played "Cartoon - On & On (feat. Daniel Levi) [NCS Release].mp3"
+Aug 28 18:03 : exception: Failed to decode /home/eldermf/Música/Culture Code - Make Me Move (feat. Karra) [NCS Release].mp3; Failed to open '/home/eldermf/Música/Culture Code - Make Me Move (feat. Karra) [NCS Release].mp3': No such file or directory
+Aug 28 18:03 : player: played "Culture Code - Make Me Move (feat. Karra) [NCS Release].mp3"
+Aug 28 18:03 : exception: Failed to decode /home/eldermf/Música/Janji - Heroes Tonight (feat. Johnning) [NCS Release].mp3; Failed to open '/home/eldermf/Música/Janji - Heroes Tonight (feat. Johnning) [NCS Release].mp3': No such file or directory
+Aug 28 18:03 : player: played "Janji - Heroes Tonight (feat. Johnning) [NCS Release].mp3"
+Aug 28 18:25 : exception: Failed to decode /home/eldermf/Música/Janji - Heroes Tonight (feat. Johnning) [NCS Release].mp3; Failed to open '/home/eldermf/Música/Janji - Heroes Tonight (feat. Johnning) [NCS Release].mp3': No such file or directory
+Aug 28 18:25 : exception: Failed to decode /home/eldermf/Música/N3WPORT - Power (feat. braev) [NCS Release].mp3; Failed to open '/home/eldermf/Música/N3WPORT - Power (feat. braev) [NCS Release].mp3': No such file or directory
+Aug 28 18:25 : player: played "Janji - Heroes Tonight (feat. Johnning) [NCS Release].mp3"
+Aug 28 18:25 : exception: Failed to decode /home/eldermf/Música/N3WPORT - Power (feat. braev) [NCS Release].mp3; Failed to open '/home/eldermf/Música/N3WPORT - Power (feat. braev) [NCS Release].mp3': No such file or directory
+Aug 28 18:25 : player: played "N3WPORT - Power (feat. braev) [NCS Release].mp3"
+Aug 28 18:25 : exception: Failed to decode /home/eldermf/Música/Night_The Beauty and the Beast.mp3; Failed to open '/home/eldermf/Música/Night_The Beauty and the Beast.mp3': No such file or directory
+Aug 28 18:25 : player: played "Night_The Beauty and the Beast.mp3"
+Aug 28 18:25 : exception: Failed to decode /home/eldermf/Música/nightwish_-_sleeping_sun-alc.mp3; Failed to open '/home/eldermf/Música/nightwish_-_sleeping_sun-alc.mp3': No such file or directory
+Aug 28 18:25 : player: played "nightwish_-_sleeping_sun-alc.mp3"
+Aug 28 18:25 : exception: Failed to decode /home/eldermf/Música/nightwish_-_bless_the_child-alc.mp3; Failed to open '/home/eldermf/Música/nightwish_-_bless_the_child-alc.mp3': No such file or directory
+Aug 28 18:25 : player: played "nightwish_-_bless_the_child-alc.mp3"
+Aug 28 18:25 : exception: Failed to decode /home/eldermf/Música/Nightwish_Nemo.mp3; Failed to open '/home/eldermf/Música/Nightwish_Nemo.mp3': No such file or directory
+Aug 28 18:25 : player: played "Nightwish_Nemo.mp3"
+Aug 28 18:25 : exception: Failed to decode /home/eldermf/Música/Evanescence_Bring Me To Life.mp3; Failed to open '/home/eldermf/Música/Evanescence_Bring Me To Life.mp3': No such file or directory
+Aug 28 18:25 : player: played "Evanescence_Bring Me To Life.mp3"
+Aug 28 18:25 : exception: Failed to decode /home/eldermf/Música/Evanescence_My Immortal.mp3; Failed to open '/home/eldermf/Música/Evanescence_My Immortal.mp3': No such file or directory
+Aug 28 18:25 : player: played "Evanescence_My Immortal.mp3"
+Aug 28 18:25 : exception: Failed to decode /home/eldermf/Música/NEFFEX - Grateful [Copyright Free].mp3; Failed to open '/home/eldermf/Música/NEFFEX - Grateful [Copyright Free].mp3': No such file or directory
+Aug 28 18:25 : exception: Failed to decode /home/eldermf/Música/Cartoon - On & On (feat. Daniel Levi) [NCS Release].mp3; Failed to open '/home/eldermf/Música/Cartoon - On & On (feat. Daniel Levi) [NCS Release].mp3': No such file or directory
+Aug 28 18:25 : player: played "NEFFEX - Grateful [Copyright Free].mp3"
+Aug 28 18:25 : exception: Failed to decode /home/eldermf/Música/Cartoon - On & On (feat. Daniel Levi) [NCS Release].mp3; Failed to open '/home/eldermf/Música/Cartoon - On & On (feat. Daniel Levi) [NCS Release].mp3': No such file or directory
+Aug 28 18:25 : player: played "Cartoon - On & On (feat. Daniel Levi) [NCS Release].mp3"
+Aug 28 18:25 : exception: Failed to decode /home/eldermf/Música/Culture Code - Make Me Move (feat. Karra) [NCS Release].mp3; Failed to open '/home/eldermf/Música/Culture Code - Make Me Move (feat. Karra) [NCS Release].mp3': No such file or directory
+Aug 28 18:25 : player: played "Culture Code - Make Me Move (feat. Karra) [NCS Release].mp3"
+Aug 28 18:40 : exception: Failed to decode /home/eldermf/Música/Culture Code - Make Me Move (feat. Karra) [NCS Release].mp3; Failed to open '/home/eldermf/Música/Culture Code - Make Me Move (feat. Karra) [NCS Release].mp3': No such file or directory
+Aug 28 18:40 : exception: Failed to decode /home/eldermf/Música/Janji - Heroes Tonight (feat. Johnning) [NCS Release].mp3; Failed to open '/home/eldermf/Música/Janji - Heroes Tonight (feat. Johnning) [NCS Release].mp3': No such file or directory
+Aug 28 18:40 : player: played "Culture Code - Make Me Move (feat. Karra) [NCS Release].mp3"
+Aug 28 18:40 : exception: Failed to decode /home/eldermf/Música/Janji - Heroes Tonight (feat. Johnning) [NCS Release].mp3; Failed to open '/home/eldermf/Música/Janji - Heroes Tonight (feat. Johnning) [NCS Release].mp3': No such file or directory
+Aug 28 18:40 : exception: Failed to decode /home/eldermf/Música/N3WPORT - Power (feat. braev) [NCS Release].mp3; Failed to open '/home/eldermf/Música/N3WPORT - Power (feat. braev) [NCS Release].mp3': No such file or directory
+Aug 28 18:40 : player: played "Janji - Heroes Tonight (feat. Johnning) [NCS Release].mp3"
+Aug 28 18:40 : exception: Failed to decode /home/eldermf/Música/N3WPORT - Power (feat. braev) [NCS Release].mp3; Failed to open '/home/eldermf/Música/N3WPORT - Power (feat. braev) [NCS Release].mp3': No such file or directory
+Aug 28 18:40 : player: played "N3WPORT - Power (feat. braev) [NCS Release].mp3"
+Aug 28 18:40 : exception: Failed to decode /home/eldermf/Música/Night_The Beauty and the Beast.mp3; Failed to open '/home/eldermf/Música/Night_The Beauty and the Beast.mp3': No such file or directory
+Aug 28 18:40 : player: played "Night_The Beauty and the Beast.mp3"
+Aug 28 18:40 : exception: Failed to decode /home/eldermf/Música/nightwish_-_sleeping_sun-alc.mp3; Failed to open '/home/eldermf/Música/nightwish_-_sleeping_sun-alc.mp3': No such file or directory
+Aug 28 18:40 : player: played "nightwish_-_sleeping_sun-alc.mp3"
+Aug 28 18:40 : exception: Failed to decode /home/eldermf/Música/nightwish_-_bless_the_child-alc.mp3; Failed to open '/home/eldermf/Música/nightwish_-_bless_the_child-alc.mp3': No such file or directory
+Aug 28 18:40 : exception: Failed to decode /home/eldermf/Música/Nightwish_Nemo.mp3; Failed to open '/home/eldermf/Música/Nightwish_Nemo.mp3': No such file or directory
+Aug 28 18:40 : player: played "nightwish_-_bless_the_child-alc.mp3"
+Aug 28 18:40 : exception: Failed to decode /home/eldermf/Música/Nightwish_Nemo.mp3; Failed to open '/home/eldermf/Música/Nightwish_Nemo.mp3': No such file or directory
+Aug 28 18:40 : exception: Failed to decode /home/eldermf/Música/Evanescence_Bring Me To Life.mp3; Failed to open '/home/eldermf/Música/Evanescence_Bring Me To Life.mp3': No such file or directory
+Aug 28 18:40 : player: played "Nightwish_Nemo.mp3"
+Aug 28 18:40 : exception: Failed to decode /home/eldermf/Música/Evanescence_Bring Me To Life.mp3; Failed to open '/home/eldermf/Música/Evanescence_Bring Me To Life.mp3': No such file or directory
+Aug 28 18:40 : exception: Failed to decode /home/eldermf/Música/Evanescence_My Immortal.mp3; Failed to open '/home/eldermf/Música/Evanescence_My Immortal.mp3': No such file or directory
+Aug 28 18:40 : player: played "Evanescence_Bring Me To Life.mp3"
+Aug 28 18:40 : exception: Failed to decode /home/eldermf/Música/Evanescence_My Immortal.mp3; Failed to open '/home/eldermf/Música/Evanescence_My Immortal.mp3': No such file or directory
+Aug 28 18:40 : exception: Failed to decode /home/eldermf/Música/NEFFEX - Grateful [Copyright Free].mp3; Failed to open '/home/eldermf/Música/NEFFEX - Grateful [Copyright Free].mp3': No such file or directory
+Aug 28 18:40 : player: played "Evanescence_My Immortal.mp3"
+Aug 28 18:40 : exception: Failed to decode /home/eldermf/Música/NEFFEX - Grateful [Copyright Free].mp3; Failed to open '/home/eldermf/Música/NEFFEX - Grateful [Copyright Free].mp3': No such file or directory
+Aug 28 18:40 : exception: Failed to decode /home/eldermf/Música/Cartoon - On & On (feat. Daniel Levi) [NCS Release].mp3; Failed to open '/home/eldermf/Música/Cartoon - On & On (feat. Daniel Levi) [NCS Release].mp3': No such file or directory
+Aug 28 18:40 : player: played "NEFFEX - Grateful [Copyright Free].mp3"
+Aug 28 18:40 : exception: Failed to decode /home/eldermf/Música/Cartoon - On & On (feat. Daniel Levi) [NCS Release].mp3; Failed to open '/home/eldermf/Música/Cartoon - On & On (feat. Daniel Levi) [NCS Release].mp3': No such file or directory
+Aug 28 18:40 : exception: Failed to decode /home/eldermf/Música/Culture Code - Make Me Move (feat. Karra) [NCS Release].mp3; Failed to open '/home/eldermf/Música/Culture Code - Make Me Move (feat. Karra) [NCS Release].mp3': No such file or directory
+Aug 28 18:40 : player: played "Cartoon - On & On (feat. Daniel Levi) [NCS Release].mp3"
+Aug 28 18:40 : exception: Failed to decode /home/eldermf/Música/Cartoon - On & On (feat. Daniel Levi) [NCS Release].mp3; Failed to open '/home/eldermf/Música/Cartoon - On & On (feat. Daniel Levi) [NCS Release].mp3': No such file or directory
+Aug 28 18:40 : exception: Failed to decode /home/eldermf/Música/Culture Code - Make Me Move (feat. Karra) [NCS Release].mp3; Failed to open '/home/eldermf/Música/Culture Code - Make Me Move (feat. Karra) [NCS Release].mp3': No such file or directory
+Aug 28 18:40 : player: played "Cartoon - On & On (feat. Daniel Levi) [NCS Release].mp3"
+Aug 28 18:40 : exception: Failed to decode /home/eldermf/Música/Culture Code - Make Me Move (feat. Karra) [NCS Release].mp3; Failed to open '/home/eldermf/Música/Culture Code - Make Me Move (feat. Karra) [NCS Release].mp3': No such file or directory
+Aug 28 18:40 : player: played "Culture Code - Make Me Move (feat. Karra) [NCS Release].mp3"
+Aug 28 18:40 : exception: Failed to decode /home/eldermf/Música/Janji - Heroes Tonight (feat. Johnning) [NCS Release].mp3; Failed to open '/home/eldermf/Música/Janji - Heroes Tonight (feat. Johnning) [NCS Release].mp3': No such file or directory
+Aug 28 18:40 : player: played "Janji - Heroes Tonight (feat. Johnning) [NCS Release].mp3"
+Aug 28 18:40 : exception: Failed to decode /home/eldermf/Música/N3WPORT - Power (feat. braev) [NCS Release].mp3; Failed to open '/home/eldermf/Música/N3WPORT - Power (feat. braev) [NCS Release].mp3': No such file or directory
+Aug 28 18:40 : player: played "N3WPORT - Power (feat. braev) [NCS Release].mp3"
+Aug 28 18:40 : exception: Failed to decode /home/eldermf/Música/Night_The Beauty and the Beast.mp3; Failed to open '/home/eldermf/Música/Night_The Beauty and the Beast.mp3': No such file or directory
+Aug 28 18:40 : player: played "Night_The Beauty and the Beast.mp3"
+Aug 28 18:40 : exception: Failed to decode /home/eldermf/Música/nightwish_-_sleeping_sun-alc.mp3; Failed to open '/home/eldermf/Música/nightwish_-_sleeping_sun-alc.mp3': No such file or directory
+Aug 28 18:40 : player: played "nightwish_-_sleeping_sun-alc.mp3"
+Aug 28 18:40 : exception: Failed to decode /home/eldermf/Música/nightwish_-_bless_the_child-alc.mp3; Failed to open '/home/eldermf/Música/nightwish_-_bless_the_child-alc.mp3': No such file or directory
+Aug 28 18:40 : player: played "nightwish_-_bless_the_child-alc.mp3"
+Aug 28 18:40 : exception: Failed to decode /home/eldermf/Música/Nightwish_Nemo.mp3; Failed to open '/home/eldermf/Música/Nightwish_Nemo.mp3': No such file or directory
+Aug 28 18:40 : player: played "Nightwish_Nemo.mp3"
+Aug 28 18:40 : exception: Failed to decode /home/eldermf/Música/Evanescence_Bring Me To Life.mp3; Failed to open '/home/eldermf/Música/Evanescence_Bring Me To Life.mp3': No such file or directory
+Aug 28 18:40 : player: played "Evanescence_Bring Me To Life.mp3"
+Aug 28 18:40 : exception: Failed to decode /home/eldermf/Música/Evanescence_My Immortal.mp3; Failed to open '/home/eldermf/Música/Evanescence_My Immortal.mp3': No such file or directory
+Aug 28 18:40 : player: played "Evanescence_My Immortal.mp3"
+Aug 28 18:40 : exception: Failed to decode /home/eldermf/Música/NEFFEX - Grateful [Copyright Free].mp3; Failed to open '/home/eldermf/Música/NEFFEX - Grateful [Copyright Free].mp3': No such file or directory
+Aug 28 18:40 : player: played "NEFFEX - Grateful [Copyright Free].mp3"
+Aug 28 18:50 : exception: Failed to decode /home/eldermf/Música/NEFFEX - Grateful [Copyright Free].mp3; Failed to open '/home/eldermf/Música/NEFFEX - Grateful [Copyright Free].mp3': No such file or directory
+Aug 28 18:50 : player: played "NEFFEX - Grateful [Copyright Free].mp3"
+Aug 28 18:50 : exception: Failed to decode /home/eldermf/Música/Cartoon - On & On (feat. Daniel Levi) [NCS Release].mp3; Failed to open '/home/eldermf/Música/Cartoon - On & On (feat. Daniel Levi) [NCS Release].mp3': No such file or directory
+Aug 28 18:50 : exception: Failed to decode /home/eldermf/Música/Culture Code - Make Me Move (feat. Karra) [NCS Release].mp3; Failed to open '/home/eldermf/Música/Culture Code - Make Me Move (feat. Karra) [NCS Release].mp3': No such file or directory
+Aug 28 18:50 : player: played "Cartoon - On & On (feat. Daniel Levi) [NCS Release].mp3"
+Aug 28 18:50 : exception: Failed to decode /home/eldermf/Música/Culture Code - Make Me Move (feat. Karra) [NCS Release].mp3; Failed to open '/home/eldermf/Música/Culture Code - Make Me Move (feat. Karra) [NCS Release].mp3': No such file or directory
+Aug 28 18:50 : player: played "Culture Code - Make Me Move (feat. Karra) [NCS Release].mp3"
+Aug 28 18:50 : exception: Failed to decode /home/eldermf/Música/Janji - Heroes Tonight (feat. Johnning) [NCS Release].mp3; Failed to open '/home/eldermf/Música/Janji - Heroes Tonight (feat. Johnning) [NCS Release].mp3': No such file or directory
+Aug 28 18:50 : player: played "Janji - Heroes Tonight (feat. Johnning) [NCS Release].mp3"
+Aug 28 18:50 : exception: Failed to decode /home/eldermf/Música/N3WPORT - Power (feat. braev) [NCS Release].mp3; Failed to open '/home/eldermf/Música/N3WPORT - Power (feat. braev) [NCS Release].mp3': No such file or directory
+Aug 28 18:50 : player: played "N3WPORT - Power (feat. braev) [NCS Release].mp3"
+Aug 28 18:50 : exception: Failed to decode /home/eldermf/Música/Night_The Beauty and the Beast.mp3; Failed to open '/home/eldermf/Música/Night_The Beauty and the Beast.mp3': No such file or directory
+Aug 28 18:50 : player: played "Night_The Beauty and the Beast.mp3"
+Aug 28 18:50 : exception: Failed to decode /home/eldermf/Música/nightwish_-_sleeping_sun-alc.mp3; Failed to open '/home/eldermf/Música/nightwish_-_sleeping_sun-alc.mp3': No such file or directory
+Aug 28 18:50 : player: played "nightwish_-_sleeping_sun-alc.mp3"
+Aug 28 18:50 : exception: Failed to decode /home/eldermf/Música/nightwish_-_bless_the_child-alc.mp3; Failed to open '/home/eldermf/Música/nightwish_-_bless_the_child-alc.mp3': No such file or directory
+Aug 28 18:50 : player: played "nightwish_-_bless_the_child-alc.mp3"
+Aug 28 18:50 : exception: Failed to decode /home/eldermf/Música/Nightwish_Nemo.mp3; Failed to open '/home/eldermf/Música/Nightwish_Nemo.mp3': No such file or directory
+Aug 28 18:50 : player: played "Nightwish_Nemo.mp3"
+Aug 28 18:50 : exception: Failed to decode /home/eldermf/Música/Evanescence_Bring Me To Life.mp3; Failed to open '/home/eldermf/Música/Evanescence_Bring Me To Life.mp3': No such file or directory
+Aug 28 18:50 : player: played "Evanescence_Bring Me To Life.mp3"
+Aug 28 18:50 : exception: Failed to decode /home/eldermf/Música/Evanescence_My Immortal.mp3; Failed to open '/home/eldermf/Música/Evanescence_My Immortal.mp3': No such file or directory
+Aug 28 18:50 : player: played "Evanescence_My Immortal.mp3"
+Aug 28 18:50 : exception: Failed to decode /home/eldermf/Música/Evanescence_My Immortal.mp3; Failed to open '/home/eldermf/Música/Evanescence_My Immortal.mp3': No such file or directory
+Aug 28 18:50 : exception: Failed to decode /home/eldermf/Música/NEFFEX - Grateful [Copyright Free].mp3; Failed to open '/home/eldermf/Música/NEFFEX - Grateful [Copyright Free].mp3': No such file or directory
+Aug 28 18:50 : player: played "Evanescence_My Immortal.mp3"
+Aug 28 18:50 : exception: Failed to decode /home/eldermf/Música/NEFFEX - Grateful [Copyright Free].mp3; Failed to open '/home/eldermf/Música/NEFFEX - Grateful [Copyright Free].mp3': No such file or directory
+Aug 28 18:50 : player: played "NEFFEX - Grateful [Copyright Free].mp3"
+Aug 28 18:50 : exception: Failed to decode /home/eldermf/Música/Cartoon - On & On (feat. Daniel Levi) [NCS Release].mp3; Failed to open '/home/eldermf/Música/Cartoon - On & On (feat. Daniel Levi) [NCS Release].mp3': No such file or directory
+Aug 28 18:50 : player: played "Cartoon - On & On (feat. Daniel Levi) [NCS Release].mp3"
+Aug 28 18:50 : exception: Failed to decode /home/eldermf/Música/Culture Code - Make Me Move (feat. Karra) [NCS Release].mp3; Failed to open '/home/eldermf/Música/Culture Code - Make Me Move (feat. Karra) [NCS Release].mp3': No such file or directory
+Aug 28 18:50 : player: played "Culture Code - Make Me Move (feat. Karra) [NCS Release].mp3"
+Aug 28 18:50 : exception: Failed to decode /home/eldermf/Música/Janji - Heroes Tonight (feat. Johnning) [NCS Release].mp3; Failed to open '/home/eldermf/Música/Janji - Heroes Tonight (feat. Johnning) [NCS Release].mp3': No such file or directory
+Aug 28 18:50 : player: played "Janji - Heroes Tonight (feat. Johnning) [NCS Release].mp3"
+Aug 28 18:50 : exception: Failed to decode /home/eldermf/Música/N3WPORT - Power (feat. braev) [NCS Release].mp3; Failed to open '/home/eldermf/Música/N3WPORT - Power (feat. braev) [NCS Release].mp3': No such file or directory
+Aug 28 18:50 : player: played "N3WPORT - Power (feat. braev) [NCS Release].mp3"
+Aug 28 18:50 : exception: Failed to decode /home/eldermf/Música/Night_The Beauty and the Beast.mp3; Failed to open '/home/eldermf/Música/Night_The Beauty and the Beast.mp3': No such file or directory
+Aug 28 18:50 : player: played "Night_The Beauty and the Beast.mp3"
+Aug 28 18:50 : exception: Failed to decode /home/eldermf/Música/nightwish_-_sleeping_sun-alc.mp3; Failed to open '/home/eldermf/Música/nightwish_-_sleeping_sun-alc.mp3': No such file or directory
+Aug 28 18:50 : player: played "nightwish_-_sleeping_sun-alc.mp3"
+Aug 28 18:50 : exception: Failed to decode /home/eldermf/Música/nightwish_-_bless_the_child-alc.mp3; Failed to open '/home/eldermf/Música/nightwish_-_bless_the_child-alc.mp3': No such file or directory
+Aug 28 18:50 : player: played "nightwish_-_bless_the_child-alc.mp3"
+Aug 28 18:50 : exception: Failed to decode /home/eldermf/Música/Nightwish_Nemo.mp3; Failed to open '/home/eldermf/Música/Nightwish_Nemo.mp3': No such file or directory
+Aug 28 18:50 : player: played "Nightwish_Nemo.mp3"
+Aug 28 18:50 : exception: Failed to decode /home/eldermf/Música/Evanescence_Bring Me To Life.mp3; Failed to open '/home/eldermf/Música/Evanescence_Bring Me To Life.mp3': No such file or directory
+Aug 28 18:50 : player: played "Evanescence_Bring Me To Life.mp3"
+Aug 28 19:04 : exception: Failed to decode /home/eldermf/Música/Evanescence_Bring Me To Life.mp3; Failed to open '/home/eldermf/Música/Evanescence_Bring Me To Life.mp3': No such file or directory
+Aug 28 19:04 : exception: Failed to decode /home/eldermf/Música/Evanescence_My Immortal.mp3; Failed to open '/home/eldermf/Música/Evanescence_My Immortal.mp3': No such file or directory
+Aug 28 19:04 : player: played "Evanescence_Bring Me To Life.mp3"
+Aug 28 19:04 : exception: Failed to decode /home/eldermf/Música/Evanescence_My Immortal.mp3; Failed to open '/home/eldermf/Música/Evanescence_My Immortal.mp3': No such file or directory
+Aug 28 19:04 : player: played "Evanescence_My Immortal.mp3"
+Aug 28 19:04 : exception: Failed to decode /home/eldermf/Música/NEFFEX - Grateful [Copyright Free].mp3; Failed to open '/home/eldermf/Música/NEFFEX - Grateful [Copyright Free].mp3': No such file or directory
+Aug 28 19:04 : player: played "NEFFEX - Grateful [Copyright Free].mp3"
+Aug 28 19:04 : exception: Failed to decode /home/eldermf/Música/Cartoon - On & On (feat. Daniel Levi) [NCS Release].mp3; Failed to open '/home/eldermf/Música/Cartoon - On & On (feat. Daniel Levi) [NCS Release].mp3': No such file or directory
+Aug 28 19:04 : player: played "Cartoon - On & On (feat. Daniel Levi) [NCS Release].mp3"
+Aug 28 19:04 : exception: Failed to decode /home/eldermf/Música/Culture Code - Make Me Move (feat. Karra) [NCS Release].mp3; Failed to open '/home/eldermf/Música/Culture Code - Make Me Move (feat. Karra) [NCS Release].mp3': No such file or directory
+Aug 28 19:04 : player: played "Culture Code - Make Me Move (feat. Karra) [NCS Release].mp3"
+Aug 28 19:04 : exception: Failed to decode /home/eldermf/Música/Janji - Heroes Tonight (feat. Johnning) [NCS Release].mp3; Failed to open '/home/eldermf/Música/Janji - Heroes Tonight (feat. Johnning) [NCS Release].mp3': No such file or directory
+Aug 28 19:04 : player: played "Janji - Heroes Tonight (feat. Johnning) [NCS Release].mp3"
+Aug 28 19:04 : exception: Failed to decode /home/eldermf/Música/N3WPORT - Power (feat. braev) [NCS Release].mp3; Failed to open '/home/eldermf/Música/N3WPORT - Power (feat. braev) [NCS Release].mp3': No such file or directory
+Aug 28 19:04 : player: played "N3WPORT - Power (feat. braev) [NCS Release].mp3"
+Aug 28 19:04 : exception: Failed to decode /home/eldermf/Música/Night_The Beauty and the Beast.mp3; Failed to open '/home/eldermf/Música/Night_The Beauty and the Beast.mp3': No such file or directory
+Aug 28 19:04 : player: played "Night_The Beauty and the Beast.mp3"
+Aug 28 19:04 : exception: Failed to decode /home/eldermf/Música/nightwish_-_sleeping_sun-alc.mp3; Failed to open '/home/eldermf/Música/nightwish_-_sleeping_sun-alc.mp3': No such file or directory
+Aug 28 19:04 : player: played "nightwish_-_sleeping_sun-alc.mp3"
+Aug 28 19:04 : exception: Failed to decode /home/eldermf/Música/nightwish_-_bless_the_child-alc.mp3; Failed to open '/home/eldermf/Música/nightwish_-_bless_the_child-alc.mp3': No such file or directory
+Aug 28 19:04 : player: played "nightwish_-_bless_the_child-alc.mp3"
+Aug 28 19:04 : exception: Failed to decode /home/eldermf/Música/Nightwish_Nemo.mp3; Failed to open '/home/eldermf/Música/Nightwish_Nemo.mp3': No such file or directory
+Aug 28 19:04 : player: played "Nightwish_Nemo.mp3"
+Aug 28 19:07 : exception: Failed to decode /home/eldermf/Música/Nightwish_Nemo.mp3; Failed to open '/home/eldermf/Música/Nightwish_Nemo.mp3': No such file or directory
+Aug 28 19:07 : player: played "Nightwish_Nemo.mp3"
+Aug 28 19:07 : exception: Failed to decode /home/eldermf/Música/Evanescence_Bring Me To Life.mp3; Failed to open '/home/eldermf/Música/Evanescence_Bring Me To Life.mp3': No such file or directory
+Aug 28 19:07 : exception: Failed to decode /home/eldermf/Música/Evanescence_My Immortal.mp3; Failed to open '/home/eldermf/Música/Evanescence_My Immortal.mp3': No such file or directory
+Aug 28 19:07 : player: played "Evanescence_Bring Me To Life.mp3"
+Aug 28 19:07 : exception: Failed to decode /home/eldermf/Música/Evanescence_My Immortal.mp3; Failed to open '/home/eldermf/Música/Evanescence_My Immortal.mp3': No such file or directory
+Aug 28 19:07 : player: played "Evanescence_My Immortal.mp3"
+Aug 28 19:07 : exception: Failed to decode /home/eldermf/Música/NEFFEX - Grateful [Copyright Free].mp3; Failed to open '/home/eldermf/Música/NEFFEX - Grateful [Copyright Free].mp3': No such file or directory
+Aug 28 19:07 : player: played "NEFFEX - Grateful [Copyright Free].mp3"
+Aug 28 19:07 : exception: Failed to decode /home/eldermf/Música/Cartoon - On & On (feat. Daniel Levi) [NCS Release].mp3; Failed to open '/home/eldermf/Música/Cartoon - On & On (feat. Daniel Levi) [NCS Release].mp3': No such file or directory
+Aug 28 19:07 : player: played "Cartoon - On & On (feat. Daniel Levi) [NCS Release].mp3"
+Aug 28 19:07 : exception: Failed to decode /home/eldermf/Música/Culture Code - Make Me Move (feat. Karra) [NCS Release].mp3; Failed to open '/home/eldermf/Música/Culture Code - Make Me Move (feat. Karra) [NCS Release].mp3': No such file or directory
+Aug 28 19:07 : player: played "Culture Code - Make Me Move (feat. Karra) [NCS Release].mp3"
+Aug 28 19:07 : exception: Failed to decode /home/eldermf/Música/Janji - Heroes Tonight (feat. Johnning) [NCS Release].mp3; Failed to open '/home/eldermf/Música/Janji - Heroes Tonight (feat. Johnning) [NCS Release].mp3': No such file or directory
+Aug 28 19:07 : player: played "Janji - Heroes Tonight (feat. Johnning) [NCS Release].mp3"
+Aug 28 19:07 : exception: Failed to decode /home/eldermf/Música/N3WPORT - Power (feat. braev) [NCS Release].mp3; Failed to open '/home/eldermf/Música/N3WPORT - Power (feat. braev) [NCS Release].mp3': No such file or directory
+Aug 28 19:07 : player: played "N3WPORT - Power (feat. braev) [NCS Release].mp3"
+Aug 28 19:07 : exception: Failed to decode /home/eldermf/Música/Night_The Beauty and the Beast.mp3; Failed to open '/home/eldermf/Música/Night_The Beauty and the Beast.mp3': No such file or directory
+Aug 28 19:07 : player: played "Night_The Beauty and the Beast.mp3"
+Aug 28 19:07 : exception: Failed to decode /home/eldermf/Música/nightwish_-_sleeping_sun-alc.mp3; Failed to open '/home/eldermf/Música/nightwish_-_sleeping_sun-alc.mp3': No such file or directory
+Aug 28 19:07 : player: played "nightwish_-_sleeping_sun-alc.mp3"
+Aug 28 19:07 : exception: Failed to decode /home/eldermf/Música/nightwish_-_bless_the_child-alc.mp3; Failed to open '/home/eldermf/Música/nightwish_-_bless_the_child-alc.mp3': No such file or directory
+Aug 28 19:07 : player: played "nightwish_-_bless_the_child-alc.mp3"
+Aug 28 19:14 : player: played "nightwish_-_bless_the_child-alc.mp3"
+Aug 28 19:17 : player: played "nightwish_-_bless_the_child-alc.mp3"
+Sep 02 14:04 : player: played "nightwish_-_bless_the_child-alc.mp3"
+Sep 03 10:20 : player: played "nightwish_-_bless_the_child-alc.mp3"
+Sep 03 10:51 : player: played "nightwish_-_bless_the_child-alc.mp3"
+Sep 04 10:57 : player: played "nightwish_-_bless_the_child-alc.mp3"
+Sep 04 17:03 : player: played "nightwish_-_bless_the_child-alc.mp3"
+Sep 04 17:16 : player: played "Nightwish_Nemo.mp3"
+Sep 04 18:16 : player: played "Nightwish_Nemo.mp3"
+Sep 04 22:20 : player: played "Nightwish_Nemo.mp3"
+Sep 05 15:24 : player: played "Nightwish_Nemo.mp3"
+Sep 06 12:46 : player: played "Nightwish_Nemo.mp3"
+Sep 07 10:49 : player: played "Nightwish_Nemo.mp3"
+Sep 07 18:57 : player: played "Nightwish_Nemo.mp3"
+Sep 08 12:20 : player: played "Nightwish_Nemo.mp3"
+Sep 09 22:22 : player: played "Nightwish_Nemo.mp3"
+Sep 10 10:19 : player: played "Nightwish_Nemo.mp3"
+Sep 10 10:20 : player: played "Nightwish_Nemo.mp3"
+Sep 10 10:56 : player: played "NEFFEX - Grateful [Copyright Free].mp3"
+Sep 10 12:58 : player: played "NEFFEX - Grateful [Copyright Free].mp3"
+Sep 10 18:13 : player: played "NEFFEX - Grateful [Copyright Free].mp3"
+Sep 10 18:27 : player: played "NEFFEX - Grateful [Copyright Free].mp3"
+Sep 10 19:02 : player: played "NEFFEX - Grateful [Copyright Free].mp3"
+Sep 10 19:04 : player: played "NEFFEX - Grateful [Copyright Free].mp3"
+Sep 10 19:16 : player: played "NEFFEX - Grateful [Copyright Free].mp3"
+Sep 11 21:11 : player: played "NEFFEX - Grateful [Copyright Free].mp3"
+Sep 11 21:25 : player: played "NEFFEX - Grateful [Copyright Free].mp3"
+Sep 11 21:31 : player: played "NEFFEX - Grateful [Copyright Free].mp3"
+Sep 11 21:33 : player: played "NEFFEX - Grateful [Copyright Free].mp3"
+Sep 11 21:40 : player: played "NEFFEX - Grateful [Copyright Free].mp3"
+Sep 11 22:16 : update: updating /Cartoon - On & On (feat. Daniel Levi) [NCS Release].mp3
+Sep 11 22:16 : update: updating /Culture Code - Make Me Move (feat. Karra) [NCS Release].mp3
+Sep 11 22:16 : update: updating /Evanescence_Bring Me To Life.mp3
+Sep 11 22:16 : update: updating /Evanescence_My Immortal.mp3
+Sep 11 22:16 : update: updating /Janji - Heroes Tonight (feat. Johnning) [NCS Release].mp3
+Sep 11 22:16 : update: updating /N3WPORT - Power (feat. braev) [NCS Release].mp3
+Sep 11 22:16 : update: updating /NEFFEX - Grateful [Copyright Free].mp3
+Sep 11 22:16 : update: updating /Night_The Beauty and the Beast.mp3
+Sep 11 22:16 : update: updating /nightwish_-_bless_the_child-alc.mp3
+Sep 11 22:16 : update: updating /Nightwish_Nemo.mp3
+Sep 11 22:16 : update: updating /nightwish_-_sleeping_sun-alc.mp3
+Sep 11 22:16 : update: updating /Ozzy_Osbourne-Woman.mp3
+Sep 11 22:19 : player: played "Night_The Beauty and the Beast.mp3"
+Sep 12 13:08 : player: played "Night_The Beauty and the Beast.mp3"
+Sep 13 18:56 : player: played "Night_The Beauty and the Beast.mp3"
+Sep 17 08:14 : player: played "Night_The Beauty and the Beast.mp3"
+Sep 17 08:41 : player: played "Night_The Beauty and the Beast.mp3"
+Sep 17 10:23 : player: played "Night_The Beauty and the Beast.mp3"
+Sep 17 10:33 : player: played "Night_The Beauty and the Beast.mp3"
+Sep 17 11:58 : player: played "Night_The Beauty and the Beast.mp3"
+Sep 17 12:02 : player: played "NEFFEX - Grateful [Copyright Free].mp3"
+Sep 17 12:06 : player: played "Cartoon - On & On (feat. Daniel Levi) [NCS Release].mp3"
+Sep 17 12:09 : player: played "Culture Code - Make Me Move (feat. Karra) [NCS Release].mp3"
+Sep 17 12:14 : player: played "Janji - Heroes Tonight (feat. Johnning) [NCS Release].mp3"
+Sep 17 18:40 : player: played "Janji - Heroes Tonight (feat. Johnning) [NCS Release].mp3"
+Sep 17 20:57 : player: played "Janji - Heroes Tonight (feat. Johnning) [NCS Release].mp3"
+Sep 17 21:43 : player: played "Night_The Beauty and the Beast.mp3"
+Sep 17 22:00 : player: played "Night_The Beauty and the Beast.mp3"
+Sep 17 22:21 : player: played "Night_The Beauty and the Beast.mp3"
+Sep 17 22:30 : player: played "Night_The Beauty and the Beast.mp3"
+Sep 17 23:03 : player: played "Night_The Beauty and the Beast.mp3"
+Sep 17 23:11 : player: played "Night_The Beauty and the Beast.mp3"
+Sep 17 23:59 : player: played "Janji - Heroes Tonight (feat. Johnning) [NCS Release].mp3"
+Sep 18 02:25 : player: played "Janji - Heroes Tonight (feat. Johnning) [NCS Release].mp3"
+Sep 18 12:36 : player: played "Janji - Heroes Tonight (feat. Johnning) [NCS Release].mp3"
+Sep 19 23:14 : player: played "Janji - Heroes Tonight (feat. Johnning) [NCS Release].mp3"
+Sep 23 15:25 : player: played "Janji - Heroes Tonight (feat. Johnning) [NCS Release].mp3"
+Sep 23 16:00 : player: played "Janji - Heroes Tonight (feat. Johnning) [NCS Release].mp3"
+Sep 23 16:21 : player: played "Janji - Heroes Tonight (feat. Johnning) [NCS Release].mp3"
+Sep 23 19:00 : player: played "Janji - Heroes Tonight (feat. Johnning) [NCS Release].mp3"
+Sep 23 19:04 : player: played "Janji - Heroes Tonight (feat. Johnning) [NCS Release].mp3"
+Sep 23 19:08 : player: played "Janji - Heroes Tonight (feat. Johnning) [NCS Release].mp3"
+Sep 23 19:20 : player: played "Janji - Heroes Tonight (feat. Johnning) [NCS Release].mp3"
+Sep 23 19:33 : player: played "Janji - Heroes Tonight (feat. Johnning) [NCS Release].mp3"
+Sep 23 19:35 : player: played "Janji - Heroes Tonight (feat. Johnning) [NCS Release].mp3"
+Sep 23 20:10 : player: played "Janji - Heroes Tonight (feat. Johnning) [NCS Release].mp3"
+Sep 23 21:00 : player: played "Janji - Heroes Tonight (feat. Johnning) [NCS Release].mp3"
+Sep 23 21:06 : player: played "Janji - Heroes Tonight (feat. Johnning) [NCS Release].mp3"
+Sep 24 01:46 : player: played "Janji - Heroes Tonight (feat. Johnning) [NCS Release].mp3"
+Sep 24 14:01 : player: played "Night_The Beauty and the Beast.mp3"
+Sep 24 23:59 : player: played "Night_The Beauty and the Beast.mp3"
+Sep 25 02:34 : player: played "Night_The Beauty and the Beast.mp3"
+Sep 25 02:35 : player: played "Night_The Beauty and the Beast.mp3"
+Sep 25 12:03 : player: played "Night_The Beauty and the Beast.mp3"
+Sep 25 20:00 : player: played "Night_The Beauty and the Beast.mp3"
+Sep 25 20:31 : player: played "Night_The Beauty and the Beast.mp3"
+Sep 25 21:07 : player: played "Night_The Beauty and the Beast.mp3"
+Sep 25 22:47 : player: played "Night_The Beauty and the Beast.mp3"
+Sep 26 23:50 : player: played "Night_The Beauty and the Beast.mp3"
+Sep 29 22:34 : player: played "Night_The Beauty and the Beast.mp3"
+Sep 30 14:28 : player: played "Night_The Beauty and the Beast.mp3"
+Sep 30 14:35 : player: played "Night_The Beauty and the Beast.mp3"
+Sep 30 17:37 : player: played "Night_The Beauty and the Beast.mp3"
+Sep 30 21:58 : exception: Failed to open /home/eldermf/.mpd/playlists: No such file or directory
+Sep 30 21:58 : player: played "Night_The Beauty and the Beast.mp3"
+Sep 30 21:59 : exception: Failed to open /home/eldermf/.mpd/playlists: No such file or directory
+Sep 30 21:59 : exception: Failed to open /home/eldermf/.mpd/playlists: No such file or directory
+Sep 30 21:59 : exception: Failed to open /home/eldermf/.mpd/playlists: No such file or directory
+Sep 30 21:59 : exception: Failed to open /home/eldermf/.mpd/playlists: No such file or directory
+Sep 30 21:59 : exception: Failed to open /home/eldermf/.mpd/playlists: No such file or directory
+Sep 30 21:59 : exception: Failed to open /home/eldermf/.mpd/playlists: No such file or directory
+Sep 30 21:59 : exception: Failed to open /home/eldermf/.mpd/playlists: No such file or directory
+Sep 30 21:59 : exception: Failed to open /home/eldermf/.mpd/playlists: No such file or directory
+Sep 30 21:59 : exception: Failed to open /home/eldermf/.mpd/playlists: No such file or directory
+Sep 30 21:59 : exception: Failed to open /home/eldermf/.mpd/playlists: No such file or directory
+Sep 30 21:59 : exception: Failed to open /home/eldermf/.mpd/playlists: No such file or directory
+Sep 30 21:59 : exception: Failed to open /home/eldermf/.mpd/playlists: No such file or directory
+Sep 30 21:59 : exception: Failed to open /home/eldermf/.mpd/playlists: No such file or directory
+Sep 30 22:03 : player: played "N3WPORT - Power (feat. braev) [NCS Release].mp3"
+Oct 01 11:18 : player: played "N3WPORT - Power (feat. braev) [NCS Release].mp3"
+Oct 01 14:49 : player: played "N3WPORT - Power (feat. braev) [NCS Release].mp3"
+Oct 01 23:49 : player: played "nightwish_-_sleeping_sun-alc.mp3"
+Oct 02 00:24 : player: played "nightwish_-_sleeping_sun-alc.mp3"
+Oct 02 00:38 : player: played "nightwish_-_sleeping_sun-alc.mp3"
+Oct 02 00:41 : player: played "nightwish_-_sleeping_sun-alc.mp3"
+Oct 02 00:46 : player: played "nightwish_-_sleeping_sun-alc.mp3"
+Oct 02 02:20 : player: played "nightwish_-_sleeping_sun-alc.mp3"
+Oct 02 10:25 : player: played "nightwish_-_sleeping_sun-alc.mp3"
+Oct 02 10:37 : player: played "nightwish_-_sleeping_sun-alc.mp3"
+Oct 02 13:18 : player: played "nightwish_-_sleeping_sun-alc.mp3"
+Oct 02 22:07 : player: played "nightwish_-_sleeping_sun-alc.mp3"
+Oct 02 23:18 : player: played "nightwish_-_sleeping_sun-alc.mp3"
+Oct 02 23:46 : player: played "nightwish_-_bless_the_child-alc.mp3"
+Oct 03 00:09 : player: played "nightwish_-_bless_the_child-alc.mp3"
+Oct 03 00:13 : player: played "nightwish_-_bless_the_child-alc.mp3"
+Oct 03 00:27 : player: played "nightwish_-_bless_the_child-alc.mp3"
+Oct 03 00:38 : player: played "nightwish_-_bless_the_child-alc.mp3"
+Oct 03 21:20 : player: played "nightwish_-_bless_the_child-alc.mp3"
+Oct 07 18:23 : player: played "nightwish_-_bless_the_child-alc.mp3"
+Oct 07 18:44 : player: played "nightwish_-_bless_the_child-alc.mp3"
+Oct 08 15:36 : player: played "nightwish_-_bless_the_child-alc.mp3"
+Oct 09 06:57 : player: played "nightwish_-_bless_the_child-alc.mp3"
+Oct 09 07:03 : player: played "nightwish_-_bless_the_child-alc.mp3"
+Oct 09 07:37 : player: played "nightwish_-_bless_the_child-alc.mp3"
+Oct 09 10:10 : player: played "nightwish_-_bless_the_child-alc.mp3"
+Oct 09 13:26 : player: played "nightwish_-_bless_the_child-alc.mp3"
+Oct 09 22:42 : player: played "nightwish_-_bless_the_child-alc.mp3"
+Oct 10 13:07 : player: played "nightwish_-_bless_the_child-alc.mp3"
+Oct 10 21:42 : player: played "Culture Code - Make Me Move (feat. Karra) [NCS Release].mp3"
+Oct 12 07:26 : player: played "Culture Code - Make Me Move (feat. Karra) [NCS Release].mp3"
+Oct 12 08:28 : player: played "Culture Code - Make Me Move (feat. Karra) [NCS Release].mp3"
+Oct 12 10:42 : player: played "Culture Code - Make Me Move (feat. Karra) [NCS Release].mp3"
+Oct 12 14:02 : player: played "Culture Code - Make Me Move (feat. Karra) [NCS Release].mp3"
+Oct 12 18:01 : player: played "Culture Code - Make Me Move (feat. Karra) [NCS Release].mp3"
+Oct 16 19:08 : exception: Failed to decode /home/eldermf/Músicas/Culture Code - Make Me Move (feat. Karra) [NCS Release].mp3; Failed to open '/home/eldermf/Músicas/Culture Code - Make Me Move (feat. Karra) [NCS Release].mp3': No such file or directory
+Oct 16 19:08 : player: played "Culture Code - Make Me Move (feat. Karra) [NCS Release].mp3"
+Oct 16 19:24 : player: played "Culture Code - Make Me Move (feat. Karra) [NCS Release].mp3"
+Oct 16 19:36 : player: played "Culture Code - Make Me Move (feat. Karra) [NCS Release].mp3"
+Oct 16 19:38 : player: played "Culture Code - Make Me Move (feat. Karra) [NCS Release].mp3"
+Oct 16 20:32 : player: played "Culture Code - Make Me Move (feat. Karra) [NCS Release].mp3"
+Oct 16 21:27 : player: played "Culture Code - Make Me Move (feat. Karra) [NCS Release].mp3"
+Oct 17 19:10 : player: played "Culture Code - Make Me Move (feat. Karra) [NCS Release].mp3"
+Oct 17 19:56 : player: played "Culture Code - Make Me Move (feat. Karra) [NCS Release].mp3"
+Oct 17 20:13 : player: played "Culture Code - Make Me Move (feat. Karra) [NCS Release].mp3"
+Oct 17 20:35 : player: played "Culture Code - Make Me Move (feat. Karra) [NCS Release].mp3"
+Oct 17 21:08 : player: played "Janji - Heroes Tonight (feat. Johnning) [NCS Release].mp3"
+Oct 17 22:16 : player: played "Janji - Heroes Tonight (feat. Johnning) [NCS Release].mp3"
+Oct 18 22:23 : player: played "Janji - Heroes Tonight (feat. Johnning) [NCS Release].mp3"
+Oct 20 08:10 : player: played "Janji - Heroes Tonight (feat. Johnning) [NCS Release].mp3"
+Oct 20 18:37 : player: played "Janji - Heroes Tonight (feat. Johnning) [NCS Release].mp3"
+Oct 20 21:11 : player: played "Janji - Heroes Tonight (feat. Johnning) [NCS Release].mp3"
+Oct 21 23:34 : player: played "Janji - Heroes Tonight (feat. Johnning) [NCS Release].mp3"
+Oct 22 08:49 : player: played "Janji - Heroes Tonight (feat. Johnning) [NCS Release].mp3"
+Oct 22 08:53 : player: played "Janji - Heroes Tonight (feat. Johnning) [NCS Release].mp3"
+Oct 22 09:09 : player: played "Janji - Heroes Tonight (feat. Johnning) [NCS Release].mp3"
+Oct 22 09:23 : player: played "Janji - Heroes Tonight (feat. Johnning) [NCS Release].mp3"
+Oct 22 09:27 : player: played "Janji - Heroes Tonight (feat. Johnning) [NCS Release].mp3"
+Oct 22 14:35 : player: played "Janji - Heroes Tonight (feat. Johnning) [NCS Release].mp3"
+Oct 22 15:41 : player: played "Janji - Heroes Tonight (feat. Johnning) [NCS Release].mp3"
+Oct 22 18:25 : player: played "Janji - Heroes Tonight (feat. Johnning) [NCS Release].mp3"
+Oct 22 19:01 : player: played "Janji - Heroes Tonight (feat. Johnning) [NCS Release].mp3"
+Oct 22 19:45 : player: played "Janji - Heroes Tonight (feat. Johnning) [NCS Release].mp3"
+Oct 22 19:49 : player: played "Janji - Heroes Tonight (feat. Johnning) [NCS Release].mp3"
+Oct 22 19:51 : player: played "Janji - Heroes Tonight (feat. Johnning) [NCS Release].mp3"
+Oct 22 20:08 : player: played "Janji - Heroes Tonight (feat. Johnning) [NCS Release].mp3"
+Oct 22 20:12 : player: played "Janji - Heroes Tonight (feat. Johnning) [NCS Release].mp3"
+Oct 22 20:23 : player: played "Janji - Heroes Tonight (feat. Johnning) [NCS Release].mp3"
+Oct 22 23:56 : player: played "Janji - Heroes Tonight (feat. Johnning) [NCS Release].mp3"
+Oct 23 10:22 : player: played "Janji - Heroes Tonight (feat. Johnning) [NCS Release].mp3"
+Oct 23 10:48 : player: played "Janji - Heroes Tonight (feat. Johnning) [NCS Release].mp3"
+Oct 23 10:51 : player: played "Janji - Heroes Tonight (feat. Johnning) [NCS Release].mp3"
+Oct 23 11:33 : player: played "Janji - Heroes Tonight (feat. Johnning) [NCS Release].mp3"
+Oct 23 11:37 : player: played "Janji - Heroes Tonight (feat. Johnning) [NCS Release].mp3"
+Oct 23 11:42 : player: played "Janji - Heroes Tonight (feat. Johnning) [NCS Release].mp3"
+Oct 23 11:49 : player: played "Janji - Heroes Tonight (feat. Johnning) [NCS Release].mp3"
+Oct 23 11:52 : player: played "Janji - Heroes Tonight (feat. Johnning) [NCS Release].mp3"
+Oct 23 12:29 : player: played "Janji - Heroes Tonight (feat. Johnning) [NCS Release].mp3"
+Oct 23 14:55 : player: played "Janji - Heroes Tonight (feat. Johnning) [NCS Release].mp3"
+Oct 23 15:26 : player: played "Janji - Heroes Tonight (feat. Johnning) [NCS Release].mp3"
+Oct 23 15:28 : player: played "Janji - Heroes Tonight (feat. Johnning) [NCS Release].mp3"
+Oct 23 15:31 : player: played "Janji - Heroes Tonight (feat. Johnning) [NCS Release].mp3"
+Oct 23 18:16 : player: played "Janji - Heroes Tonight (feat. Johnning) [NCS Release].mp3"
+Oct 23 20:49 : player: played "Cartoon - On & On (feat. Daniel Levi) [NCS Release].mp3"
+Oct 23 21:28 : player: played "Ozzy_Osbourne-Woman.mp3"
+Oct 23 23:14 : player: played "N3WPORT - Power (feat. braev) [NCS Release].mp3"
+Oct 23 23:17 : player: played "N3WPORT - Power (feat. braev) [NCS Release].mp3"
+Oct 25 13:36 : player: played "N3WPORT - Power (feat. braev) [NCS Release].mp3"
+Oct 25 21:29 : player: played "N3WPORT - Power (feat. braev) [NCS Release].mp3"

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:i="&amp;ns_ai;"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="256px"
+   height="256px"
+   viewBox="0 0 256 256"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="hoffice11-hwp.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+  <metadata
+     id="metadata14">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs12" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1848"
+     inkscape:window-height="1019"
+     id="namedview10"
+     showgrid="false"
+     inkscape:zoom="0.921875"
+     inkscape:cx="128"
+     inkscape:cy="129.62712"
+     inkscape:window-x="72"
+     inkscape:window-y="31"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="한글" />
+  <title
+     id="title2">한글</title>
+  <switch
+     id="switch833"
+     transform="translate(-1.322314e-4)">
+	<foreignObject
+   height="1"
+   width="1"
+   y="0"
+   x="0"
+   requiredExtensions="http://ns.adobe.com/AdobeIllustrator/10.0/">
+		
+	</foreignObject>
+
+	<g
+   id="g831"
+   i:extraneous="self">
+		<g
+   id="g827"
+   class="st0"
+   style="opacity:0.1">
+			<g
+   id="g825">
+				<path
+   id="path823"
+   d="m 132.8,0.5 c 6.2,0 18.1,0.3 33.3,2.3 23.7,3.1 45.1,11.5 60.8,26.3 v 0 c 14.7,15.7 23.1,37.1 26.2,60.9 3,22.6 2.3,38 2.3,38 0,0 0.7,15.4 -2.3,38 -3.1,23.7 -11.5,45.1 -26.3,60.9 v 0 c -15.7,14.8 -37.1,23.1 -60.8,26.3 -15.1,2 -27,2.3 -33.2,2.3 -3.1,0 -4.7,-0.1 -4.7,-0.1 0,0 -1.7,0.1 -4.7,0.1 -6.2,0 -18.1,-0.3 -33.2,-2.3 -23.7,-3.1 -45.1,-11.5 -60.8,-26.3 v 0 C 14.4,211.2 6,189.8 2.9,166 -0.1,143.4 0.6,128 0.6,128 0.6,128 -0.1,112.6 2.9,90 6,66.2 14.4,44.8 29.2,29.1 v 0 C 44.8,14.3 66.3,5.9 89.9,2.8 c 15.1,-2 27,-2.3 33.3,-2.3 3.1,0 4.7,0.1 4.7,0.1 0,0 1.8,-0.1 4.9,-0.1"
+   inkscape:connector-curvature="0" />
+
+			</g>
+
+		</g>
+
+		<path
+   id="path829"
+   d="M 251.7,90.4 C 248.6,67 240.3,45.8 225.7,30.3 v 0 C 210.1,15.7 189,7.4 165.6,4.3 143.2,1.3 128,2 128,2 128,2 112.8,1.3 90.4,4.3 67,7.4 45.8,15.7 30.3,30.3 15.7,45.8 7.5,67 4.3,90.4 1.3,112.7 2.1,128 2.1,128 c 0,0 -0.7,15.2 2.2,37.6 3.1,23.4 11.4,44.6 26,60.1 v 0 c 15.6,14.6 36.7,22.9 60.1,26 22.3,3 37.6,2.2 37.6,2.2 0,0 15.2,0.7 37.6,-2.2 23.4,-3.1 44.6,-11.4 60.1,-26 v 0 c 14.6,-15.6 22.9,-36.7 26,-60.1 3,-22.3 2.2,-37.6 2.2,-37.6 0,0 0.8,-15.2 -2.2,-37.6"
+   class="st1"
+   inkscape:connector-curvature="0"
+   style="fill:#209ddf;fill-opacity:1" />
+
+	</g>
+
+</switch>
+  <g
+     id="한글"
+     style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1">
+    <path
+       d="m 85,193 v -33 h 14 v 19 h 73 v 14 z m 52.21905,-29.312 c 0.0125,4.03488 -2.4084,7.67944 -6.13255,9.23223 -3.72415,1.55278 -8.01707,0.70755 -10.87461,-2.14111 -2.85755,-2.84866 -3.71615,-7.13893 -2.17497,-10.8679 1.54117,-3.72896 5.17818,-6.16123 9.21308,-6.16123 2.63987,-0.004 5.1733,1.04045 7.04288,2.90421 1.86958,1.86377 2.92214,4.39393 2.92617,7.0338 z M 116.10589,97.842587 c 10.24654,-4.249072 22.04377,-1.906483 29.88944,5.935183 7.84566,7.84166 10.19428,19.63769 5.95044,29.8864 -4.24384,10.24871 -14.24415,16.93083 -25.33677,16.93083 -7.27082,0.002 -14.24456,-2.88475 -19.38703,-8.02478 -5.14246,-5.14002 -8.032379,-12.1124 -8.033978,-19.38322 -0.0061,-11.09162 6.671358,-21.09534 16.917898,-25.344413 z m 23.21689,30.648963 c 2.13322,-5.12543 0.96714,-11.0313 -2.95402,-14.96133 -3.92115,-3.93004 -9.82436,-5.10947 -14.95461,-2.98786 -5.13024,2.12161 -8.47617,7.126 -8.47617,12.67764 -0.005,3.63433 1.43474,7.12164 4.00169,9.6944 2.56696,2.57277 6.051,4.02015 9.68533,4.02364 5.55262,0.0135 10.56457,-3.32106 12.69778,-8.44649 z M 88,79 h 33 V 64 h 14 v 15 h 34 l 0.064,14 H 88 Z"
+       id="한"
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff" />
+  </g>
+  <style
+     id="style821"
+     type="text/css">
+	.st0{opacity:0.1;}
+	.st1{fill:#FAFAFA;}
+</style>
+</svg>

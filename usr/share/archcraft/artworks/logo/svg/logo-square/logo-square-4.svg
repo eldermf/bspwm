@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="512"
+   height="512"
+   viewBox="0 0 135.46667 135.46667"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="logo-square-4.svg"
+   inkscape:version="1.1 (c4e8f9ed74, 2021-05-24)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="1.2245152"
+     inkscape:cx="243.36162"
+     inkscape:cy="306.65197"
+     inkscape:window-width="1900"
+     inkscape:window-height="998"
+     inkscape:window-x="10"
+     inkscape:window-y="44"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1303-6"
+       id="linearGradient1305-5"
+       x1="-15.25123"
+       y1="194.95467"
+       x2="139.77541"
+       y2="42.713833"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.55734455,0,0,0.55722731,18.630627,18.639058)" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1303-6">
+      <stop
+         style="stop-color:#e06b74;stop-opacity:1"
+         offset="0"
+         id="stop1299-2" />
+      <stop
+         style="stop-color:#c778dd;stop-opacity:1"
+         offset="1"
+         id="stop1301-9" />
+    </linearGradient>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#1d2128;fill-opacity:1;stroke-width:0.272325"
+       id="rect1184"
+       width="129.64584"
+       height="129.64584"
+       x="3.1750002"
+       y="3.1750002"
+       ry="10.583334" />
+    <path
+       id="path53-1"
+       style="fill:url(#linearGradient1305-5);fill-opacity:1;stroke-width:0.557272"
+       d="m 68.782938,22.489584 v 0.0021 C 64.660414,32.596761 62.175055,39.207488 57.584875,49.012223 61.577614,51.0297 65.072066,54.241166 69.4622,59.390582 64.470134,55.442281 60.578478,53.058055 56.242677,51.833188 50.368407,64.087993 41.165194,81.544433 22.489584,115.09372 28.025946,111.84673 59.326057,103.67338 56.48325,96.272064 55.716284,94.424147 54.17321,94.178577 51.798071,93.33465 v -4.702692 c 2.379502,-0.84683 3.918213,-1.08914 4.685179,-2.938504 0.768432,-1.852268 -0.149098,-3.113368 -1.233343,-5.394875 l 3.325562,-3.323777 c 2.292178,1.089848 3.545164,2.000262 5.394919,1.231996 h 0.0011 c 1.848306,-0.766807 2.092112,-2.305188 2.939114,-4.684191 h 4.703687 c 0.84993,2.39065 1.091187,3.918833 2.938039,4.684191 h 0.0011 c 1.854119,0.768266 3.124212,-0.152352 5.396008,-1.231996 l 3.324477,3.323777 c -1.087164,2.288784 -1.999236,3.545509 -1.23226,5.394875 v 0.0011 c 0.764069,1.843553 2.282392,2.083306 4.685191,2.937417 v 4.702693 c -15.548639,8.687356 20.787506,18.760536 28.366876,21.759076 -2.85521,-5.25553 -5.40418,-9.99356 -7.83767,-14.50532 -3.83353,-2.970628 -7.832282,-6.836338 -15.988815,-11.02157 5.606194,1.456447 9.620405,3.136844 12.749255,5.015045 C 79.272082,48.521541 77.268296,42.401065 68.782938,22.489584 Z m 0.478955,62.673925 c -3.214876,0 -5.820552,2.606213 -5.820552,5.820412 0,3.214204 2.605676,5.819326 5.820552,5.819326 3.214876,0 5.821647,-2.605122 5.821647,-5.819326 0,-3.214199 -2.606771,-5.820412 -5.821647,-5.820412 z"
+       sodipodi:nodetypes="cccccccccccccccccccccccccccccsssss"
+       inkscape:export-filename="/home/adi1090x/0_Archcraft_Reborn/artworks/plymouth/5.png"
+       inkscape:export-xdpi="86.649094"
+       inkscape:export-ydpi="86.649094" />
+  </g>
+</svg>

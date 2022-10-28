@@ -1,0 +1,5 @@
+[Icon Theme]
+Name=Shipsmall
+Comment= Ship - small version by Renzo Riccio (renzo@ricciosoft.com) - Converted by sd2xc-2.3.pl
+Example=left_ptr
+Inherits=core

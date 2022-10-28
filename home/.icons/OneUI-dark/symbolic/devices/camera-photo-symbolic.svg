@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 23.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   xmlns:i="&amp;ns_ai;"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="레이어_1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 16 16"
+   xml:space="preserve"
+   sodipodi:docname="cheese.svg"
+   width="16"
+   height="16"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"><metadata
+   id="metadata57"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+   id="defs55" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1262"
+   inkscape:window-height="480"
+   id="namedview53"
+   showgrid="false"
+   inkscape:zoom="0.921875"
+   inkscape:cx="136.67797"
+   inkscape:cy="128"
+   inkscape:window-x="72"
+   inkscape:window-y="28"
+   inkscape:window-maximized="0"
+   inkscape:current-layer="g46" />
+<style
+   type="text/css"
+   id="style2">
+	.st0{opacity:0.1;}
+	.st1{clip-path:url(#SVGID_4_);fill:#EF1346;}
+	.st2{fill:#FFFFFF;}
+	.st3{fill:#9F0028;}
+	.st4{fill:#EF1346;}
+</style>
+<switch
+   id="switch50"
+   transform="translate(0,-240)">
+	<foreignObject
+   requiredExtensions="http://ns.adobe.com/AdobeIllustrator/10.0/"
+   x="0"
+   y="0"
+   width="1"
+   height="1">
+		
+	</foreignObject>
+	<g
+   i:extraneous="self"
+   id="g48">
+		
+		
+		<g
+   id="g46">
+			<path
+   class="st2"
+   d="M 12.828594,253.087 H 3.180104 C 1.971853,253.087 1,252.10639 1,250.9069 v -5.81361 c 0,-1.20825 0.980609,-2.18011 2.180104,-2.18011 h 9.639734 c 1.20825,0 2.180104,0.98061 2.180104,2.18011 v 5.80485 c 0.0088,1.20825 -0.971854,2.18886 -2.171348,2.18886 z"
+   id="path40"
+   inkscape:connector-curvature="0"
+   style="opacity:0.35;fill:#dedede;fill-opacity:1;stroke-width:0.08755436" />
+			<circle
+   class="st3"
+   cx="8.0043488"
+   cy="248.00009"
+   r="2.3552122"
+   id="circle42"
+   style="fill:#dedede;fill-opacity:1;stroke-width:0.08755436" />
+			<circle
+   class="st4"
+   cx="12.215714"
+   cy="245.64488"
+   r="1.3658481"
+   id="circle44"
+   style="opacity:0.5;fill:#dedede;fill-opacity:1;stroke-width:0.08755436" />
+		</g>
+	</g>
+</switch>
+
+</svg>

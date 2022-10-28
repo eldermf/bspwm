@@ -1,0 +1,4 @@
+/etc/lsb-release
+/etc/default/grub
+/etc/pacman.conf
+/etc/mkinitcpio.conf

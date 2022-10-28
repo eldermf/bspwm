@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48" version="1.1">
+ <defs>
+  <clipPath id="clipPath4157" clipPathUnits="userSpaceOnUse">
+   <path style="fill:#f9f8f2;fill-opacity:1;stroke-width:1.00658333" d="m 27.642964,3.2951379 13.085584,13.0855841 -11.072418,0 c -0.977824,0 -2.013166,-1.035372 -2.013166,-2.013167 l 0,-11.0724171 z"/>
+  </clipPath>
+  <filter height="1.12" y="-.06" width="1.12" x="-.06" id="filter4201" style="color-interpolation-filters:sRGB">
+   <feGaussianBlur stdDeviation=".283"/>
+  </filter>
+ </defs>
+ <path d="m 9.797669,4.203582 c -0.894434,0 -1.73913,0.8447 -1.73913,1.73913 l 0,36.521744 c 0,0.844721 0.894435,1.73913 1.73913,1.73913 l 27.826091,0 c 0.84472,0 1.73913,-0.894435 1.73913,-1.73913 l 0,-26.956524 -11.30435,-11.30435 z" style="fill:#0fa15f;fill-opacity:0.99607843;stroke-width:0.86956519"/>
+ <path d="m 28.248139,4.2710929 11.304348,11.3043481 -9.565218,0 c -0.844721,0 -1.73913,-0.894435 -1.73913,-1.739131 l 0,-9.5652171 z" style="fill:#000000;fill-opacity:0.39200003;stroke-width:0.86956519;filter:url(#filter4201)" clip-path="url(#clipPath4157)" transform="translate(-0.28928697,0.20358199)"/>
+ <path d="m 28.05854,4.203582 11.30435,11.30435 -9.56522,0 c -0.84472,0 -1.73913,-0.89443 -1.73913,-1.73913 l 0,-9.56522 z" style="fill:#5cbc91;fill-opacity:1;stroke-width:0.86956519"/>
+ <g transform="matrix(0.16145833,0,0,0.16145833,3.333333,3.3333334)" style="fill:#ffffff;fill-opacity:1">
+  <path d="m 185.96144,96.192652 -33.23119,42.203368 -15.58537,-18.8982 -34.75272,44.94456 -15.521976,-17.75607 -36.485604,45.52797 4.691464,2.41073 31.994904,-39.91954 15.606502,17.84919 34.62593,-44.76655 15.54313,18.83887 33.47421,-42.5334 12.7007,13.75493 4.48016,-2.65631 -17.54014,-18.999548 z" style="opacity:1;fill:#ffffff;fill-opacity:1;"/>
+  <rect y="100" x="60" height="12" width="20" style="opacity:1;fill:#ffffff;fill-opacity:1;"/>
+  <rect y="116" x="60" height="12" width="20" style="opacity:1;fill:#ffffff;fill-opacity:1;"/>
+  <rect y="100" x="84" height="12" width="28" style="opacity:1;fill:#ffffff;fill-opacity:1;"/>
+  <rect y="116" x="84" height="12" width="28" style="opacity:1;fill:#ffffff;fill-opacity:1;"/>
+  <rect y="136" x="180" height="64" width="16" style="opacity:1;fill:#ffffff;fill-opacity:1;"/>
+  <rect y="160" x="148" height="40" width="16" style="opacity:1;fill:#ffffff;fill-opacity:1;"/>
+  <rect y="180" x="116" height="20" width="16" style="opacity:1;fill:#ffffff;fill-opacity:1;"/>
+ </g>
+</svg>

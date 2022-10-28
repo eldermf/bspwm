@@ -1,0 +1,68 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>Tips</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload">
+		<!-- Wrapper -->
+			<div id="wrapper" class="divided">
+				<!-- Tips -->
+					<section class="wrapper style1 align-center">
+						<div class="inner">
+							<h2>Tips and Tricks</h2>
+							<p>Few Tips and tricks, How to do this &amp; that, Questions that are asked millions of times.</p>
+							<h3 align="left">How to add my music in the player?</h3>
+								<!-- Music -->
+									<section class="wrapper style1 align-left">
+										<div class="content">
+											<div class="box">
+												<ul>
+													<li>Open a terminal and run <b>ncmpcpp</b></li>
+													<li>In <code>ncmpcpp</code>, press <code>2</code> to open song browser</li>
+													<li>In browser tab, press <code>u</code> to update the music database</li>
+													<li>Select your songs and press <code>SPACE</code> to add the songs in your <b>current playlist</b></li>
+													<li>Done!</li>
+												</ul>
+											</div>
+										</div>
+									</section>
+
+							<h3 align="left">How to change theme and icons in Bspwm?</h3>
+								<!-- Themes -->
+									<section class="wrapper style1 align-left">
+										<div class="content">
+											<div class="box">
+											<p>In Archcraft, Bspwm uses <code>xsettingsd</code>, a daemon that implements the XSETTINGS specification. To change gtk theme, icons and cursor theme, you need to edit the <b>~/.config/bspwm/xsettingsd</b> file.</p>
+											<ul>
+												<li>Edit <b>~/.config/bspwm/xsettingsd</b> file with your favorite text editor</li>
+											</ul>
+											<pre><code>$ vim ~/.config/bspwm/xsettingsd</code></pre>
+											<ul>
+												<li>Change the values of following lines according to the stuff you want to apply</li>
+											</ul>
+											<pre><code>Net/ThemeName "Arc-Dark"
+Net/IconThemeName "Arc-Circle"
+Gtk/CursorThemeName "Arc-Cursor-Dark"</code></pre>
+											<ul>
+												<li>Restart the <code>xsettingsd</code> daemon.</li>
+											</ul>
+											</div>
+										</div>
+									</section>
+						</div>
+					</section>
+			</div>
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+	</body>
+</html>

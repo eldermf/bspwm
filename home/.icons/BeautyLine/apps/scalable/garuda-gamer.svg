@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512" height="512" version="1.1" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="linearGradient1201" x1="5" x2="507" y1="200.93" y2="200.93" gradientTransform="matrix(1.01 0 0 1.01 -2.9161 52.796)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#9e2020" offset="0"/>
+   <stop stop-color="#e24329" offset="1"/>
+  </linearGradient>
+ </defs>
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <path d="m218.55 69.437c-72.248 71.8-145.36 144.61-216.42 216.44 50.675 50.797 103.48 104.25 154.78 155.64l158.44 0.51885 133.76-133.37-290.41-0.25748-32.199 32.5 243.06 0.51907-67.516 67.512h-131.67l-122.14-122.14 184.54-184.53h132.69l101.67 101.64-158.38-0.19421v-44.745l-77.709 77.713h245.34v44.373l32.746-32.746-0.0712-48.671-130.12-130.18zm160.39 0.02161-0.0308-0.03078z" fill="url(#linearGradient1201)"/>
+</svg>

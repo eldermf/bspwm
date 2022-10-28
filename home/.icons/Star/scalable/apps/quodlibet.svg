@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
+	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
+	<!ENTITY ns_graphs "http://ns.adobe.com/Graphs/1.0/">
+	<!ENTITY ns_vars "http://ns.adobe.com/Variables/1.0/">
+	<!ENTITY ns_imrep "http://ns.adobe.com/ImageReplacement/1.0/">
+	<!ENTITY ns_sfw "http://ns.adobe.com/SaveForWeb/1.0/">
+	<!ENTITY ns_custom "http://ns.adobe.com/GenericCustomNamespace/1.0/">
+	<!ENTITY ns_adobe_xpath "http://ns.adobe.com/XPath/1.0/">
+]>
+<svg version="1.1" id="레이어_1" xmlns:x="&ns_extend;" xmlns:i="&ns_ai;" xmlns:graph="&ns_graphs;"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 256 256"
+	 style="enable-background:new 0 0 256 256;" xml:space="preserve">
+<style type="text/css">
+	.st0{opacity:0.1;}
+	.st1{fill:url(#SVGID_1_);}
+	.st2{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+</style>
+<metadata>
+	<sfw  xmlns="&ns_sfw;">
+		<slices></slices>
+		<sliceSourceBounds  bottomLeftOrigin="true" height="255" width="255.1" x="0.4" y="0.5"></sliceSourceBounds>
+	</sfw>
+</metadata>
+<g class="st0">
+	<g>
+		<path d="M132.7,0.5c6.2,0,18.1,0.3,33.3,2.3c23.7,3.1,45.1,11.5,60.9,26.3l0,0C241.6,44.8,250,66.3,253.2,90c3,22.6,2.3,38,2.3,38
+			s0.7,15.4-2.3,38c-3.1,23.7-11.5,45.1-26.3,60.9l0,0c-15.7,14.8-37.2,23.2-60.9,26.3c-15.1,2-27.1,2.3-33.3,2.3
+			c-3.1,0-4.7-0.1-4.7-0.1s-1.7,0.1-4.7,0.1c-6.2,0-18.1-0.3-33.3-2.3c-23.7-3.1-45.1-11.5-60.9-26.3l0,0
+			C14.4,211.2,6,189.7,2.8,166c-3-22.6-2.3-38-2.3-38s-0.7-15.4,2.3-38C6,66.3,14.4,44.8,29.1,29.1l0,0C44.9,14.3,66.3,5.9,90,2.8
+			c15.2-2,27.1-2.3,33.3-2.3c3.1,0,4.7,0.1,4.7,0.1S129.7,0.5,132.7,0.5"/>
+	</g>
+</g>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="49.4635" y1="20.2748" x2="208.6321" y2="238.6251" gradientTransform="matrix(1 0 0 -1 0 256)">
+	<stop  offset="0" style="stop-color:#7C7C7C"/>
+	<stop  offset="0.6523" style="stop-color:#AFAFAF"/>
+	<stop  offset="1" style="stop-color:#CCCCCC"/>
+</linearGradient>
+<path class="st1" d="M251.7,90.4c-3.1-23.4-11.4-44.6-26-60.1l0,0c-15.6-14.6-36.7-22.9-60.1-26C143.2,1.3,128,2,128,2
+	s-15.2-0.7-37.6,2.3C67,7.4,45.8,15.7,30.3,30.3C15.7,45.8,7.5,67,4.3,90.4c-3,22.3-2.2,37.6-2.2,37.6s-0.7,15.2,2.2,37.6
+	c3.1,23.4,11.4,44.6,26,60.1l0,0c15.6,14.6,36.7,22.9,60.1,26c22.3,3,37.6,2.2,37.6,2.2s15.2,0.7,37.6-2.2
+	c23.4-3.1,44.6-11.4,60.1-26l0,0c14.6-15.6,22.9-36.7,26-60.1c3-22.3,2.2-37.6,2.2-37.6S254.7,112.8,251.7,90.4"/>
+<path id="music" class="st2" d="M174.8,167.3c-17.6,17.8-49.7,33.7-49.7,33.7V79c0-5.8-1.8-11.6-5.4-16.2c-3.5-4.5-9.1-8.6-17.9-8.6
+	C91.5,54.2,86,60.3,86,70s9.7,16.3,19.8,18.3c2.1,0.4,5.3,0.6,5.3,0.6v11c-0.6,0-1.3,0.1-1.9,0.1c-17.5,0-34.9-14-34.9-30.5
+	S84.9,43,102.4,43c17.4,0,33.6,12.5,33.6,40s0.1,100.2,0.1,100.2c7.2-4,18.8-11.1,28.9-20.1c16.2-14.3-5.4-38.4-5.4-38.4l8.5-7.4
+	C168,117.3,193.7,148.2,174.8,167.3"/>
+</svg>

@@ -1,0 +1,8 @@
+<?xml version="1.0" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="38.4pt" height="38.4pt">
+ <g>
+  <path transform="translate(7, 4)" fill="#ecf0f1" d="M0 0L0 40L34 40L34 11L23 0Z"/>
+  <path transform="matrix(3.54331 0 0 3.54331 29.9999 3.99986)" fill="#ffffff" fill-opacity=".753" d="M0 0L0 3.10449L3.10446 3.10449Z"/>
+  <path transform="matrix(3.54331 0 0 3.54331 29.9999 15)" fill="#000000" fill-opacity=".118" d="M3.10446 3.10449L3.10446 0L0 0Z"/>
+ </g>
+</svg>

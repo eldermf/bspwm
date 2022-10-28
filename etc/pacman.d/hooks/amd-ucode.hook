@@ -1,0 +1,11 @@
+[Trigger]
+Operation = Install
+Operation = Upgrade
+Operation = Remove
+Type = Package
+Target = amd-ucode
+
+[Action]
+Description = ArcoLinux pacman hook to keep an up-to-date grub
+When = PostTransaction
+Exec = /bin/sh -c "grub-mkconfig -o /boot/grub/grub.cfg"

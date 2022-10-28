@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 23.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   xmlns:i="&amp;ns_ai;"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="레이어_1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 256 256"
+   style="enable-background:new 0 0 256 256;"
+   xml:space="preserve"
+   sodipodi:docname="nvidia.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"><metadata
+   id="metadata21"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+   id="defs19"><clipPath
+     id="clip1"><path
+       id="path831"
+       d="M 67 0 L 315 0 L 315 240.019531 L 67 240.019531 Z M 67 0 " /></clipPath><clipPath
+     id="clip2"><path
+       id="path834"
+       d="M 167 40 L 399.949219 40 L 399.949219 159 L 167 159 Z M 167 40 " /></clipPath></defs><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="857"
+   inkscape:window-height="480"
+   id="namedview17"
+   showgrid="false"
+   inkscape:zoom="0.921875"
+   inkscape:cx="128"
+   inkscape:cy="128"
+   inkscape:window-x="481"
+   inkscape:window-y="338"
+   inkscape:window-maximized="0"
+   inkscape:current-layer="switch14" />
+<style
+   type="text/css"
+   id="style2">
+	.st0{opacity:0.1;}
+	.st1{fill:#FAFAFA;}
+</style>
+<switch
+   id="switch14">
+	<foreignObject
+   requiredExtensions="http://ns.adobe.com/AdobeIllustrator/10.0/"
+   x="0"
+   y="0"
+   width="1"
+   height="1">
+		
+	</foreignObject>
+	<g
+   i:extraneous="self"
+   id="g12">
+		<g
+   class="st0"
+   id="g8"
+   style="opacity:0.1;fill:#000000;fill-opacity:1">
+			<g
+   id="g6"
+   style="fill:#000000;fill-opacity:1">
+				<path
+   d="m 132.8,0.5 c 6.2,0 18.1,0.3 33.3,2.3 23.7,3.1 45.1,11.5 60.8,26.3 v 0 c 14.7,15.7 23.1,37.1 26.2,60.9 3,22.6 2.3,38 2.3,38 0,0 0.7,15.4 -2.3,38 -3.1,23.7 -11.5,45.1 -26.3,60.9 v 0 c -15.7,14.8 -37.1,23.1 -60.8,26.3 -15.1,2 -27,2.3 -33.2,2.3 -3.1,0 -4.7,-0.1 -4.7,-0.1 0,0 -1.7,0.1 -4.7,0.1 -6.2,0 -18.1,-0.3 -33.2,-2.3 -23.7,-3.1 -45.1,-11.5 -60.8,-26.3 v 0 C 14.4,211.2 6,189.8 2.9,166 -0.1,143.4 0.6,128 0.6,128 0.6,128 -0.1,112.6 2.9,90 6,66.2 14.4,44.8 29.2,29.1 v 0 C 44.8,14.3 66.3,5.9 89.9,2.8 c 15.1,-2 27,-2.3 33.3,-2.3 3.1,0 4.7,0.1 4.7,0.1 0,0 1.8,-0.1 4.9,-0.1"
+   id="path4"
+   inkscape:connector-curvature="0"
+   style="fill:#000000;fill-opacity:1" />
+			</g>
+		</g>
+		<path
+   class="st1"
+   d="M 251.7,90.4 C 248.6,67 240.3,45.8 225.7,30.3 v 0 C 210.1,15.7 189,7.4 165.6,4.3 143.2,1.3 128,2 128,2 128,2 112.8,1.3 90.4,4.3 67,7.4 45.8,15.7 30.3,30.3 15.7,45.8 7.5,67 4.3,90.4 1.3,112.7 2.1,128 2.1,128 c 0,0 -0.7,15.2 2.2,37.6 3.1,23.4 11.4,44.6 26,60.1 v 0 c 15.6,14.6 36.7,22.9 60.1,26 22.3,3 37.6,2.2 37.6,2.2 0,0 15.2,0.7 37.6,-2.2 23.4,-3.1 44.6,-11.4 60.1,-26 v 0 c 14.6,-15.6 22.9,-36.7 26,-60.1 3,-22.3 2.2,-37.6 2.2,-37.6 0,0 0.8,-15.2 -2.2,-37.6"
+   id="path10"
+   inkscape:connector-curvature="0"
+   style="fill:#333333" />
+	</g>
+</switch>
+
+<g
+   id="surface1"
+   transform="matrix(0.50006348,0,0,0.50006348,28,70.665331)"
+   style="fill:#1eb800;fill-opacity:1"><g
+     id="g841"
+     clip-path="url(#clip1)"
+     style="clip-rule:nonzero;fill:#1eb800;fill-opacity:1"><path
+       id="path839"
+       d="m 232.16797,0.0390625 c -51,0 -90.83594,12.6562505 -126.83594,30.3242185 C 82.832031,41.53125 67.332031,55.53125 67.332031,55.53125 c 0,0 7.167969,30.324219 40.499999,74.82422 26.33203,32.66015 47.33203,48.66015 72.5,66.99219 42.83203,29.83203 78,42.66015 78,42.66015 0,0 1.66797,1.1836 -28.16406,-20.14844 -22.85938,-17.4375 -24,-19.5 -24,-19.5 0,0 -2.16797,-6.83593 -4,-13.16796 -59.83203,-40.99219 -80,-112.156254 -80,-112.156254 0,0 64.33203,-53.484375 147.33203,-50.984375 l 3.33594,-8.992187 c 0,0 12.5,-1.832031 41.66406,-1 -41.83203,-15.5 -82.33203,-14.0195315 -82.33203,-14.0195315"
+       style="fill:#1eb800;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       inkscape:connector-curvature="0" /></g><g
+     id="g845"
+     clip-path="url(#clip2)"
+     style="clip-rule:nonzero;fill:#1eb800;fill-opacity:1"><path
+       id="path843"
+       d="M 307.33594,40.390625 C 219.5,39.722656 167.83203,93.054688 167.83203,93.054688 c 0,0 8.66797,35.660152 39.00391,65.828122 C 202.5,127.05078 203,103.38281 203,103.38281 c 0,0 43.16797,-40.160154 104.33594,-39.160154 57.33203,0.332032 92.61328,33 92.61328,33 0,0 -22.78125,-29.667968 -58.94922,-47.332031 0,0 3.5,-4.164062 7.5,-5.664062 0,0 -18.83203,-3.5 -41.16406,-3.835938"
+       style="fill:#1eb800;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       inkscape:connector-curvature="0" /></g><path
+     id="path847"
+     d="m 54.5,116.71484 c -12.332031,7.33204 -24.667969,2.5 -54.5,14.66407 38.167969,40.66406 70,64.49609 119.83203,84.99609 H 137.5 c 0,0 30.66406,6.83594 64.66406,13.5 C 105.33594,193.04297 54.5,116.71484 54.5,116.71484"
+     style="fill:#1eb800;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     inkscape:connector-curvature="0" /></g></svg>

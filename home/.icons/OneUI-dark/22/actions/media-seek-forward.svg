@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="22"
+   height="22"
+   viewBox="0 0 5.8208332 5.8208335"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c4e8f9ed74, 2021-05-24)"
+   sodipodi:docname="media-seek-forward.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     height="22px"
+     inkscape:zoom="18.363636"
+     inkscape:cx="7.8960396"
+     inkscape:cy="13.831683"
+     inkscape:window-width="1432"
+     inkscape:window-height="831"
+     inkscape:window-x="397"
+     inkscape:window-y="125"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg5"
+     inkscape:lockguides="true"
+     showguides="false" />
+  <defs
+     id="defs2">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+        .ColorScheme-Text { color:#dedede; }
+    </style>
+  </defs>
+  <path
+     id="path984"
+     style="fill:currentColor;stroke-width:2.08603"
+     class="ColorScheme-Text"
+     d="M 3.5800781 6 C 3.2740517 6.0041635 3 6.2468825 3 6.6132812 L 3 15.388672 C 3 15.877197 3.5338883 16.14198 3.9335938 15.919922 C 6.00343 14.725973 8.0686515 13.532411 10.136719 12.337891 L 10.136719 15.388672 C 10.136719 15.877197 10.668654 16.141981 11.068359 15.919922 C 13.614321 14.451329 16.153469 12.983777 18.699219 11.513672 C 19.098925 11.291617 19.098925 10.671274 18.699219 10.449219 C 16.136167 8.9842179 13.584606 7.5418963 11.023438 6.078125 C 10.923507 6.0226302 10.818803 5.9986148 10.716797 6 C 10.41077 6.0041635 10.136719 6.2468825 10.136719 6.6132812 L 10.136719 9.6347656 C 8.0524737 8.4473598 5.972155 7.2700039 3.8867188 6.078125 C 3.786788 6.0226302 3.6820838 5.9986148 3.5800781 6 z "
+     transform="scale(0.26458333)" />
+</svg>

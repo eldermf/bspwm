@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="16"
+   height="16"
+   viewBox="0 0 4.2333332 4.2333335"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c4e8f9ed74, 2021-05-24)"
+   sodipodi:docname="media-playback-start.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     height="22px"
+     inkscape:zoom="36.125"
+     inkscape:cx="8"
+     inkscape:cy="8"
+     inkscape:window-width="1432"
+     inkscape:window-height="831"
+     inkscape:window-x="269"
+     inkscape:window-y="108"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg5"
+     inkscape:lockguides="true"
+     showguides="false" />
+  <defs
+     id="defs2">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+        .ColorScheme-Text { color:#dedede; }
+    </style>
+  </defs>
+  <path
+     d="m 0.90699427,0.52918476 c 0.032387,-4.398e-4 0.065845,0.00712 0.097573,0.024736 0.8131707,0.46474744 1.6234952,0.92287304 2.437264,1.38801084 0.1269066,0.070503 0.1269066,0.2675672 0,0.3380697 C 2.6335561,2.7467594 1.8273392,3.2127284 1.0189965,3.6790066 0.89209007,3.7495105 0.72284167,3.6650782 0.72284167,3.5099715 V 0.72364366 c 0,-0.1163316 0.086989,-0.193137 0.1841526,-0.1944589 z"
+     style="fill:currentColor;stroke-width:0.662313"
+     class="ColorScheme-Text"
+     id="path984" />
+</svg>

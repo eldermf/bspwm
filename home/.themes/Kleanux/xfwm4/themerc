@@ -1,0 +1,14 @@
+active_text_color=#FFFFFF
+inactive_text_color=#808080
+button_layout=O|HMC
+button_offset=2
+button_spacing=2
+button_vertical_offset=4
+full_width_title=false
+inactive-title-color
+title_alignment=left
+title_shadow_active=true
+title_shadow_inactive=false
+title_vertical_offset_active=0
+title_vertical_offset_inactive=1
+show_app_icon=true

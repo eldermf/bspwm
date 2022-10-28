@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="22"
+   height="22"
+   viewBox="0 0 5.8208332 5.8208335"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c4e8f9ed74, 2021-05-24)"
+   sodipodi:docname="user-home.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     height="22px"
+     inkscape:zoom="11.313709"
+     inkscape:cx="19.622213"
+     inkscape:cy="5.3033009"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+        .ColorScheme-Text { color:#dedede; }
+    </style>
+  </defs>
+  <path
+     id="rect846-0"
+     style="fill:currentColor;stroke-width:1.1745"
+     class="ColorScheme-Text"
+     d="M 10.974609 3 C 10.706652 3.00606 10.439727 3.1063103 10.234375 3.2988281 L 3.3183594 9.7832031 C 2.9866983 10.187568 3.0079899 10.369308 3 10.724609 L 3 11 C 3.012771 12.828745 3 14.557076 3 16.390625 C 3 17.83569 4.1643097 19 5.609375 19 L 7.5253906 19 C 7.7820126 18.987105 7.9871055 18.782011 8 18.525391 L 8 12 C 8 11.615453 8.3088125 11.306641 8.6933594 11.306641 L 13.306641 11.306641 C 13.691188 11.306641 14 11.615455 14 12 L 14 18.525391 C 14.012895 18.782013 14.217988 18.987106 14.474609 19 L 16.390625 19 C 17.83569 19 19 17.83569 19 16.390625 C 18.985298 14.554095 19 12.81641 19 11 L 19 10.724609 C 18.992 10.369308 19.0133 10.187568 18.681641 9.7832031 L 17.037109 8.2421875 L 11.765625 3.2988281 C 11.553646 3.1000998 11.276641 3 11 3 C 10.9914 3 10.983259 2.9998045 10.974609 3 z "
+     transform="scale(0.26458333)" />
+</svg>

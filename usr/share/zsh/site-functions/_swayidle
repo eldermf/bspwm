@@ -1,0 +1,23 @@
+#compdef swayidle
+#
+# Completion script for swayidle
+#
+
+local events=('timeout:Execute timeout command if there is no activity for timeout seconds'
+			  'before-sleep:Execute before-sleep command before sleep')
+local resume=('resume:Execute command when there is activity again')
+
+if (($#words <= 2)); then
+	_describe -t "events" 'swayidle' events
+	_arguments -C \
+			   '(-h --help)'{-h,--help}'[Show help message and quit]' \
+			   '(-d)'-d'[Enable debug output]' \
+			   '(-w)'-w'[Wait for command to finish executing before continuing]'
+
+elif  [[ "$words[-3]" == before-sleep || "$words[-3]" == resume ]]; then
+	_describe -t "events" 'swayidle' events
+
+elif [[ "$words[-4]" == timeout ]]; then
+		_describe -t "events" 'swayidle' events
+		_describe -t "resume" 'swayidle' resume
+fi

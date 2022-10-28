@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   id="svg7384"
+   height="24"
+   width="24"
+   version="1.1"
+   sodipodi:docname="battery-missing.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xml:space="preserve"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"><defs
+     id="defs12" /><sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="711"
+     id="namedview10"
+     showgrid="false"
+     inkscape:zoom="14.75"
+     inkscape:cx="-3.1186441"
+     inkscape:cy="8.1694915"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer9"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" /><metadata
+     id="metadata90"><rdf:RDF><cc:Work
+         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title>Gnome Symbolic Icon Theme</dc:title></cc:Work></rdf:RDF></metadata><title
+     id="title9167">Gnome Symbolic Icon Theme</title><g
+     id="layer9"
+     transform="rotate(90,133.0003,99.998825)"><g
+       id="g302"
+       transform="matrix(0.93617021,0,0,0.93617021,2.8213615,-14.297362)"><path
+         inkscape:connector-curvature="0"
+         id="path19592-2-3"
+         style="color:#bebebe;fill:#dfdfdf;fill-opacity:1;stroke-width:1.03214"
+         d="m 41.059824,252.98576 c -0.07357,-2.18814 0.935634,-4.12408 2.24893,-4.24664 1.120585,1.3e-4 1.536708,0.50321 2.273957,2.12338 0.114853,0.25437 0.200384,0.4338 0.249881,0.49961 0.04965,0.0659 0.02655,0.0416 0.02495,0.0416 0.422447,-0.009 0.799619,0.62835 0.799619,1.33229 0,0.70393 -0.377172,1.3416 -0.799619,1.33228 -0.401721,0 -0.754377,-0.29876 -0.999524,-0.62451 -0.245187,-0.32576 -0.412907,-0.65456 -0.549738,-0.95758 -0.128387,-0.27185 -0.307486,-0.61395 -0.524751,-0.91595 -0.08964,-0.12453 -0.246011,-0.17185 -0.349833,-0.16653 h -0.02495 c -0.450378,0.0421 -0.77491,0.66516 -0.749642,1.41556 0.02527,0.75038 0.349241,1.2911 0.799618,1.24901 v 2.66455 c -1.313294,0.12253 -2.325212,-1.5589 -2.398857,-3.74703 z m 6.396954,-0.2498 c 0,-0.7358 0.358006,-1.33229 0.79962,-1.33229 0.441613,0 0.799619,0.59649 0.799619,1.33229 0,0.73578 -0.358006,1.33228 -0.799619,1.33228 -0.441614,0 -0.79962,-0.5965 -0.79962,-1.33228 z" /><path
+         id="path313"
+         style="fill:#dfdfdf;fill-opacity:1;stroke-width:1.23684"
+         d="m 37.634978,259.3789 c 0,2.04574 1.664791,3.71053 3.710526,3.71053 h 7.421053 c 2.045734,0 3.710526,-1.66479 3.710526,-3.71053 v -13.60526 c 0,-2.04574 -1.664792,-3.71053 -3.710526,-3.71053 0,-1.36547 -1.108212,-2.47368 -2.473684,-2.47368 h -2.473684 c -1.365473,0 -2.473685,1.10821 -2.473685,2.47368 -2.045735,0 -3.710526,1.66479 -3.710526,3.71053 z m 2.473684,0 v -13.60526 c 0,-0.6815 0.554105,-1.23684 1.236842,-1.23684 h 7.421053 c 0.682736,0 1.236842,0.55534 1.236842,1.23684 v 13.60526 c 0,0.6815 -0.554106,1.23685 -1.236842,1.23685 h -7.421053 c -0.682737,0 -1.236842,-0.55535 -1.236842,-1.23685 z" /></g></g></svg>

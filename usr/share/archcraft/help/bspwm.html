@@ -1,0 +1,611 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>Bspwm</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload">
+		<!-- Wrapper -->
+			<div id="wrapper" class="divided">
+				<!-- BSPWM -->
+					<section class="wrapper style1 align-center">
+						<div class="inner">
+							<h2>Bspwm</h2>
+							<p>bspwm is a popular tiling window manager. It represents windows as the leaves of a full binary tree.
+							bspwm supports multiple monitors and is configured and controlled through messages.
+							It's an alternate window manager in Archcraft.</p>
+							<div class="index align-left">
+							<!-- Images -->
+								<section>
+									<div class="content">
+										<span class="image fit"><img src="images/bspwm/1.png" alt="" /></span>
+									</div>
+								</section>
+					</section>
+				<!-- Desktop -->
+					<section class="spotlight style1 orient-right content-align-left image-position-center onscroll-image-fade-in" id="first">
+						<div class="content">
+							<h2>Desktop</h2>
+							<p>This is your bspwm desktop. It's just a standalone tiling window manager, So there are no desktop icons, Right click functionality.
+							A statusbar (<b>polybar</b>) on the top, shows your various system information, window modes in bspwm and lets you switch between workspaces, control music, volume, brightness, connect to a network, etc.</p>
+							<ul class="actions stacked">
+								<li><a href="#apps-keys" class="button smooth-scroll-middle">View Keybindings</a></li>
+							</ul>
+						</div>
+						<div class="image">
+							<img src="images/bsp_1.png" alt="" />
+						</div>
+					</section>
+				<!-- Menu and Applets -->
+					<section class="spotlight style1 orient-left content-align-left image-position-center onscroll-image-fade-in">
+						<div class="content">
+							<h2>Menu and Applets</h2>
+							<p>A <code>launcher</code> lets you run apps, <code>runner</code> lets you execute commands quickly.
+							The <code>networkmanager</code> applet lets you manage network connections.
+							<code>music</code> applet lets you control the music player,
+							<code>powermenu</code> applet lets you manage the session.
+							<code>appsasroot</code> applet lets you run apps as root and
+							<code>window</code> applet shows you all running apps.</p>
+							<ul class="actions stacked">
+								<li><a href="#menu-keys" class="button smooth-scroll-middle">View Keybindings</a></li>
+							</ul>
+						</div>
+						<div class="image">
+							<img src="images/bsp_2.png" alt="" />
+						</div>
+					</section>
+				<!-- Applications -->
+					<section class="spotlight style1 orient-right content-align-left image-position-center onscroll-image-fade-in">
+						<div class="content">
+							<h2>Applications</h2>
+							<p><code>PcmanFM</code> is the default file manager,
+							<code>Geany</code> is the text editor,
+							<code>Firefox</code> is the web browser,
+							<code>Alacritty</code> is the terminal emulator and <code>Xfce Terminal</code> as alternate terminal in case alacritty doesn't work for you.
+							There are pre-configured command line applications (<code>vim</code>, <code>ranger</code>, <code>htop</code>, <code>ncmpcpp</code>) installed too.</p>
+							<ul class="actions stacked">
+								<li><a href="#apps-keys" class="button smooth-scroll-middle">View Keybindings</a></li>
+							</ul>
+						</div>
+						<div class="image">
+							<img src="images/bsp_3.png" alt="" />
+						</div>
+					</section>
+				<!-- Hardware Keys -->
+					<section class="spotlight style1 orient-left content-align-left image-position-center onscroll-image-fade-in">
+						<div class="content">
+							<h2>Hardware Keys</h2>
+							<p>Laptop's function keys are fully configured to use.
+							You can easily control the speaker/headphone <code>volume</code>, Screen <code>brightness</code>.
+							You can control music playback (default to mpd).
+							With <code>print</code> key, You can take <code>screenshots</code> of the desktop (with delays), focused window or selected area.</p>
+							<ul class="actions stacked">
+								<li><a href="#hw-keys" class="button smooth-scroll-middle">View Keybindings</a></li>
+							</ul>
+						</div>
+						<div class="image">
+							<img src="images/bsp_4.png" alt="" />
+						</div>
+					</section>
+				<!-- Window Management -->
+					<section class="spotlight style1 orient-right content-align-left image-position-center onscroll-image-fade-in">
+						<div class="content">
+							<h2>Window Management</h2>
+							<p>By default, Windows are tiled in bspwm, But windows can also be used in floating mode, full screen mode, etc.
+							Windows can be tiled horizontally and vertically. You can even pre-select the ratio of tiles.
+							Windows can be expanded and shrunk, Marked and locked.
+							You can set the specific rules for a particular application, based on the class name of it's window.</p>
+							<ul class="actions stacked">
+								<li><a href="#wm-keys" class="button smooth-scroll-middle">View Keybindings</a></li>
+							</ul>
+						</div>
+						<div class="image">
+							<img src="images/bsp_5.png" alt="" />
+						</div>
+					</section>
+				<!-- Keybindings -->
+					<section class="wrapper style1 align-center">
+						<div class="inner">
+							<h2>Keybindings</h2>
+							<p>Here's a list of some important keybinds you need to know for operating bspwm easily. If you want to view, modify or add new keybinds, Edit <code>~/.config/sxhkd/sxhkdrc</code> file.</p>
+							<ul class="actions kbd">
+								<li><a class="button"><code>W</code> : Window</a></li>
+								<li><a class="button"><code>C</code> : Control</a></li>
+								<li><a class="button"><code>S</code> : Shift</a></li>
+								<li><a class="button"><code>A</code> : Alt</a></li>
+							</ul>
+							<div class="index align-left">
+								<!-- Table -->
+									<section>
+										<div class="content">
+
+											<h3 id="apps-keys">Applications</h3>
+											<div class="table-wrapper">
+												<table class="alt">
+													<thead>
+														<tr>
+															<th>Keybind</th>
+															<th>Action</th>
+														</tr>
+													</thead>
+													<tbody>
+														<tr>
+															<td><code>W + Return</code></td>
+															<td>Open terminal (alacritty)</td>
+														</tr>
+														<tr>
+															<td><code>W + S + Return</code></td>
+															<td>Open floating terminal</td>
+														</tr>
+														<tr>
+															<td><code>W + t</code></td>
+															<td>Open fullscreen terminal</td>
+														</tr>
+														<tr>
+															<td><code>W + S + f</code></td>
+															<td>Open file manager (pcmanfm)</td>
+														</tr>
+														<tr>
+															<td><code>W + S + e</code></td>
+															<td>Open text editor (geany)</td>
+														</tr>
+														<tr>
+															<td><code>W + S + w</code></td>
+															<td>Open web browser (firefox)</td>
+														</tr>
+														<tr>
+															<td><code>C + A + v</code></td>
+															<td>Open vim (CLI text editor)</td>
+														</tr>
+														<tr>
+															<td><code>C + A + n</code></td>
+															<td>Open neovim (CLI text editor)</td>
+														</tr>
+														<tr>
+															<td><code>C + A + r</code></td>
+															<td>Open ranger (CLI file manager)</td>
+														</tr>
+														<tr>
+															<td><code>C + A + h</code></td>
+															<td>Open htop (system monitor)</td>
+														</tr>
+														<tr>
+															<td><code>C + A + b</code></td>
+															<td>Open bashtop (system monitor)</td>
+														</tr>
+													</tbody>
+												</table>
+											</div>
+
+											<h3 id="menu-keys">Menu and Applets</h3>
+											<div class="table-wrapper">
+												<table class="alt">
+													<thead>
+														<tr>
+															<th>Keybind</th>
+															<th>Action</th>
+														</tr>
+													</thead>
+													<tbody>
+														<tr>
+															<td><code>Window</code></td>
+															<td>Open application launcher</td>
+														</tr>
+														<tr>
+															<td><code>W + r</code></td>
+															<td>Open Apps as root applet</td>
+														</tr>
+														<tr>
+															<td><code>W + n</code></td>
+															<td>Open network manager</td>
+														</tr>
+														<tr>
+															<td><code>W + m</code></td>
+															<td>Open media player</td>
+														</tr>
+														<tr>
+															<td><code>W + x</code></td>
+															<td>Open powermenu</td>
+														</tr>
+														<tr>
+															<td><code>W + s</code></td>
+															<td>Open screenshot menu</td>
+														</tr>
+														<tr>
+															<td><code>W + i</code></td>
+															<td>Open internet menu</td>
+														</tr>
+														<tr>
+															<td><code>W + w</code></td>
+															<td>Open windows applet</td>
+														</tr>
+													</tbody>
+												</table>
+											</div>
+
+											<h3 id="wm-keys">Window Management</h3>
+											<div class="table-wrapper">
+												<table class="alt">
+													<thead>
+														<tr>
+															<th>Keybind</th>
+															<th>Action</th>
+														</tr>
+													</thead>
+													<tbody>
+														<tr>
+															<td><code>W + 1..8</code></td>
+															<td>Switch to respective workspace</td>
+														</tr>
+														<tr>
+															<td><code>W + S + 1..8</code></td>
+															<td>Move focused window to respective workspace</td>
+														</tr>
+														<tr>
+															<td><code>W + Left/Right/Up/Down</code></td>
+															<td>Move focused window to respective edge of the screen</td>
+														</tr>
+														<tr>
+															<td><code>W + h/v/q</code></td>
+															<td>Split tiles horizontally / vertically / cancel</td>
+														</tr>
+														<tr>
+															<td><code>W + C + 1..9</code></td>
+															<td>Preselect the ratio of tile</td>
+														</tr>
+														<tr>
+															<td><code>W + f</code></td>
+															<td>Toggle fullscreen mode</td>
+														</tr>
+														<tr>
+															<td><code>W + Space</code></td>
+															<td>Toggle between floating and tiled mode</td>
+														</tr>
+														<tr>
+															<td><code>W + S + Space</code></td>
+															<td>Toggle between pseudo tile and tiled mode</td>
+														</tr>
+														<tr>
+															<td><code>W + C + m/x/y/z</code></td>
+															<td>Set node flag, marked/locked/sticky/private</td>
+														</tr>
+														<tr>
+															<td><code>W + c</code></td>
+															<td>Close application</td>
+														</tr>
+														<tr>
+															<td><code>W + S + c</code></td>
+															<td>Kill window</td>
+														</tr>
+														<tr>
+															<td><code>C + A + Escape</code></td>
+															<td>Kill application</td>
+														</tr>
+														<tr>
+															<td><code>W + Escape</code></td>
+															<td>Reload Keybinding config</td>
+														</tr>
+														<tr>
+															<td><code>C + A + l</code></td>
+															<td>Lock the screen</td>
+														</tr>
+														<tr>
+															<td><code>C + S + r</code></td>
+															<td>Restart bspwm</td>
+														</tr>
+														<tr>
+															<td><code>C + S + q</code></td>
+															<td>Quit bspwm</td>
+														</tr>
+													</tbody>
+												</table>
+											</div>
+
+											<h3 id="hw-keys">Hardware Keys</h3>
+											<div class="table-wrapper">
+												<table class="alt">
+													<thead>
+														<tr>
+															<th>Keybind</th>
+															<th>Action</th>
+														</tr>
+													</thead>
+													<tbody>
+														<tr>
+															<td><code>Print</code></td>
+															<td>Take screenshot of desktop</td>
+														</tr>
+														<tr>
+															<td><code>C + Print</code></td>
+															<td>Take screenshot of focused window</td>
+														</tr>
+														<tr>
+															<td><code>A + Print</code></td>
+															<td>Take screenshot of desktop in 5 seconds</td>
+														</tr>
+														<tr>
+															<td><code>S + Print</code></td>
+															<td>Take screenshot of desktop in 10 seconds</td>
+														</tr>
+														<tr>
+															<td><code>C + A + Print</code></td>
+															<td>Take screenshot of selected area</td>
+														</tr>
+														<tr>
+															<td><code>XF86AudioRaiseVolume</code></td>
+															<td>Increase Volume</td>
+														</tr>
+														<tr>
+															<td><code>XF86AudioLowerVolume</code></td>
+															<td>Decrease Volume</td>
+														</tr>
+														<tr>
+															<td><code>XF86AudioMute</code></td>
+															<td>Mute</td>
+														</tr>
+														<tr>
+															<td><code>XF86Audio + Next/Prev/Play/Stop</code></td>
+															<td>Media Controls (MPD)</td>
+														</tr>
+														<tr>
+															<td><code>XF86MonBrightnessUp</code></td>
+															<td>Increase Screen Brightness</td>
+														</tr>
+														<tr>
+															<td><code>XF86MonBrightnessDown</code></td>
+															<td>Decrease Screen Brightness</td>
+														</tr>
+													</tbody>
+												</table>
+											</div>
+
+										</div>
+									</section>
+							</div>
+						</div>
+					</section>
+				<!-- Gallery -->
+					<section class="wrapper style1 align-center">
+						<div class="inner">
+							<h2>Styles / Themes</h2>
+							<p>There are <b>20 styles</b> available for bspwm, for every mood and environment, whether it's Dark or Light. Check the screenshots below.
+							<br>To Change the style, Press <code>CTRL + ALT + T</code> and select the style from the applet.</p>
+						</div>
+						<!-- Bspwm -->
+							<div class="gallery style2 medium lightbox">
+								<article>
+									<a href="images/bspwm/1.png" class="image">
+										<img src="images/thumbs/bspwm/1.png" alt="" />
+									</a>
+									<div class="caption">
+										<h3>Nord</h3>
+										<ul class="actions fixed">
+											<li><span class="button small">Bspwm</span></li>
+										</ul>
+									</div>
+								</article>
+								<article>
+									<a href="images/bspwm/2.png" class="image">
+										<img src="images/thumbs/bspwm/2.png" alt="" />
+									</a>
+									<div class="caption">
+										<h3>Beach</h3>
+										<ul class="actions fixed">
+											<li><span class="button small">Bspwm</span></li>
+										</ul>
+									</div>
+								</article>
+								<article>
+									<a href="images/bspwm/3.png" class="image">
+										<img src="images/thumbs/bspwm/3.png" alt="" />
+									</a>
+									<div class="caption">
+										<h3>Blade</h3>
+										<ul class="actions fixed">
+											<li><span class="button small">Bspwm</span></li>
+										</ul>
+									</div>
+								</article>
+								<article>
+									<a href="images/bspwm/4.png" class="image">
+										<img src="images/thumbs/bspwm/4.png" alt="" />
+									</a>
+									<div class="caption">
+										<h3>Bouquet</h3>
+										<ul class="actions fixed">
+											<li><span class="button small">Bspwm</span></li>
+										</ul>
+									</div>
+								</article>
+								<article>
+									<a href="images/bspwm/5.png" class="image">
+										<img src="images/thumbs/bspwm/5.png" alt="" />
+									</a>
+									<div class="caption">
+										<h3>Cyberpunk</h3>
+										<ul class="actions fixed">
+											<li><span class="button small">Bspwm</span></li>
+										</ul>
+									</div>
+								</article>
+								<article>
+									<a href="images/bspwm/6.png" class="image">
+										<img src="images/thumbs/bspwm/6.png" alt="" />
+									</a>
+									<div class="caption">
+										<h3>Dracula</h3>
+										<ul class="actions fixed">
+											<li><span class="button small">Bspwm</span></li>
+										</ul>
+									</div>
+								</article>
+								<article>
+									<a href="images/bspwm/7.png" class="image">
+										<img src="images/thumbs/bspwm/7.png" alt="" />
+									</a>
+									<div class="caption">
+										<h3>Flowers</h3>
+										<ul class="actions fixed">
+											<li><span class="button small">Bspwm</span></li>
+										</ul>
+									</div>
+								</article>
+								<article>
+									<a href="images/bspwm/8.png" class="image">
+										<img src="images/thumbs/bspwm/8.png" alt="" />
+									</a>
+									<div class="caption">
+										<h3>Forest</h3>
+										<ul class="actions fixed">
+											<li><span class="button small">Bspwm</span></li>
+										</ul>
+									</div>
+								</article>
+								<article>
+									<a href="images/bspwm/9.png" class="image">
+										<img src="images/thumbs/bspwm/9.png" alt="" />
+									</a>
+									<div class="caption">
+										<h3>Groot</h3>
+										<ul class="actions fixed">
+											<li><span class="button small">Bspwm</span></li>
+										</ul>
+									</div>
+								</article>
+								<article>
+									<a href="images/bspwm/10.png" class="image">
+										<img src="images/thumbs/bspwm/10.png" alt="" />
+									</a>
+									<div class="caption">
+										<h3>Gruvbox</h3>
+										<ul class="actions fixed">
+											<li><span class="button small">Bspwm</span></li>
+										</ul>
+									</div>
+								</article>
+								<article>
+									<a href="images/bspwm/11.png" class="image">
+										<img src="images/thumbs/bspwm/11.png" alt="" />
+									</a>
+									<div class="caption">
+										<h3>Hack</h3>
+										<ul class="actions fixed">
+											<li><span class="button small">Bspwm</span></li>
+										</ul>
+									</div>
+								</article>
+								<article>
+									<a href="images/bspwm/12.png" class="image">
+										<img src="images/thumbs/bspwm/12.png" alt="" />
+									</a>
+									<div class="caption">
+										<h3>Keyboards</h3>
+										<ul class="actions fixed">
+											<li><span class="button small">Bspwm</span></li>
+										</ul>
+									</div>
+								</article>
+								<article>
+									<a href="images/bspwm/13.png" class="image">
+										<img src="images/thumbs/bspwm/13.png" alt="" />
+									</a>
+									<div class="caption">
+										<h3>Light</h3>
+										<ul class="actions fixed">
+											<li><span class="button small">Bspwm</span></li>
+										</ul>
+									</div>
+								</article>
+								<article>
+									<a href="images/bspwm/14.png" class="image">
+										<img src="images/thumbs/bspwm/14.png" alt="" />
+									</a>
+									<div class="caption">
+										<h3>Manhattan</h3>
+										<ul class="actions fixed">
+											<li><span class="button small">Bspwm</span></li>
+										</ul>
+									</div>
+								</article>
+								<article>
+									<a href="images/bspwm/15.png" class="image">
+										<img src="images/thumbs/bspwm/15.png" alt="" />
+									</a>
+									<div class="caption">
+										<h3>Nordic</h3>
+										<ul class="actions fixed">
+											<li><span class="button small">Bspwm</span></li>
+										</ul>
+									</div>
+								</article>
+								<article>
+									<a href="images/bspwm/16.png" class="image">
+										<img src="images/thumbs/bspwm/16.png" alt="" />
+									</a>
+									<div class="caption">
+										<h3>Pastel</h3>
+										<ul class="actions fixed">
+											<li><span class="button small">Bspwm</span></li>
+										</ul>
+									</div>
+								</article>
+								<article>
+									<a href="images/bspwm/17.png" class="image">
+										<img src="images/thumbs/bspwm/17.png" alt="" />
+									</a>
+									<div class="caption">
+										<h3>Rick</h3>
+										<ul class="actions fixed">
+											<li><span class="button small">Bspwm</span></li>
+										</ul>
+									</div>
+								</article>
+								<article>
+									<a href="images/bspwm/18.png" class="image">
+										<img src="images/thumbs/bspwm/18.png" alt="" />
+									</a>
+									<div class="caption">
+										<h3>Spark</h3>
+										<ul class="actions fixed">
+											<li><span class="button small">Bspwm</span></li>
+										</ul>
+									</div>
+								</article>
+								<article>
+									<a href="images/bspwm/19.png" class="image">
+										<img src="images/thumbs/bspwm/19.png" alt="" />
+									</a>
+									<div class="caption">
+										<h3>Tealize</h3>
+										<ul class="actions fixed">
+											<li><span class="button small">Bspwm</span></li>
+										</ul>
+									</div>
+								</article>
+								<article>
+									<a href="images/bspwm/20.png" class="image">
+										<img src="images/thumbs/bspwm/20.png" alt="" />
+									</a>
+									<div class="caption">
+										<h3>Wave</h3>
+										<ul class="actions fixed">
+											<li><span class="button small">Bspwm</span></li>
+										</ul>
+									</div>
+								</article>
+							</div>
+					</section>
+			</div>
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+	</body>
+</html>

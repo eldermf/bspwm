@@ -1,0 +1,333 @@
+#
+# wm independent hotkeys
+#
+
+# terminal emulator
+super + Return
+	kitty
+	
+# program launcher
+super + @space
+	dmenu_run
+
+# make sxhkd reload its configuration files:
+super + Escape
+	pkill -USR1 -x sxhkd
+
+#
+# bspwm hotkeys
+#
+
+# quit/restart bspwm
+super + alt + {q,r}
+	bspc {quit,wm -r}
+
+# close and kill
+super + {w,q}
+	bspc node -{c,k}
+
+# alternate between the tiled and monocle layout
+super + m
+	bspc desktop -l next
+
+# send the newest marked node to the newest preselected node
+super + y
+	bspc node newest.marked.local -n newest.!automatic.local
+
+# swap the current node and the biggest window
+super + g
+	bspc node -s biggest.window
+
+#
+# state/flags
+#
+
+# set the window state
+super + {t,shift + t,s,f}
+	bspc node -t {tiled,pseudo_tiled,floating,fullscreen}
+
+# set the node flags
+super + ctrl + {m,x,y,z}
+	bspc node -g {marked,locked,sticky,private}
+
+#
+# focus/swap
+#
+
+# focus the node in the given direction
+super + {_,shift + }{h,j,k,l}
+	bspc node -{f,s} {west,south,north,east}
+
+# focus the node for the given path jump
+super + {p,b,comma,period}
+	bspc node -f @{parent,brother,first,second}
+
+# focus the next/previous window in the current desktop
+super + {_,shift + }c
+	bspc node -f {next,prev}.local.!hidden.window
+
+# focus the next/previous desktop in the current monitor
+super + bracket{left,right}
+	bspc desktop -f {prev,next}.local
+
+# focus the last node/desktop
+super + {grave,Tab}
+	bspc {node,desktop} -f last
+
+# focus the older or newer node in the focus history
+super + {o,i}
+	bspc wm -h off; \
+	bspc node {older,newer} -f; \
+	bspc wm -h on
+
+# focus or send to the given desktop
+super + {_,shift + }{1-9,0}
+	bspc {desktop -f,node -d} '^{1-9,10}'
+
+#
+# preselect
+#
+
+# preselect the direction
+super + ctrl + {h,j,k,l}
+	bspc node -p {west,south,north,east}
+
+# preselect the ratio
+super + ctrl + {1-9}
+	bspc node -o 0.{1-9}
+
+# cancel the preselection for the focused node
+super + ctrl + space
+	bspc node -p cancel
+
+# cancel the preselection for the focused desktop
+super + ctrl + shift + space
+	bspc query -N -d | xargs -I id -n 1 bspc node id -p cancel
+
+#
+# move/resize
+#
+
+# expand a window by moving one of its side outward
+super + alt + {h,j,k,l}
+	bspc node -z {left -20 0,bottom 0 20,top 0 -20,right 20 0}
+
+# contract a window by moving one of its side inward
+super + alt + shift + {h,j,k,l}
+	bspc node -z {right -20 0,top 0 20,bottom 0 -20,left 20 0}
+
+# move a floating window
+super + {Left,Down,Up,Right}
+	bspc node -v {-20 0,0 20,0 -20,20 0}
+
+####################
+#### My HOTKEYS ####
+####################
+
+##---------- Rofi Launcher & Menus ----------##
+
+# Rofi - Pogram launcher
+super + d
+	~/.config/rofi/launchers/type-5/launcher.sh
+	
+#	rofi -modi drun -show drun -line-padding 4 \
+#                -columns 2 -padding 50 -hide-scrollbar -terminal alacritty \
+#                -show-icons -drun-icon-theme "Arc-X-D" -font "MonacoB 12"
+
+# Dmenu
+super + shift + d
+	dmenu_run -i -nb '#191919' -nf '#fea63c' -sb '#fea63c' -sf '#191919' -fn 'NotoMonoRegular:bold:pixelsize=14'
+
+# show open window
+super + ctrl + d
+	rofi -modi drun -show window -line-padding 4 \
+                -columns 2 -padding 50 -hide-scrollbar -terminal kitty \
+                -show-icons -drun-icon-theme "Arc-X-D" -font "Droid Sans Regular 10"
+
+# Rofi Any Main Apps Launcher
+alt + F1
+	sh ~/.config/rofi/applets/bin/apps.sh
+	
+# Menu Xfce4-appfinder Collapsed
+alt + F2
+    xfce4-appfinder --collapsed 
+
+# Menu Xfce4-appfinder     
+alt + F3
+  	xfce4-appfinder
+
+# Rofi Quicklinks    
+alt + F4
+	sh ~/.config/rofi/applets/bin/quicklinks.sh
+	
+# Rofi MPD Launcher
+alt + F5
+	sh ~/.config/rofi/applets/bin/mpd.sh
+
+# Rofi Any Main Apps Launcher AS ROOT
+alt + F6
+	sh ~/.config/rofi/applets/bin/appasroot.sh 
+
+# Rofi Powermenu 
+super + x
+     	~/.config/rofi/powermenu/type-1/powermenu.sh
+     	
+## Rofi Menus/Applets
+#alt + {w,m,x,r,s}
+#	sh ~/.config/bspwm/rofi/bin/{windows,mpd,powermenu,asroot,screenshot}
+
+##---------- Applications ----------##
+
+# Launch Apps
+super + shift + {f,w,e}
+	{thunar,firefox,geany}
+
+# Terminal Apps
+ctrl + alt + {v,r,h}
+	kitty -e {vim,ranger,htop}
+
+# Color Picker
+super + p
+	color-gpick
+
+# Lockscreen
+ctrl + alt + l
+    betterlockscreen --lock
+
+##---------- System Keys ----------##
+
+# Take a screenshot
+#Print
+#	takeshot --now
+	
+# Take screenshot in 5 second
+alt + Print	
+	takeshot --in5
+
+# Take screenshot in 10 second
+shift + Print	
+	takeshot --in10
+
+# Take screenshot of active window
+ctrl + Print
+	takeshot --win
+
+# Take screenshot of area
+ctrl + alt + Print
+	takeshot --area
+
+# show ssh sesssions
+alt + shift + d
+	rofi -modi drun -show ssh -line-padding 4 \
+                -columns 2 -padding 50 -hide-scrollbar -terminal xfce4-terminal \
+                -show-icons -drun-icon-theme "Arc-X-D" -font "Droid Sans Regular 10"
+
+ctrl + alt + t
+	terminator
+
+ctrl + alt + g
+	google-chrome-stable -no-default-browser-check
+
+ctrl + alt + f
+	firefox
+
+ctrl + alt + u
+	pavucontrol 
+
+ctrl + alt + b
+  	thunar
+
+ctrl + alt + i
+	nitrogen
+
+super + r
+	alacritty -e ranger
+	
+super + n
+	nemo
+
+# Screenshot
+Print
+  	flameshot gui 
+
+
+#################################################################
+#     MULTIMEDIA KEYS
+#################################################################
+
+#Raises volume
+XF86AudioRaiseVolume
+    amixer set Master 10%+
+
+#Lowers volume
+XF86AudioLowerVolume
+    amixer set Master 10%-
+
+#Mute
+XF86AudioMute
+    amixer -D pulse set Master 1+ toggle
+
+#Playerctl works for Pragha, Spotify and others
+#Delete the line for playerctl if you want to use mpc
+#and replace it with the corresponding code
+#mpc works for e.g.ncmpcpp
+#mpc toggle
+#mpc next
+#mpc prev
+#mpc stop
+
+#PLAY
+XF86AudioPlay
+    playerctl play-pause
+
+#Next
+XF86AudioNext
+    playerctl next
+
+#previous
+XF86AudioPrev
+    playerctl previous
+
+#Stop
+XF86AudioStop
+    playerctl stop
+
+#Brightness up
+XF86MonBrightnessUp
+    xbacklight -inc 10
+
+#Brightness down
+XF86MonBrightnessDown
+    xbacklight -dec 10
+
+#Thunar Home Explorer
+XF86Explorer
+    thunar 
+
+#Web Browser
+XF86HomePage
+    firefox
+
+#Search programs
+XF86Search
+    xfce4-appfinder 
+
+#Audio Music
+XF86Tools
+    clementine
+    
+# silencia ou retorna o volume (alt + pressionar botão do meio do mouse)
+alt + @button2
+  volume -t
+
+# aumenta o volume (alt + roda do mouse acima)
+alt + @button4
+  volume -a
+
+# diminui o volume (alt +  roda do mouse abaixo)
+alt + @button5
+  volume -b
+
+# Toggle right click context menu.
+~button3
+	  xqp 0 $(xdo id -N Bspwm -n root) && jgmenu_run 

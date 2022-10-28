@@ -1,0 +1,28 @@
+[global_config]
+  title_use_system_font = False
+  title_font = Monaco for Powerline 11
+[keybindings]
+[profiles]
+  [[default]]
+    background_color = "#231c37"
+    background_darkness = 0.95
+    background_type = transparent
+    cursor_shape = underline
+    cursor_color = "#ff7800"
+    cursor_color_fg = False
+    font = Monaco for Powerline 11
+    foreground_color = "#fdf8a3"
+    show_titlebar = False
+    scrollbar_position = hidden
+    scroll_on_output = True
+    scrollback_lines = 2000
+    use_system_font = False
+[layouts]
+  [[default]]
+    [[[window0]]]
+      type = Window
+      parent = ""
+    [[[child1]]]
+      type = Terminal
+      parent = window0
+[plugins]

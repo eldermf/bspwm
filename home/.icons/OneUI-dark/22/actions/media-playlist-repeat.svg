@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="22"
+   height="22"
+   viewBox="0 0 5.8208332 5.8208335"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c4e8f9ed74, 2021-05-24)"
+   sodipodi:docname="repeat.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     height="22px"
+     inkscape:zoom="19.035714"
+     inkscape:cx="4.9380864"
+     inkscape:cy="14.971858"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+        .ColorScheme-Text { color:#dedede; }
+    </style>
+  </defs>
+  <path
+     id="rect948"
+     style="fill:currentColor;stroke-width:1.16081"
+     class="ColorScheme-Text"
+     d="M 15.318359 3.359375 L 14.611328 4.0664062 L 16.292969 5.7480469 L 6.4277344 5.7480469 C 4.8055853 5.7480469 4 6.5536322 4 8.1757812 L 4 12.498047 C 4 12.774189 4.2238564 12.998047 4.5 12.998047 C 4.7761425 12.998047 5 12.77419 5 12.498047 L 5 8.3984375 C 5 7.2068485 5.4588016 6.7480469 6.6503906 6.7480469 L 16.292969 6.7480469 L 14.611328 8.4316406 L 15.318359 9.1386719 L 17.835938 6.6210938 C 17.842287 6.6153489 17.847393 6.6076853 17.853516 6.6015625 C 18.049386 6.4056945 18.049386 6.0904015 17.853516 5.8945312 L 15.318359 3.359375 z M 10.632812 8 L 8.3417969 14 L 9.15625 14 L 9.7207031 12.433594 L 12.234375 12.433594 L 12.808594 14 L 13.619141 14 L 11.324219 8 L 10.632812 8 z M 10.978516 8.9765625 L 12 11.783203 L 9.9609375 11.783203 L 10.978516 8.9765625 z M 17.5 9.4980469 C 17.223858 9.4980469 17 9.7219033 17 9.9980469 L 17 14.099609 C 17 15.291198 16.541198 15.748047 15.349609 15.748047 L 5.7070312 15.748047 L 7.390625 14.066406 L 6.6835938 13.359375 L 4.1464844 15.894531 C 3.9506141 16.090402 3.9506141 16.405696 4.1464844 16.601562 C 4.1526072 16.607685 4.159666 16.613396 4.1660156 16.619141 L 6.6835938 19.138672 L 7.390625 18.431641 L 5.7070312 16.748047 L 15.572266 16.748047 C 17.194415 16.748047 18 15.944414 18 14.322266 L 18 9.9980469 C 18 9.7219048 17.776144 9.4980469 17.5 9.4980469 z "
+     transform="scale(0.26458333)" />
+</svg>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="22"
+   height="22"
+   viewBox="0 0 5.8208332 5.8208335"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c4e8f9ed74, 2021-05-24)"
+   sodipodi:docname="media-skip-backward.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     height="22px"
+     inkscape:zoom="26.272727"
+     inkscape:cx="3.4636679"
+     inkscape:cy="14.083045"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5"
+     inkscape:lockguides="true"
+     showguides="true" />
+  <defs
+     id="defs2">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+        .ColorScheme-Text { color:#dedede; }
+    </style>
+  </defs>
+  <path
+     id="path984"
+     style="fill:currentColor;stroke-width:0.551929"
+     class="ColorScheme-Text"
+     d="m 4.0798543,1.5875 c 0.080969,0.0011 0.153479,0.065321 0.153479,0.162264 v 2.3218221 c 0,0.1292556 -0.1412579,0.199313 -0.2470134,0.1405599 C 3.3183842,3.8268589 2.6522267,3.4418153 1.984375,3.0561441 v 0.9787517 c 0,0.1099344 -0.088503,0.1984375 -0.1984375,0.1984375 C 1.6760031,4.2333333 1.5875,4.1448303 1.5875,4.0348958 V 1.7859375 C 1.5875,1.676003 1.6760031,1.5875 1.7859375,1.5875 c 0.1099344,0 0.1984375,0.088503 0.1984375,0.1984375 v 0.968933 C 2.6567688,2.37061 3.3267751,1.992205 3.9987223,1.6081706 4.0251613,1.5934855 4.0528653,1.5871336 4.0798543,1.5875 Z" />
+</svg>

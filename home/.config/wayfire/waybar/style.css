@@ -1,0 +1,324 @@
+/* 
+ * Copyright (C) 2020-2022 Aditya Shakya <adi1090x@gmail.com>
+ * Everyone is permitted to copy and distribute copies of this file under GNU-GPL3
+*/
+
+/** ********** Fonts ********** **/
+* {
+    font-family: "MONACO", "Iosevka Nerd Font", archcraft, sans-serif;
+    font-size: 13px;
+}
+
+
+/** ********** Waybar Window ********** **/
+window#waybar {
+    background-color: #1E212A;
+	color: #E0DEF4;
+    border-top: 2px solid #2D3039;
+    transition-property: background-color;
+    transition-duration: .5s;
+}
+
+window#waybar.hidden {
+    opacity: 0.5;
+}
+
+window#waybar.empty {
+}
+window#waybar.solo {
+}
+window#waybar.thunar {
+}
+window#waybar.geany {
+}
+
+/** ********** Backlight ********** **/
+#backlight {
+    border-bottom: 2px solid #9CCFD8;
+}
+
+/** ********** Battery ********** **/
+#battery {
+    border-bottom: 2px solid #31748F;
+}
+
+#battery.charging {
+}
+
+#battery.plugged {
+}
+
+@keyframes blink {
+    to {
+        color: #EB6F92;
+    }
+}
+
+#battery.critical:not(.charging) {
+    color: #ffffff;
+    border-bottom: 2px solid #EB6F92;
+    animation-name: blink;
+    animation-duration: 0.5s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+}
+
+/** ********** Clock ********** **/
+#clock {
+    border-bottom: 2px solid #C4A7E7;
+    color: #FFFFFF;
+}
+
+/** ********** Sway ********** **/
+#workspaces {
+	background-color: #2F333C;
+	color: #FFFFFF;
+	border-radius: 0px 12px 0px 0px;
+	padding: 4px;
+}
+
+#workspaces button {
+	color: #FFFFFF;
+	padding: 2px 6px;
+}
+
+#workspaces button:hover {
+	background-color: #1B1F28;
+	color: #FFFFFF;
+	border: 0px solid #1B1F28;
+	border-radius: 12px;
+	padding: 2px 6px;
+}
+
+#workspaces button.visible {
+	background-image: linear-gradient(to right, #62AEEF , #98C379);
+}
+
+#workspaces button.focused {
+	background-image: linear-gradient(to right, #E06B74 , #C778DD);
+}
+
+#workspaces button.urgent {
+	background-image: linear-gradient(to right, #E06B74 , #E5C07A);
+}
+
+#workspaces button.persistent {
+	background-image: linear-gradient(to right, #E5C07A , #C778DD);
+}
+
+#workspaces button.visible,
+#workspaces button.focused,
+#workspaces button.urgent,
+#workspaces button.persistent {
+	color: #1B1F28;
+	border-radius: 12px;
+	padding: 2px 6px;
+}
+
+#workspaces button.current_output {
+}
+
+#workspaces button#sway-workspace-1 {
+}
+
+/* If workspaces is the leftmost module, omit left margin */
+.modules-left > widget:first-child > #workspaces {
+    margin-left: 0;
+}
+
+/* If workspaces is the rightmost module, omit right margin */
+.modules-right > widget:last-child > #workspaces {
+    margin-right: 0;
+}
+
+#mode {
+	background-color: #C778DD;
+    font-weight: bold;
+}
+
+#window {
+	background-color: #2A2E37;
+	color: #FFFFFF;
+}
+window#waybar.empty #window {
+	background-color: transparent;
+}
+
+/** ********** Weather ********** **/
+#custom-weather {
+	background-color: #2A2E37;
+	color: #FFFFFF;
+	border-bottom: 2px solid #AB2294;
+}
+
+/** ********** Disk ********** **/
+#disk {
+	background-color: #2A2E37;
+	color: #FFFFFF;
+	border-bottom: 2px solid #b4befe;
+}
+
+/** ********** Memory ********** **/
+#memory {
+	background-color: #2A2E37;
+	color: #FFFFFF;
+	border-bottom: 2px solid #eba0ac;
+}
+
+/** ********** Updater ********** **/
+#custom-updater {
+	background-color: #2A2E37;
+	color: #E6ED7B;
+	border-bottom: 2px solid #A61C28
+}
+
+/** ********** Tray ********** **/
+#tray {
+    border-bottom: 2px solid #EBBCBA;
+}
+#tray > .passive {
+    -gtk-icon-effect: dim;
+}
+#tray > .needs-attention {
+    -gtk-icon-effect: highlight;
+}
+#tray > .active {
+}
+
+/** ********** MPD ********** **/
+#mpd {
+	color: #FFFFFF;
+}
+
+#mpd.disconnected {
+	background-color: #EB6F92;
+	color: #1E212A;
+}
+
+#mpd.stopped {
+	background-image: linear-gradient(to right, #EB6F92 , #EBBCBA);
+	color: #1E212A;
+}
+
+#mpd.playing {
+	background-image: linear-gradient(to right, #9CCFD8 , #C4A7E7);
+	color: #1E212A;
+}
+
+#mpd.paused {
+    border-bottom: 2px solid #EBBCBA;
+}
+
+/** ********** Pulseaudio ********** **/
+#pulseaudio {
+    border-bottom: 2px solid #EB6F92;
+    color: #FFFFFF;
+}
+
+#pulseaudio.bluetooth {
+    border-bottom: 2px solid #F6C177;
+}
+#pulseaudio.muted {
+	background-color: #6E6A86;
+	color: #FFFFFF;
+    border-bottom: 2px solid #FFFFFF;
+}
+
+/** ********** Network ********** **/
+#network {
+    border-bottom: 2px solid #F6C177;
+    color: #FFFFFF;
+}
+
+#network.disconnected {
+	background-color: #6E6A86;
+	color: #FFFFFF;
+    border-bottom: 2px solid #FFFFFF;
+}
+#network.disabled {
+	background-color: #EB6F92;
+	color: #1E212A;
+}
+#network.linked {
+}
+#network.ethernet {
+}
+#network.wifi {
+}
+
+/** ********** Taskbar ********** **/
+#taskbar {
+/*    background-color: #2D3039;	*/
+	border-radius: 12px 12px 0px 0px;
+	margin-top: 6px;
+	padding: 0px 4px;
+}
+#taskbar button {
+	border-radius: 0px;
+	margin: 0px 4px;
+	padding: 0px 4px;
+}
+#taskbar button:hover {
+	background-color: #6E6A86;
+}
+#taskbar button.maximized {
+	border-bottom: 2px solid #F6C177;
+}
+#taskbar button.minimized {
+	border-bottom: 2px solid #EB6F92;
+}
+#taskbar button.active {
+	border-bottom: 2px solid #9CCFD8;
+}
+#taskbar button.fullscreen {
+	border-bottom: 2px solid #C4A7E7;
+}
+
+/** ********** Workspace ********** **/
+/*#workspaces
+#workspaces button
+#workspaces button.active
+#workspaces button.urgent
+#workspaces button.hidden */
+
+/** ********** Custom ********** **/
+#custom-menu, #custom-power {
+	color: #1E212A;
+	margin: 6px 0px;
+	border-radius: 2px;
+}
+
+#custom-menu {
+	background-color: #9CCFD8;
+	margin-left: 6px;
+	padding: 2px 6px;
+	font-size: 16px;
+}
+
+#custom-power {
+	background-color: #EB6F92;
+	margin-right: 6px;
+	padding: 2px 8px;
+	font-size: 20px;
+}
+
+/** Common style **/
+#backlight, 
+#battery,
+#clock,
+#disk,
+#memory,
+#custom-updater,
+#custom-weather,
+#mode,
+#window,
+#tray,
+#mpd,
+#pulseaudio,
+#network {
+    background-color: #2D3039;
+	border-radius: 2px;
+	margin: 6px 0px;
+	padding: 2px 10px;
+}

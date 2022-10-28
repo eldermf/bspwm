@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
+	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
+	<!ENTITY ns_graphs "http://ns.adobe.com/Graphs/1.0/">
+	<!ENTITY ns_vars "http://ns.adobe.com/Variables/1.0/">
+	<!ENTITY ns_imrep "http://ns.adobe.com/ImageReplacement/1.0/">
+	<!ENTITY ns_sfw "http://ns.adobe.com/SaveForWeb/1.0/">
+	<!ENTITY ns_custom "http://ns.adobe.com/GenericCustomNamespace/1.0/">
+	<!ENTITY ns_adobe_xpath "http://ns.adobe.com/XPath/1.0/">
+]>
+<svg version="1.1"
+	 id="레이어_1" xmlns:x="&ns_extend;" xmlns:i="&ns_ai;" xmlns:graph="&ns_graphs;" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:ns="&ns_sfw;" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 256 256"
+	 style="enable-background:new 0 0 256 256;" xml:space="preserve">
+<style type="text/css">
+	.st0{opacity:0.1;}
+	.st1{fill:none;}
+	.st2{fill:#999999;}
+	.st3{fill:#FFFFFF;}
+</style>
+<metadata  id="metadata4">
+	<ns:sfw>
+		<ns:slices></ns:slices>
+		<ns:sliceSourceBounds  bottomLeftOrigin="true" height="262.1" width="262" x="-3" y="-3"></ns:sliceSourceBounds>
+	</ns:sfw>
+	<rdf:RDF>
+		<cc:Work  rdf:about="">
+			<dc:format>image/svg+xml</dc:format>
+			<dc:type  rdf:resource="http://purl.org/dc/dcmitype/StillImage"></dc:type>
+		</cc:Work>
+	</rdf:RDF>
+	<sfw  xmlns="&ns_sfw;">
+		<slices></slices>
+		<sliceSourceBounds  bottomLeftOrigin="true" height="255" width="255.1" x="0.4" y="0.5"></sliceSourceBounds>
+	</sfw>
+</metadata>
+<defs>
+	
+	
+		<meshgradient  gradientTransform="translate(-138.56305,44.564356)" gradientUnits="userSpaceOnUse" id="meshgradient943" inkscape:collect="always" x="0.42913222" y="0.5">
+		<meshrow  id="meshrow12591">
+			<meshpatch  id="meshpatch12593">
+				<stop  id="stop12595" path="c 21.4614,0  42.9228,0  64.3842,-7.10543e-15" style="stop-color:#9b7cff;stop-opacity:1"></stop>
+				<stop  id="stop12597" path="c -6.16882,102.839  55.7995,74.577  61.2745,120.923" style="stop-color:#9879e0;stop-opacity:1">
+					</stop>
+				
+					<stop  id="stop12599" path="c -23.2405,-0.667916  -94.4028,15.6117  -125.661,11.9116" style="stop-color:#7689e3;stop-opacity:1">
+					</stop>
+				<stop  id="stop12601" path="c 0,-44.2766  0,-88.5532  0.0023,-132.835" style="stop-color:#5e6fe4;stop-opacity:1"></stop>
+			</meshpatch>
+			<meshpatch  id="meshpatch12603">
+				<stop  id="stop12605" path="c 63.5857,7.10543e-15  127.171,7.10543e-15  190.758,-2.22045e-16"></stop>
+				
+					<stop  id="stop12607" path="c -1.7053e-13,44.2766  -4.31249,10.0667  -5.68434e-14,42.6991" style="stop-color:#8b91e2;stop-opacity:1">
+					</stop>
+				
+					<stop  id="stop12609" path="c -36.8487,62.9625  -63.6447,51.7522  -129.484,78.2239" style="stop-color:#6ba2e4;stop-opacity:1">
+					</stop>
+			</meshpatch>
+		</meshrow>
+		<meshrow  id="meshrow12611">
+			<meshpatch  id="meshpatch12613">
+				<stop  id="stop12615" path="c -20.5686,77.4715  -55.7993,95.4255  -61.274,134.076"></stop>
+				
+					<stop  id="stop12617" path="c -21.4615,2.84217e-14  -42.923,2.84217e-14  -64.3847,2.84217e-14" style="stop-color:#5a89e4;stop-opacity:1">
+					</stop>
+				<stop  id="stop12619" path="c 0,-40.7234  0,-81.4468  -0.0023,-122.164" style="stop-color:#5f7ce4;stop-opacity:1"></stop>
+			</meshpatch>
+			<meshpatch  id="meshpatch12621">
+				<stop  id="stop12623" path="c -6.54665e-05,40.7237  -1.13687e-13,171.579  -5.68434e-14,212.301"></stop>
+				<stop  id="stop12625" path="c -63.5858,0.0011  -127.171,0.0011  -190.757,-0.0011" style="stop-color:#4edae6;stop-opacity:1">
+					</stop>
+			</meshpatch>
+		</meshrow>
+	</meshgradient>
+	<meshgradient  gradientUnits="userSpaceOnUse" id="meshgradient964" inkscape:collect="always" x="0.42913223" y="0.5">
+		<meshrow  id="meshrow976">
+			<meshpatch  id="meshpatch974">
+				<stop  id="stop966" path="c 85.0471,0  170.094,0  255.142,0" style="stop-color:#9b7ce0;stop-opacity:1"></stop>
+				<stop  id="stop968" path="c 0,44.2766  0,88.5532  0,132.83" style="stop-color:#8b92e3;stop-opacity:1"></stop>
+				<stop  id="stop970" path="c -85.0475,0  -170.094,0  -255.142,0" style="stop-color:#6ba2e4;stop-opacity:1"></stop>
+				<stop  id="stop972" path="c 0,-44.2766  0,-88.5532  0,-132.83" style="stop-color:#5e6de4;stop-opacity:1"></stop>
+			</meshpatch>
+		</meshrow>
+		<meshrow  id="meshrow987">
+			<meshpatch  id="meshpatch985">
+				<stop  id="stop979" path="c 0,40.7234  0,81.4468  0,122.17"></stop>
+				<stop  id="stop981" path="c -85.0471,0  -170.094,0  -255.142,0" style="stop-color:#4eb1e6;stop-opacity:1"></stop>
+				<stop  id="stop983" path="c 0,-40.7234  0,-81.4468  0,-122.17" style="stop-color:#607fe4;stop-opacity:1"></stop>
+			</meshpatch>
+		</meshrow>
+	</meshgradient>
+	<meshgradient  gradientUnits="userSpaceOnUse" id="meshgradient1103" inkscape:collect="always" x="0.42913223" y="0.5">
+		<meshrow  id="meshrow1105">
+			<meshpatch  id="meshpatch1107">
+				<stop  id="stop1109" path="c 85.0471,0  170.094,0  255.142,0" style="stop-color:#9b7ce0;stop-opacity:1"></stop>
+				<stop  id="stop1111" path="c 0,44.2766  0,88.5532  0,132.83" style="stop-color:#8b92e3;stop-opacity:1"></stop>
+				<stop  id="stop1113" path="c -85.0475,0  -170.094,0  -255.142,0" style="stop-color:#6ba2e4;stop-opacity:1"></stop>
+				<stop  id="stop1115" path="c 0,-44.2766  0,-88.5532  0,-132.83" style="stop-color:#4a3b6b;stop-opacity:1"></stop>
+			</meshpatch>
+		</meshrow>
+		<meshrow  id="meshrow1117">
+			<meshpatch  id="meshpatch1119">
+				<stop  id="stop1121" path="c 0,40.7234  0,81.4468  0,122.17"></stop>
+				<stop  id="stop1123" path="c -85.0471,0  -170.094,0  -255.142,0" style="stop-color:#4eb1e6;stop-opacity:1"></stop>
+				<stop  id="stop1125" path="c 0,-40.7234  0,-81.4468  0,-122.17" style="stop-color:#000000;stop-opacity:1"></stop>
+			</meshpatch>
+		</meshrow>
+	</meshgradient>
+</defs>
+<sodipodi:namedview  bordercolor="#666666" borderopacity="1" gridtolerance="10" guidetolerance="10" id="namedview45" inkscape:current-layer="레이어_1" inkscape:cx="147.7648" inkscape:cy="96.184618" inkscape:document-rotation="0" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-height="1017" inkscape:window-maximized="1" inkscape:window-width="1920" inkscape:window-x="-8" inkscape:window-y="-8" inkscape:zoom="2.3478155" objecttolerance="10" pagecolor="#ffffff" showgrid="false">
+	</sodipodi:namedview>
+<g id="g10" class="st0">
+	<g id="g8">
+		<path id="path6" d="M132.7,0.5c6.2,0,18.1,0.3,33.3,2.3c23.7,3.1,45.1,11.5,60.9,26.3l0,0C241.6,44.8,250,66.3,253.2,90
+			c3,22.6,2.3,38,2.3,38s0.7,15.4-2.3,38c-3.1,23.7-11.5,45.1-26.3,60.9l0,0c-15.7,14.8-37.2,23.2-60.9,26.3
+			c-15.1,2-27.1,2.3-33.3,2.3c-3.1,0-4.7-0.1-4.7-0.1s-1.7,0.1-4.7,0.1c-6.2,0-18.1-0.3-33.3-2.3c-23.7-3.1-45.1-11.5-60.9-26.3l0,0
+			C14.4,211.2,6,189.7,2.8,166c-3-22.6-2.3-38-2.3-38s-0.7-15.4,2.3-38C6,66.3,14.4,44.8,29.1,29.1l0,0C44.9,14.3,66.3,5.9,90,2.8
+			c15.2-2,27.1-2.3,33.3-2.3c3.1,0,4.7,0.1,4.7,0.1S129.7,0.5,132.7,0.5"/>
+	</g>
+</g>
+<g id="g10-1" transform="matrix(0.9876628,0,0,0.9876628,138.43273,-42.579388)">
+	<g id="g8-5">
+		<path id="path6-9" class="st1" d="M-5.9,45.1c6.2,0,18.1,0.3,33.3,2.3c23.7,3.1,45.1,11.5,60.9,26.3l0,0
+			c14.7,15.7,23.1,37.2,26.3,60.9c3,22.6,2.3,38,2.3,38s0.7,15.4-2.3,38c-3.1,23.7-11.5,45.1-26.3,60.9l0,0
+			c-15.7,14.8-37.2,23.2-60.9,26.3c-15.1,2-27.1,2.3-33.3,2.3c-3.1,0-4.7-0.1-4.7-0.1s-1.7,0.1-4.7,0.1c-6.2,0-18.1-0.3-33.3-2.3
+			c-23.7-3.1-45.1-11.5-60.9-26.3l0,0c-14.7-15.7-23.1-37.2-26.3-60.9c-3-22.6-2.3-38-2.3-38s-0.7-15.4,2.3-38
+			c3.2-23.7,11.6-45.2,26.3-60.9l0,0c15.8-14.8,37.2-23.2,60.9-26.3c15.2-2,27.1-2.3,33.3-2.3c3.1,0,4.7,0.1,4.7,0.1
+			S-8.9,45.1-5.9,45.1"/>
+	</g>
+</g>
+<path class="st2" d="M251.7,90.4c-3.1-23.4-11.4-44.6-26-60.1l0,0c-15.6-14.6-36.7-22.9-60.1-26C143.2,1.3,128,2,128,2
+	s-15.2-0.7-37.6,2.3c-23.4,3-44.6,11.4-60.1,26C15.7,45.7,7.5,67,4.3,90.4c-3,22.3-2.2,37.6-2.2,37.6s-0.7,15.2,2.2,37.6
+	c3.1,23.4,11.4,44.6,26,60.1l0,0c15.6,14.6,36.7,22.9,60.1,26c22.3,3,37.6,2.2,37.6,2.2s15.2,0.7,37.6-2.2
+	c23.4-3.1,44.6-11.4,60.1-26l0,0c14.6-15.6,22.9-36.7,26-60.1c3-22.3,2.2-37.6,2.2-37.6S254.7,112.7,251.7,90.4L251.7,90.4z"/>
+<path class="st3" d="M219,196.8c-1.3-1.1-2.7-2.2-3.9-3.3c-0.2-0.3-1.1-1.5-1-3.2c0.1-1.5,0.7-2.4,1-2.8c0.7-0.3,2.1-2,4.4-4.1
+	c1.6-1.4,1.8-3.7,0.8-5.5l-4.2-7.3c-1.1-2-3.6-2.7-5.7-1.8c-1.5,0.5-2.9,1-4.4,1.6c-0.5,0.1-1.8,0.3-3.3-0.4c-2.1-1-2.9-2.9-3-3.3
+	c0.1-0.8-0.6-2.4-0.8-4.7c-0.2-2.3-2.1-4-4.4-4h-8.5c-2.1,0-3.8,1.4-4.4,3.5c-0.4,1.7-0.7,3.3-1.2,5c-0.1,0.6-0.5,1.6-1.4,2.4
+	c-1.9,1.8-4.7,1.3-4.9,1.3c-0.7-0.4-2.4-0.7-4.4-1.6c-2.1-1-4.5-0.1-5.7,1.8l-4.2,7.3c-1,1.8-0.7,4.1,0.8,5.5
+	c1.3,1.3,2.7,2.5,4.1,3.8c0.3,0.3,1.3,1.4,1.4,3.2c0.1,2.1-1.2,3.5-1.4,3.8c-0.7,0.3-1.8,1.8-3.6,3.1s-2.4,3.8-1.3,5.8l4.2,7.3
+	c1,1.8,3.2,2.7,5.2,2c1.8-0.6,3.8-1.1,5.6-1.7c0.5-0.1,1.6-0.3,2.7,0.1c2.1,0.7,2.9,2.9,3,3.2c-0.1,0.7,0.6,2.4,1.1,4.8
+	c0.4,2,2.3,3.5,4.4,3.5h8.5c2.3,0,4.2-1.7,4.4-4c0.3-1.5,0.5-3,0.8-4.5c0.2-0.5,0.7-1.3,1.6-2.1c1.6-1.3,3.5-1.3,4.1-1.2
+	c0.6,0.4,2.7,0.8,5.5,1.7c2,0.6,4.1-0.2,5.2-2l4.2-7.3C221.3,200.6,220.8,198.1,219,196.8z M178.7,190.1c0-6.1,4.9-11.1,11.1-11.1
+	c6.1,0,11.1,4.9,11.1,11.1s-4.9,11.1-11.1,11.1C183.7,201.2,178.7,196.2,178.7,190.1z"/>
+<g>
+	<path class="st3" d="M63.6,180.2v-31.3h89.7v0c13.2,0,26.4,0,39.5,0c4.8,0,8.6-3.9,8.6-8.6v0c0-0.2,0-0.3-0.1-0.4
+		c0-0.1,0-0.2,0-0.3c-7.6-25.5-15.3-51-22.9-76.5c-1.2-3.9-4.7-6.5-8.8-6.5H86c-4.1,0-7.6,2.7-8.8,6.6c-7.6,25.5-15.1,51-22.7,76.4
+		c0,0.2-0.1,0.4-0.1,0.6v39.2c0,11,9,20,20,20h67.2v-9.2h-68C68.1,190.2,63.6,185.7,63.6,180.2z M86,69.1c0.6-2,2.5-3.4,4.6-3.4
+		h75.2c2.1,0,4,1.4,4.6,3.4c7.2,23.5,14.4,47.1,21.6,70.6c-4,0-8,0-12,0h-26.7H65.6H64L86,69.1z"/>
+</g>
+</svg>
